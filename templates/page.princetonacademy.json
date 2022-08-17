@@ -1,0 +1,496 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "2022",
+            "title": "Summer Camps",
+            "title_size": 60,
+            "subheading": "at the Princeton Academy Campus in Princeton, NJ",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-07T100711.289.png",
+            "image_mobile": "shopify:\/\/shop_images\/Business-_Desktop.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16457510578393c693": {
+      "type": "logo-list",
+      "blocks": {
+        "164575105794b45f06-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PASH_logo_H_transparent.png",
+            "link": ""
+          }
+        },
+        "164575105794b45f06-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pre-university_website_graphics_2.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164575105794b45f06-0",
+        "164575105794b45f06-1"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 100,
+        "divider": false
+      }
+    },
+    "1645734592cb798d6f": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "164573459135652973-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9_AM_1920_x_600_px.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "164573459135652973-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1645724717e2d4a5a7": {
+      "type": "rich-text",
+      "blocks": {
+        "16457247177935eba9-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "16457247177935eba9-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This summer, <strong>Ivy Camps USA<\/strong> is excited to partner with <strong>Princeton Academy of the Sacred Heart<\/strong> to provide <strong>in-person summer camps<\/strong> in the <strong>Princeton, NJ<\/strong> area! These camps begin <strong>July 18th<\/strong>, and will be available for students in <strong>grades K-8. <\/strong>Each camp topic is only available for one week this summer, so be sure to <strong>sign up soon to secure your spot!<\/strong><\/p><p><em><strong>All camps are $675 per week ($19 per hour)<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16457247177935eba9-0",
+        "16457247177935eba9-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1645816512aba9e66f": {
+      "type": "rich-text",
+      "blocks": {
+        "1645816512c8721d72-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Step 1: View our schedule"
+          }
+        },
+        "1645816512c8721d72-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>All camps will run from 9 AM to 4 PM Monday-Friday.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645816512c8721d72-0",
+        "1645816512c8721d72-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16457510608c074375": {
+      "type": "advanced-content",
+      "blocks": {
+        "16457510609bff477a-1": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "4ae60abb-a460-4a72-a69e-78ea86455d20": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Princeton_Header.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16457510609bff477a-1",
+        "4ae60abb-a460-4a72-a69e-78ea86455d20"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1645816578e621ef8d": {
+      "type": "rich-text",
+      "blocks": {
+        "1645816578e822cc19-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Step 2: Register for camp"
+          }
+        }
+      },
+      "block_order": [
+        "1645816578e822cc19-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16458157474ba5a80e": {
+      "type": "featured-product",
+      "blocks": {
+        "164581574718efd7ec-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "164581574718efd7ec-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "164581574718efd7ec-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "164581574718efd7ec-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "164581574718efd7ec-0",
+        "164581574718efd7ec-1",
+        "164581574718efd7ec-2",
+        "164581574718efd7ec-3"
+      ],
+      "settings": {
+        "featured_product": "summer-camp-2022",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1645722558fbedd4f1": {
+      "type": "text-columns",
+      "blocks": {
+        "164572255876d57a61-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/1_7aac0723-2969-4d2a-ae79-98cc70d0893d.png",
+            "image_width": 400,
+            "title": "Building a Business",
+            "text": "<p>This camp will allow students to students will cultivate their own business ideas and gain foundational skills in business, leadership, finance, and design.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "164572255876d57a61-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/2_f14f44d1-0a20-477a-b6f0-8b0a41fb4e37.png",
+            "image_width": 400,
+            "title": "Cryptocurrency & Blockchain",
+            "text": "<p>In this camp, students will explore cryptocurrency and blockchain through our comprehensive program, designed by an investment expert!  <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9928806f-a19e-4b97-9fcd-215094b8a167": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/6_4f895021-07df-4aa8-9eeb-31528a681ea8.png",
+            "image_width": 400,
+            "title": "Exploring STEM",
+            "text": "<p>In this camp, students will explore the world of science, technology, engineering, and mathematics through projects utilizing Legos, Minecraft, and more.  <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164572255876d57a61-0",
+        "164572255876d57a61-1",
+        "9928806f-a19e-4b97-9fcd-215094b8a167"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1645722566b9e38131": {
+      "type": "text-columns",
+      "blocks": {
+        "8915057a-01b5-470e-816b-f40f8eb13d0c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/5_df2ec9aa-6da1-48ef-909d-0cd41c99e214.png",
+            "image_width": 400,
+            "title": "Exploring Science & Nature",
+            "text": "<p>In this camp, students will explore science and nature through programs teaching biology, archeology, and chemistry.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2932b2a1-74a2-4439-b034-0994b03abadd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/4_e84f4d59-cf17-4886-8d80-578af76a8ee5.png",
+            "image_width": 400,
+            "title": "YouTube, Acting, and Comic Books",
+            "text": "<p>In this camp, students will have the chance to explore acting, video creation, and comic book design.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1fd6bf4d-bb5b-4c56-8b73-c9bdb49980e0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/3_cdff7a1b-ab61-4318-a0c8-5bbaf8dd45fa.png",
+            "image_width": 400,
+            "title": "YouTube, Podcasting, and Acting",
+            "text": "<p>In this advanced camp for older students, campers will dive in to the world of video creation and acting.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "8915057a-01b5-470e-816b-f40f8eb13d0c",
+        "2932b2a1-74a2-4439-b034-0994b03abadd",
+        "1fd6bf4d-bb5b-4c56-8b73-c9bdb49980e0"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16457227872be0dba2": {
+      "type": "text-columns",
+      "blocks": {
+        "164572278732eac329-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/5_e7f66352-07d0-440e-a5ed-9e25cad64acf.png",
+            "image_width": 400,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "94011c34-3357-47e7-8ee8-898cafd946a5": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Public Speaking & Writing",
+            "text": "<p>In this camp, students will explore writing and public speaking to build skills in both subjects.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b4b6b89f-62ce-425c-bbd3-13ac9fdfcac4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164572278732eac329-2",
+        "94011c34-3357-47e7-8ee8-898cafd946a5",
+        "b4b6b89f-62ce-425c-bbd3-13ac9fdfcac4"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1645818082e442302c": {
+      "type": "rich-text",
+      "blocks": {
+        "1645818082ca2547e1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "For more information"
+          }
+        },
+        "1645818082ca2547e1-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Email us at <a href=\"mailto:info@ivycamps.org\">info@ivycamps.org<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645818082ca2547e1-0",
+        "1645818082ca2547e1-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "164581658122566d66": {
+      "type": "advanced-content",
+      "blocks": {
+        "1645816581441b16e0-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1645816581441b16e0-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1645752752b44a1811": {
+      "type": "faq",
+      "blocks": {
+        "1645752752995f558a-0": {
+          "type": "question",
+          "settings": {
+            "title": "Who are the instructors for these camps?",
+            "text": "<p>Our instructors come from <strong>top universities in the USA<\/strong> such as <strong>Princeton, Harvard, Yale, and more! <\/strong>Each instructor goes through our <strong>specialized training program<\/strong> to further equip them to guide and consistently inspire our learners. Learn more about our instructors <a href=\"\/pages\/our-instructors\" title=\"Our Instructors\">here<\/a>.<\/p>"
+          }
+        },
+        "1645752752995f558a-1": {
+          "type": "question",
+          "settings": {
+            "title": "What time of the day are these camps?",
+            "text": "<p>These are <strong>full-day camps<\/strong> running from <strong>9:00 AM - 4:00 PM Eastern Daylight Time<\/strong>. <\/p>"
+          }
+        },
+        "fbca016a-132b-4e8a-b345-a21fe8ed96b0": {
+          "type": "question",
+          "settings": {
+            "title": "Who can I contact if I have more questions?",
+            "text": "<p>For any other questions, please <strong>use our chat function<\/strong> (found in the bottom left corner of the screen) or <strong>email us at info@ivycamps.org. <\/strong>We are also available through <strong>phone or WhatsApp<\/strong> at <strong>+1 (970) 557-5155<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645752752995f558a-0",
+        "1645752752995f558a-1",
+        "fbca016a-132b-4e8a-b345-a21fe8ed96b0"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "16457510578393c693",
+    "1645734592cb798d6f",
+    "1645724717e2d4a5a7",
+    "1645816512aba9e66f",
+    "16457510608c074375",
+    "1645816578e621ef8d",
+    "16458157474ba5a80e",
+    "1645722558fbedd4f1",
+    "1645722566b9e38131",
+    "16457227872be0dba2",
+    "1645818082e442302c",
+    "164581658122566d66",
+    "1645752752b44a1811"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16437390128fc9d961": {
+      "type": "advanced-content",
+      "blocks": {
+        "1643739012aecc8ed1-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script charset=\"utf-8\" type=\"text\/javascript\" src=\"\/\/js.hsforms.net\/forms\/v2.js\"><\/script>\n<script>\n  hbspt.forms.create({\n    region: \"na1\",\n    portalId: \"8655579\",\n    formId: \"4ab3db46-e8f9-4978-a069-1909a3911ef6\"\n  });\n<\/script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1643739012aecc8ed1-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16437390128fc9d961"
+  ]
+}

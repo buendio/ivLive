@@ -1,0 +1,412 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "16535925296ca09a42": {
+      "type": "advanced-content",
+      "blocks": {
+        "1653592529d42cee43-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1653592529d42cee43-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1652451916599827b7": {
+      "type": "instructors",
+      "blocks": {
+        "2e9a4bc0-aabd-49b7-af28-8e6ef868621d": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/3_8af8f441-8423-4fa8-9357-a2a6a58369b6.png",
+            "inst_image_label": "",
+            "inst_name": "Liam Smith",
+            "inst_text": "<p>Stanford University<\/p>",
+            "inst_popup_text": "<p><strong>Ivy Camps USA Site Director<\/strong><\/p><p><\/p><p><strong>University:<\/strong> Stanford University <\/p><p><strong>Degree in: <\/strong>Computer Science<\/p>"
+          }
+        },
+        "bc89226e-8d87-45b0-a5ac-e44366793ce6": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/1_4edfb230-8682-45f5-809b-8c3e7609a57a.png",
+            "inst_image_label": "",
+            "inst_name": "Victoria Priester",
+            "inst_text": "<p>Duke University<\/p>",
+            "inst_popup_text": "<p><strong>Ivy Camps USA Instructor <\/strong><\/p><p><\/p><p><strong>University:<\/strong> Duke University <\/p><p><strong>Degree in: <\/strong>Biology & Chemistry<\/p>"
+          }
+        },
+        "15528b25-124d-4b29-86c0-4ee67a9110ca": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/4_57de83b0-55fd-41ed-ad13-fadb2420ee70.png",
+            "inst_image_label": "",
+            "inst_name": "Astrid Obadia",
+            "inst_text": "<p>Columbia University<\/p>",
+            "inst_popup_text": "<p><strong>Ivy Camps USA Instructor <\/strong><\/p><p><\/p><p><strong>University:<\/strong> Columbia University <\/p><p><strong>Degree in: <\/strong>Political Science & Middle Eastern Studies<\/p>"
+          }
+        },
+        "8ccadaaf-61cf-43e7-82bc-5a93b4b59098": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/2_2fca509a-8d56-443e-a720-135932decda9.png",
+            "inst_image_label": "",
+            "inst_name": "Alexyse Lewis",
+            "inst_text": "<p>Harvard University<\/p>",
+            "inst_popup_text": "<p><strong>Ivy Camps USA Instructor <\/strong><\/p><p><\/p><p><strong>University:<\/strong> Harvard University <\/p><p><strong>Degree in: <\/strong>Law<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2e9a4bc0-aabd-49b7-af28-8e6ef868621d",
+        "bc89226e-8d87-45b0-a5ac-e44366793ce6",
+        "15528b25-124d-4b29-86c0-4ee67a9110ca",
+        "8ccadaaf-61cf-43e7-82bc-5a93b4b59098"
+      ],
+      "settings": {
+        "inst_no_spacing": false,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "Meet Our Instructors",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#041e42",
+        "inst_mbutton_text_color": "#041e42",
+        "inst_button_text": "",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "1651769227b86b43ce": {
+      "type": "advanced-content",
+      "blocks": {
+        "165176922703f09321-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165176922703f09321-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5_53cb1c50-2c22-44ae-96cb-bbb748f4907b.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our Curriculum",
+        "text": "<p>➜ All classes feature curriculum <strong>designed by top education professionals<\/strong> with <strong>decades of experience<\/strong> in global K-12 education<\/p><p>➜ All classes have students develop a <strong>comprehensive final project<\/strong> related to the subject of which they are studying<\/p><p>➜ Please view photos for this camp to learn more about our curriculum<\/p>",
+        "button_label": "Meet our Curriculum Team",
+        "button_link": "shopify:\/\/pages\/team",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1652451935e1668ec8": {
+      "type": "advanced-content",
+      "blocks": {
+        "1652451935383dddaf-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1652451935383dddaf-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "16540472094d96ea47": {
+      "type": "advanced-content",
+      "blocks": {
+        "19a6de27-fc28-4338-a81e-e9eea21d6a95": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2> <center>Camp Program Options<\/h2><\/center> <br> <center><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Bundling_Packages_Comparison_Diagram_Brainstorm_1.png?v=1654047274\" alt=\"package descriptions\" style=\"width:90%\"><\/center><\/picture>\n<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "19a6de27-fc28-4338-a81e-e9eea21d6a95"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "16535919119b30fee6": {
+      "type": "text-columns",
+      "blocks": {
+        "165359191180fd72de-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Storytelling: TED Talks",
+            "text": "<p><strong>Ages: <br\/><\/strong>6-14<\/p><p><strong>Program Information: <br\/><\/strong>Students will learn methods to hook an audience in at the beginning of a speech and how to keep the audience entertained throughout a speech. They will also learn how to design visually engaging slides\/visuals for a presentation. Students will explore tone of voice and pacing to deliver. an engaging speech.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "165359191180fd72de-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Exploring Earth & Space",
+            "text": "<p><strong>Ages: <br\/><\/strong>6-14<\/p><p><strong>Program Information: <br\/><\/strong>In this program, students will explore different planets in the galaxy and their unique features. Overall, they will focus on what makes Earth unique and sustainable for human life. <\/p><p><\/p><p>Students will also explore wild weather, such as extreme lightning, and how it can impact the Earth. Learn how to gather data (such as humidity and temperature) for your location and learn how data is used by scientists to measure extremes.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "165359191180fd72de-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Teamwork with Crafts",
+            "text": "<p><strong>Ages: <br\/><\/strong>3-5<\/p><p><strong>Program Information: <br\/><\/strong>Students will learn about teamwork and discover the world through different crafts. By the end of this program, students will better understand the world around them through cultural exploration.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165359191180fd72de-0",
+        "165359191180fd72de-1",
+        "165359191180fd72de-2"
+      ],
+      "settings": {
+        "title": "Program Options for June 26-30",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1653591982bd091f1d": {
+      "type": "advanced-content",
+      "blocks": {
+        "1653591982f482449f-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1653591982f482449f-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1653591979ebb7b39f": {
+      "type": "text-columns",
+      "blocks": {
+        "1653591979ddc2ab86-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Building a Business",
+            "text": "<p><strong>Ages: <br\/><\/strong>6-14<\/p><p><strong>Program Information: <br\/><\/strong>Experience the basic steps of starting a business, identifying an ideal market, building a product prototype, and perfecting the art of selling it.<\/p><p><\/p><p>Learn about the complex creative process of graphic design and its many applications within digital marketing. Explore different concepts including design theory, typography, color choice, iconography, and more.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1653591979ddc2ab86-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Become a YouTube Star",
+            "text": "<p><strong>Ages: <br\/><\/strong>6-14<\/p><p><strong>Program Information: <br\/><\/strong>Learn about staging, improvisation, creative expression, costumes, props, staging, lighting, music, and dance. Students can utilize tips in various contexts - on the stage, in videos, and more!<\/p><p><\/p><p>Students will learn how to create digital content responsibly while also producing, editing, and optimizing their videos in a way that generates a following on the YouTube platform.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1653591979ddc2ab86-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Animals & Dinosaurs",
+            "text": "<p><strong>Ages: <br\/><\/strong>3-5<\/p><p><strong>Program Information: <br\/><\/strong>In this program, students will learn more about animals of the past and present. Students will explore many different types of animals and will learn about what those animals need to live happily.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1653591979ddc2ab86-0",
+        "1653591979ddc2ab86-1",
+        "1653591979ddc2ab86-2"
+      ],
+      "settings": {
+        "title": "Program Options for July 3-7",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dubai_Website.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our Instructors",
+        "text": "<p>➜ All instructors for our programs for ages 6-14 come from<strong> top universities<\/strong> in the <strong>United States <\/strong>such as <strong>Dartmouth, Harvard, Yale, MIT, and many more<\/strong><\/p><p>➜ All instructors for our programs for ages 3-5 will be Teaching Assistants <strong>using Ivy Camps USA curriculum <\/strong><\/p><p>➜ Ivy Camps USA instructors go through a <strong>comprehensive training program <\/strong>designed by our curriculum professionals<\/p><p><\/p>",
+        "button_label": "Meet our Instructors",
+        "button_link": "shopify:\/\/pages\/our-instructors",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "16535925296ca09a42",
+    "1652451916599827b7",
+    "1651769227b86b43ce",
+    "text-and-image",
+    "1652451935e1668ec8",
+    "16540472094d96ea47",
+    "16535919119b30fee6",
+    "1653591982bd091f1d",
+    "1653591979ebb7b39f",
+    "text-and-image2",
+    "recently-viewed",
+    "collection-return",
+    "product-recommendations"
+  ]
+}

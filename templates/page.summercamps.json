@@ -1,0 +1,248 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16432509952ce2af81": {
+      "type": "slideshow",
+      "blocks": {
+        "1643250995bad7500e-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Online\nSummer Camps",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/JPPU_Header_23.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1643250995bad7500e-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1643251289b6d6d912": {
+      "type": "rich-text",
+      "blocks": {
+        "16432512899bd3529b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Discover a World of Fun & Learning this Summer!"
+          }
+        },
+        "16432512899bd3529b-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Two-week summer camps, taught by our instructors from Harvard, Yale, MIT, and more top universities<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16432512899bd3529b-0",
+        "16432512899bd3529b-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1643251293a73ae0ee": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "summer-programs-2022",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1643251590af05bef3": {
+      "type": "testimonials",
+      "blocks": {
+        "16432515907f53482e-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My son told me this was the most fun he has had in the past 6 months! <\/p><p> I have never seen a group so capable, supportive, and passionate as you all are. Thank you for a great time!<\/p>",
+            "author": "Lily Y.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "16432515907f53482e-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Kids had the best week of camp! After just a week, her confidence is on another level!<\/p>",
+            "author": "Emma Z.",
+            "author_info": "Mother from Singapore"
+          }
+        },
+        "16432515907f53482e-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My son told me this was the most fun he has had in the past 6 months! <\/p>",
+            "author": "Fatma S.",
+            "author_info": "Mother from the Kuwait"
+          }
+        },
+        "16432515907f53482e-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My child really loves your programs. Again, thank you for giving us this opportunity.<\/p>",
+            "author": "Andrew R.",
+            "author_info": "Father from Costa Rica"
+          }
+        },
+        "16432515907f53482e-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ivy Camps is a perfect opportunity to meet and foster kids from all of the world!<\/p>",
+            "author": "Samantha K.",
+            "author_info": "Mother from the USA"
+          }
+        }
+      },
+      "block_order": [
+        "16432515907f53482e-0",
+        "16432515907f53482e-1",
+        "16432515907f53482e-2",
+        "16432515907f53482e-3",
+        "16432515907f53482e-4"
+      ],
+      "settings": {
+        "title": "What Parents Are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#041e42",
+        "test_section_background_color": "#ffffff",
+        "test_section_btl": "shopify:\/\/shop_images\/Untitled_design_91.png",
+        "test_section_btr": "shopify:\/\/shop_images\/13_copy_3A.png",
+        "test_section_bbl": "shopify:\/\/shop_images\/14_copy_3A.png",
+        "test_section_bbr": "shopify:\/\/shop_images\/Blob-1_f46a7155-2abc-4a79-816b-03133277f121.png"
+      }
+    },
+    "164325167729a4c6c8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Liam_Stanford.png",
+        "image_width": 450,
+        "subtitle": "INNOVATIVE",
+        "title": "Instructors",
+        "text": "<p>We select experienced instructors from top institutions such as <strong>Harvard, Yale, MIT, Princeton, & more<\/strong>! All of our instructors are trained by educational professionals on our curriculum team with years of <strong>experience in effective instruction<\/strong>. Our instructors strive to <strong>cultivate a love of learning <\/strong>in all students, and work hard to <strong>meet the individual educational goals<\/strong> of each student.<\/p>",
+        "button_label": "Meet our instructors",
+        "button_link": "shopify:\/\/pages\/our-instructors",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16437395500e3db2e2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Summer_Inspire.png",
+        "image_width": 450,
+        "subtitle": "Non-traditional Summer camps",
+        "title": "Inspiring Students",
+        "text": "<p>Through innovative instruction and hands-on projects, all of our summer camps are designed to develop real-world skills for our students (all while having fun)!<\/p><p>Covering subjects such as Public Speaking, Video Games, Physics-based Problem Solving, Acting, YouTube Video Creation, and much more, we provide an interesting camp for every kind of learner!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1643252289c16ab880": {
+      "type": "advanced-content",
+      "blocks": {
+        "16432522896cddddf6-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16432522896cddddf6-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1643251788494b704c": {
+      "type": "faq",
+      "blocks": {
+        "1643251788fc47d6e2-0": {
+          "type": "question",
+          "settings": {
+            "title": "How do I find my camp link? \/ What platform do you use for online programming?",
+            "text": "<p>We use the <strong>Zoom<\/strong> platform to connect with students from all around the world! Your Zoom link will be emailed to prior to the beginning of your course. You can email <strong>info@ivycamps.org<\/strong> at any time if you need any assistance.<\/p>"
+          }
+        },
+        "1643251788fc47d6e2-1": {
+          "type": "question",
+          "settings": {
+            "title": "Are parents allowed to join students?",
+            "text": "<p>Parents are allowed to sit in on courses, but it's not required. You can trust that our expert Program Leads will keep your children active and engaged during the duration of the entire course.<\/p>"
+          }
+        },
+        "2bb181c5-8e48-44a4-a440-4f9509410a75": {
+          "type": "question",
+          "settings": {
+            "title": "How is your curriculum developed and who is it developed by?",
+            "text": "<p>Our Curriculum Development Specialists have decades of experience in grade-school education and summer programming. They perform very thorough research and update the curriculum every semester to reflect the latest innovations in education. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1643251788fc47d6e2-0",
+        "1643251788fc47d6e2-1",
+        "2bb181c5-8e48-44a4-a440-4f9509410a75"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16432509952ce2af81",
+    "1643251289b6d6d912",
+    "1643251293a73ae0ee",
+    "1643251590af05bef3",
+    "164325167729a4c6c8",
+    "16437395500e3db2e2",
+    "1643252289c16ab880",
+    "1643251788494b704c"
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "33476f81-91ce-4505-9109-1f6c8c0aab67": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "<b> Save 10% <\/b> Buy one 10-week class and get another 10-week class 10% off! Promotion automatically applied at checkout."
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "ad2c84bf-79ed-48f1-a998-cc1b4379774f": {
+          "type": "tab",
+          "settings": {
+            "title": "Curious about our times?",
+            "content": "<p><strong>Times display in the local time zone that your browser is set in. <\/strong>We offer a diverse range of times so we can accommodate students around the world. This means that some of our times may seem a bit unreasonable in certain parts of the world. Please choose a local time to you that works best for your experience.<\/p>",
+            "page": ""
+          }
+        },
+        "7124d94d-1d43-4d70-ace5-f9db87b3a5ed": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Not sure where to start?",
+            "content": "<p><a href=\"\/pages\/free-personalized-consultation-from-ivy-camps-usa\" title=\"Schedule a Free Personalized Consultation\">Schedule a Free Consultation<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "4667e72e-407e-454c-9526-270bc55c8508": {
+          "type": "tab",
+          "settings": {
+            "title": "Ask a Question",
+            "content": "",
+            "page": "ask-a-question"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "33476f81-91ce-4505-9109-1f6c8c0aab67",
+        "separator",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "ad2c84bf-79ed-48f1-a998-cc1b4379774f",
+        "7124d94d-1d43-4d70-ace5-f9db87b3a5ed",
+        "contact",
+        "4667e72e-407e-454c-9526-270bc55c8508",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "165948141090b93bfa": {
+      "type": "advanced-content",
+      "blocks": {
+        "1659481410ba5741f5-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1659481410ba5741f5-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "16595375547d955c44": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5_6debd358-cac7-4af3-b53b-bed3b25827ca.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "Project-Based Classes Designed by Experts",
+        "text": "<p>You can be sure what your child is learning is <strong>built by the best!<\/strong><\/p><p>Our curriculum team is led by <strong>education professionals with advanced degrees<\/strong> from top universities, including <strong>Harvard, and a current University Professor in Secondary Education. <\/strong>The team's credentials ensure our curriculum team maintains an active role in the research and advancement of the field of education,<strong> continually building on their 40 + years of experience in the educational and camp industries<\/strong>.<\/p><p>Our experts have designed classes where students can learn through <strong>projects <\/strong>that have <strong>personal meaning <\/strong>and <strong>global impact<\/strong>.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "165953757232a7643f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6_b70af9c5-5c1e-4b62-9d29-9a0c9587d988.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "Taught by Instructors from Top Schools",
+        "text": "<p>Our instructors come from <strong>top universities in the USA<\/strong> such as <strong>Princeton, Harvard, Yale, and more!<\/strong><\/p><p>Each instructor goes through our <strong>specialized training program<\/strong> to further equip them to guide and consistently inspire our learners.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16594814376d9e0fda": {
+      "type": "instructors",
+      "disabled": true,
+      "blocks": {
+        "7f52cc0a-155e-41e4-b682-a2e18f262648": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/1_821f8b43-f02e-47c6-ba43-872c1ca93423.png",
+            "inst_image_label": "",
+            "inst_name": "Project-Based Learning",
+            "inst_text": "",
+            "inst_popup_text": "<p>During all Ivy Camps USA classes, we encourage students to work towards developing <strong>final projects <\/strong>that have <strong>personal meaning<\/strong> and <strong>global impact<\/strong>. <\/p>"
+          }
+        },
+        "439370ab-1e5e-409b-959f-367647e8ffd4": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/2_61d0851f-403b-4021-8826-556c0a3ff49d.png",
+            "inst_image_label": "",
+            "inst_name": "Taught by Students from Top Schools",
+            "inst_text": "",
+            "inst_popup_text": "<p>Our instructors come from <strong>top universities in the USA<\/strong> such as <strong>Princeton, Harvard, Yale, and more!<\/strong><\/p><p>Each instructor goes through our <strong>specialized training program<\/strong> to further equip them to guide and consistently inspire our learners.<\/p>"
+          }
+        },
+        "28435643-e0c2-4a1c-9fea-bdc7ba4d6cb9": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/4_fc2586cf-f003-4e02-a0b4-61d57ccb9fc6.png",
+            "inst_image_label": "",
+            "inst_name": "Programs Designed by Experts",
+            "inst_text": "",
+            "inst_popup_text": "<p>You can be sure what your child is learning is <strong>built by the best!<\/strong><\/p><p>Our curriculum team is led by <strong>education professionals with advanced degrees<\/strong> from top universities, including <strong>Harvard, and a current University Professor in Secondary Education.<\/strong><\/p><p>The team's credentials ensure our curriculum team maintains an active role in the research and advancement of the field of education,<strong> continually building on their 40 + years of experience in the educational and camp industries<\/strong>.<\/p>"
+          }
+        },
+        "f4fce86f-a6c4-4e81-a6a6-45ccff808e7f": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/3_ae5de61a-66b7-4404-884d-862dd8a9c706.png",
+            "inst_image_label": "",
+            "inst_name": "Live & Online Around the World",
+            "inst_text": "",
+            "inst_popup_text": "<p>Our curriculum is designed to maximize learning in the <strong>online environment<\/strong>. <\/p><p>Due to its online-first design and our specialized instructor training program, our curriculum can be used in <strong>global groups <\/strong>incorporating students from <strong>all educational backgrounds around the world<\/strong>. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "7f52cc0a-155e-41e4-b682-a2e18f262648",
+        "439370ab-1e5e-409b-959f-367647e8ffd4",
+        "28435643-e0c2-4a1c-9fea-bdc7ba4d6cb9",
+        "f4fce86f-a6c4-4e81-a6a6-45ccff808e7f"
+      ],
+      "settings": {
+        "inst_no_spacing": true,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#041e42",
+        "inst_mbutton_text_color": "#041e42",
+        "inst_button_text": "View All",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "1659483382a7e95cd1": {
+      "type": "advanced-content",
+      "blocks": {
+        "1659483382e3c03751-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1659483382e3c03751-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I was incredibly amazed with him being so engaged online!<\/p>",
+            "author": "Katherine Y.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>It is an excellent offering because of the way kids are engaged with their instructors, it's very interactive, it's very hands on<\/p>",
+            "author": "Jeffrey A.",
+            "author_info": "Father from Egypt"
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>It was perfect and he was looking forward to class everyday!<\/p>",
+            "author": "Maryam M.",
+            "author_info": "Mother from the USA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1",
+        "testimonials-2"
+      ],
+      "settings": {
+        "title": "What Parents are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#041e42",
+        "test_section_background_color": "#ffffff"
+      }
+    },
+    "1659535223afd9dc5d": {
+      "type": "advanced-content",
+      "blocks": {
+        "16595352232bcb91bb-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16595352232bcb91bb-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "More Great Classes",
+        "related_count": 6
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 6
+      }
+    },
+    "1659535464a5a40ace": {
+      "type": "advanced-content",
+      "blocks": {
+        "1659535464a8ec3dd1-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1659535464a8ec3dd1-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1659535487d6567906": {
+      "type": "rich-text",
+      "blocks": {
+        "16595354871ed57936-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Interested in Learning More?"
+          }
+        },
+        "16595354871ed57936-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Speak to our staff members today to learn more about how an Ivy Camps USA class can help your student reach their educational goals<\/p>"
+          }
+        },
+        "bfe02805-bce3-4632-8eac-d4e1d28c5bab": {
+          "type": "button",
+          "settings": {
+            "link": "https:\/\/ivycampsusa.com\/pages\/request-for-information",
+            "link_text": "Request more information"
+          }
+        }
+      },
+      "block_order": [
+        "16595354871ed57936-0",
+        "16595354871ed57936-1",
+        "bfe02805-bce3-4632-8eac-d4e1d28c5bab"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "165948141090b93bfa",
+    "collection-return",
+    "16595375547d955c44",
+    "165953757232a7643f",
+    "16594814376d9e0fda",
+    "1659483382a7e95cd1",
+    "testimonials",
+    "1659535223afd9dc5d",
+    "product-recommendations",
+    "recently-viewed",
+    "1659535464a5a40ace",
+    "1659535487d6567906"
+  ]
+}

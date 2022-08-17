@@ -1,0 +1,248 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Build your knowledge & Skills with our",
+            "title": "Junior Business \nLeader",
+            "title_size": 80,
+            "subheading": "Certificate Program",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/JPPU_Header_29.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1654631718dc13e2f0": {
+      "type": "advanced-content",
+      "blocks": {
+        "16546317182759c261-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gradient_Structure_Organization_Chart_Infographic_Graph_1.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "16546317182759c261-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Certificate Overview<\/h2><p><br>➜ Students with this certification can accurately state that a student has trained in, and demonstrated high levels of achievement in, <b> business, finance, and leadership <\/b><br>➜ Total of <b> 4 courses required <\/b>(1 foundational, any 3 business or finance application courses <br> ➜ <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Junior_Business_Leader_Worksheet.pdf?v=1654633849\">Click here to download the certificate tracking worksheet<\/a><\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16546317182759c261-0",
+        "16546317182759c261-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "16546332126101c1f9": {
+      "type": "advanced-content",
+      "blocks": {
+        "165463321290a34db0-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165463321290a34db0-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "165237392335314273": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GameTime_DecisionMaking_2.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Step 1: Start Here",
+        "text": "<p>The ability to make <strong>responsible, informed decisions<\/strong> is a key skill for <strong>successful business leaders<\/strong>. This course teaches students how to make solid decisions through a series of interactive scenarios related to both life and business.<\/p><p><strong>Foundational Class Price: <\/strong>$149.00 USD<br\/><strong>Next Class Start Date: <\/strong>July 18<\/p>",
+        "button_label": "Sign up Today",
+        "button_link": "shopify:\/\/products\/after-school-classes-its-game-time-decision-making-life-business",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1652373878c2535249": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "foundations-of-public-speaking",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "165236999220a695e1": {
+      "type": "rich-text",
+      "blocks": {
+        "16523699922b25ad42-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Step 2: Learn More"
+          }
+        },
+        "16523699922b25ad42-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>After learning the foundations, take your student's skills a step further with these courses.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16523699922b25ad42-0",
+        "16523699922b25ad42-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1643852286378c6c2c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "business-leadership",
+        "per_row": 4,
+        "rows": 3,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1654102549814bdfa4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "financial-literacy",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "16509829672f5e4c9c": {
+      "type": "advanced-content",
+      "blocks": {
+        "1650982967ac223d59-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1650982967ac223d59-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1654102552227275fa": {
+      "type": "faq",
+      "blocks": {
+        "16541025525b9666bc-0": {
+          "type": "question",
+          "settings": {
+            "title": "What can students do with this certification?",
+            "text": "<p>This certification can be used on resumes and portfolios to demonstrate that a student has trained in, and demonstrated high levels of achievement in, business, finance, and leadership. <\/p>"
+          }
+        },
+        "e25bef5d-4267-4426-8627-7afd528dff33": {
+          "type": "question",
+          "settings": {
+            "title": "Do all of my application courses have to belong to the same category?",
+            "text": "<p>No, students may take any business or finance courses present on this page to count for their certificate. <\/p>"
+          }
+        },
+        "16541025525b9666bc-1": {
+          "type": "question",
+          "settings": {
+            "title": "If I have already taken a course, can it count towards the certificate?",
+            "text": "<p>Please email your completed worksheet with a list of classes taken to info@ivycamps.org.<\/p>"
+          }
+        },
+        "e4c9cc6c-c829-419a-a7c4-07bd59c4898e": {
+          "type": "question",
+          "settings": {
+            "title": "Will I receive a copy of my certificate?",
+            "text": "<p>For students in the USA, we will be mailing a physical certificate upon completion. For students in other parts of the world, we will email a certificate that can be printed and displayed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16541025525b9666bc-0",
+        "e25bef5d-4267-4426-8627-7afd528dff33",
+        "16541025525b9666bc-1",
+        "e4c9cc6c-c829-419a-a7c4-07bd59c4898e"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "1654631718dc13e2f0",
+    "16546332126101c1f9",
+    "165237392335314273",
+    "1652373878c2535249",
+    "165236999220a695e1",
+    "1643852286378c6c2c",
+    "1654102549814bdfa4",
+    "16509829672f5e4c9c",
+    "1654102552227275fa"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16595503260fd794a2": {
+      "type": "slideshow",
+      "blocks": {
+        "16595503268258c73b-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Junior Business Leader",
+            "title_size": 80,
+            "subheading": "Certificate Pathway for Kids 6 - 14",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16595503268258c73b-1"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1659550573c037e3c9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Business_Pathway_Graphic_1.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Certificate Pathway Overview",
+        "text": "<p>● Explore the stock market and dive into investing<br\/>● Pursue an entrepreneurial idea<br\/>● Enhance teamwork skills with project based learning<br\/>● Students must complete 3 classes to obtain their certificate<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "165955074698292040": {
+      "type": "rich-text",
+      "blocks": {
+        "16595507465aad8e91-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Enroll in the Foundational Class"
+          }
+        },
+        "16595507465aad8e91-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Give your child the business knowledge needed to succeed<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16595507465aad8e91-0",
+        "16595507465aad8e91-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16595507890e0b941c": {
+      "type": "featured-product",
+      "blocks": {
+        "165955078960b5d10c-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "165955078960b5d10c-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "165955078960b5d10c-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "165955078960b5d10c-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "165955078960b5d10c-0",
+        "165955078960b5d10c-2",
+        "165955078960b5d10c-1",
+        "165955078960b5d10c-3"
+      ],
+      "settings": {
+        "featured_product": "foundational-skills-for-business-success",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "165955084581234433": {
+      "type": "rich-text",
+      "blocks": {
+        "16595508458a0d6b45-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Explore our Applied Classes"
+          }
+        },
+        "16595508458a0d6b45-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Allow your child to further their business leadership skills by putting them into practice <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16595508458a0d6b45-0",
+        "16595508458a0d6b45-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1659550909627694f4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "application-classes-junior-business-leader-certificate",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1659550956a1869db2": {
+      "type": "advanced-content",
+      "blocks": {
+        "16595509569b00c771-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16595509569b00c771-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1659550932e490e847": {
+      "type": "faq",
+      "blocks": {
+        "1659550932353eecf8-0": {
+          "type": "question",
+          "settings": {
+            "title": "What can students do with this certification?",
+            "text": "<p>This certification can be used on resumes and portfolios to demonstrate that a student has trained in, and demonstrated high levels of achievement in, Business & Finance.<\/p>"
+          }
+        },
+        "1659550932353eecf8-1": {
+          "type": "question",
+          "settings": {
+            "title": "If I have already taken a course, can it count towards the certificate?",
+            "text": "<p>Absolutely! Just make sure that once all courses have been completed that you submit your list of classes completed for the certificate to info@ivycamps.org<\/p>"
+          }
+        },
+        "ccc9bd16-0f23-499e-8b00-aec3f182b43c": {
+          "type": "question",
+          "settings": {
+            "title": "Will I receive a copy of my certificate?",
+            "text": "<p>For students in the USA, we will be mailing a physical certificate upon completion. For students in other parts of the world, we will email a certificate that can be printed and displayed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1659550932353eecf8-0",
+        "1659550932353eecf8-1",
+        "ccc9bd16-0f23-499e-8b00-aec3f182b43c"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16595503260fd794a2",
+    "1659550573c037e3c9",
+    "165955074698292040",
+    "16595507890e0b941c",
+    "165955084581234433",
+    "1659550909627694f4",
+    "1659550956a1869db2",
+    "1659550932e490e847"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "1644200106b8436dcd": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "16442001062d16e29a-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16442001062d16e29a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1647360332673646ae": {
+      "type": "instructors",
+      "disabled": true,
+      "blocks": {
+        "d0d7447a-eb3d-43e0-a4d1-82c574d36c52": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/JP_Redesign_Pt._2.png",
+            "inst_image_label": "Hana",
+            "inst_name": "brown University",
+            "inst_text": "",
+            "inst_popup_text": "<p>Hana majors in Mechanical Engineering at Brown University. Her favorite part about Ivy Camps USA is getting to inspire students to pursue their passions in STEM and beyond!<\/p>"
+          }
+        },
+        "223f3bf8-47db-4084-a60c-ac1c392e8b16": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/1_c48fd86d-b70d-46f5-baa3-b4ffec9469ef.png",
+            "inst_image_label": "Jason",
+            "inst_name": "Dartmouth College",
+            "inst_text": "",
+            "inst_popup_text": "<p>Jason majors in Psychology and Politics, Philosophy, and Economics. His favorite part about Ivy Camps USA is getting the chance to educate kids around the world!<\/p>"
+          }
+        },
+        "56b6af8c-11f7-45a0-acd5-715841f2e7f6": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/2_9e455c3b-14cb-458d-9740-649c065f3f3c.png",
+            "inst_image_label": "Lindsay",
+            "inst_name": "Columbia University",
+            "inst_text": "",
+            "inst_popup_text": "<p>Lindsay majored in Linguistics. Her favorite part about Ivy Camps USA is getting to learn something new from each student that she teaches. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d0d7447a-eb3d-43e0-a4d1-82c574d36c52",
+        "223f3bf8-47db-4084-a60c-ac1c392e8b16",
+        "56b6af8c-11f7-45a0-acd5-715841f2e7f6"
+      ],
+      "settings": {
+        "inst_no_spacing": false,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#021939",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "Our Tutors",
+        "inst_section_title_color": "#041e42",
+        "inst_section_text": "click on their name to learn more",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#041e42",
+        "inst_mbutton_text_color": "#041e42",
+        "inst_button_text": "Meet our full team",
+        "inst_button_text_color": "#ffffff",
+        "inst_button_color": "#43bee5",
+        "inst_button_link": "shopify:\/\/pages\/our-instructors",
+        "inst_section_columns": "col-3",
+        "image_size": "square"
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The program lead (tutor) was fantastic at truly engaging my son! He can be very shy, but the program lead made him feel comfortable. He learned so much and had a great time doing it!<\/p>",
+            "author": "Roxanne S.",
+            "author_info": "Mother from Mexico"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My son looks forward to this every week! Thank you and the program leads for the fantastic work!<\/p>",
+            "author": "Victor J.",
+            "author_info": "Father from Colombia"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1"
+      ],
+      "settings": {
+        "title": "What Parents Are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#041e42",
+        "test_section_background_color": "#ffffff"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "1644200106b8436dcd",
+    "1647360332673646ae",
+    "testimonials",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

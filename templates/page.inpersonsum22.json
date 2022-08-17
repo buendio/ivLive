@@ -1,0 +1,164 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16432509952ce2af81": {
+      "type": "slideshow",
+      "blocks": {
+        "1643250995bad7500e-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "In-Person Summer Camps",
+            "title_size": 80,
+            "subheading": "Put your child on a path to success with in-person summer camps from Ivy Camps USA!",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/JPPU_Header_28.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1643250995bad7500e-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16552583495a8d1320": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1655258349c84734fd-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Four Great Locations!"
+          }
+        },
+        "1655258349c84734fd-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655258349c84734fd-0",
+        "1655258349c84734fd-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1643252289c16ab880": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "16432522896cddddf6-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16432522896cddddf6-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1655257665f0d42b40": {
+      "type": "text-columns",
+      "blocks": {
+        "1655257665901833f4-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2_6c4d131e-19a7-4a78-9785-fa25f8c8a09e.png",
+            "image_width": 400,
+            "title": "June 13 - August 19, 2022",
+            "text": "<p>1 week camps, starting every Monday<\/p>",
+            "button_label": "Register Today",
+            "button_link": "shopify:\/\/products\/summer-camps-ajax-powered-by-ivy-camps-usa"
+          }
+        },
+        "1655257665901833f4-1": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/4_9024dc7c-871f-4c3d-9aa1-5f4ca84889b0.png",
+            "image_width": 400,
+            "title": "June 26 - July 7, 2022",
+            "text": "",
+            "button_label": "Register Today",
+            "button_link": "shopify:\/\/products\/summer-camp-at-repton-cairo"
+          }
+        },
+        "1655257665901833f4-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5_8df32c5a-d0f1-4059-a84a-057fcbe3f78d.png",
+            "image_width": 400,
+            "title": "July 18 - August 12, 2022",
+            "text": "<p>1 week camps, starting every Monday<\/p>",
+            "button_label": "Register Today",
+            "button_link": "shopify:\/\/products\/repton-summer-camp-2022"
+          }
+        },
+        "7c238f21-c883-4ea4-8a00-e916c6cedf6b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3_22c18c60-f8b3-4a5b-a4dd-7d282326e15e.png",
+            "image_width": 400,
+            "title": "July 18 - August 19, 2022",
+            "text": "<p>1 week camps, starting every Monday<\/p>",
+            "button_label": "Register Today",
+            "button_link": "shopify:\/\/pages\/princeton-academy-summer-camps-2022"
+          }
+        }
+      },
+      "block_order": [
+        "1655257665901833f4-0",
+        "1655257665901833f4-1",
+        "1655257665901833f4-2",
+        "7c238f21-c883-4ea4-8a00-e916c6cedf6b"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16432509952ce2af81",
+    "16552583495a8d1320",
+    "1643252289c16ab880",
+    "1655257665f0d42b40"
+  ]
+}

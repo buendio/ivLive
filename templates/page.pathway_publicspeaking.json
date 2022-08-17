@@ -1,0 +1,626 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Unlock new skills with our",
+            "title": "Public Speaking\nwith Confidence",
+            "title_size": 80,
+            "subheading": "Certificate Pathway",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Junior_Prep_-_New_Website_2.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "165272300207ee5a0a": {
+      "type": "advanced-content",
+      "blocks": {
+        "16527230021a9d171c-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Certificate Overview<\/h2><p><br>➜ Students with this certification can accurately state that they <b> have the skills necessary to deliver messages with confidence and clarity <\/b> <br>➜ Total of <b> 4 courses required <\/B><br> ➜ <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Ivy_Camps_USA_Certificate_Public_Speaking_with_Confidence_1.pdf?v=1652190965\"target=\"_blank\">Click here to download the certificate tracking worksheet<\/a><\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "16527230021a9d171c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pathway_Diagram_3f9247eb-b967-4660-9b9c-3be59bed59de.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16527230021a9d171c-1",
+        "16527230021a9d171c-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1652190486b42c2f81": {
+      "type": "rich-text",
+      "blocks": {
+        "16521904861adb2cb9-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Start Here: Learn the Foundations"
+          }
+        }
+      },
+      "block_order": [
+        "16521904861adb2cb9-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16521905123d1ba4e9": {
+      "type": "featured-product",
+      "blocks": {
+        "1652190512e24b045f-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "1652190512e24b045f-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1652190512e24b045f-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "1652190512e24b045f-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "1652190512e24b045f-0",
+        "1652190512e24b045f-2",
+        "1652190512e24b045f-3",
+        "1652190512e24b045f-1"
+      ],
+      "settings": {
+        "featured_product": "foundations-of-effective-public-speaking",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1643852501d78c948f": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Foundations_of_Effective_Public_Speaking.png",
+        "image_width": 500,
+        "subtitle": "start here",
+        "title": "Foundations of Effective Public Speaking",
+        "text": "<p><\/p><p>➜ <strong>Interested in learning how to become a more effective public speaker? Then this is the class for you! <\/strong><\/p><p>➜ With the guidance of our <strong>Ivy League and other instructors from top 10 universities <\/strong>students will learn the foundational skills essential for presenting themselves and their ideas with confidence<\/p><p><\/p>",
+        "button_label": "Sign up Today!",
+        "button_link": "shopify:\/\/products\/foundations-of-effective-public-speaking",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16475224534d354781": {
+      "type": "featured-video",
+      "disabled": true,
+      "settings": {
+        "title": "A Look Into Our Classes",
+        "video_url": "https:\/\/vimeo.com\/690538272",
+        "divider": true
+      }
+    },
+    "1651850138d582c21e": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "1651850138f5b26a74-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Persuasion___Debates.png",
+            "image_width": 250,
+            "title": "Public Speaking in Action: <br>Winning Debates",
+            "text": "<p>In this class, students will <strong>learn how to effectively research a topic and present informed arguements<\/strong>. At the end of this course, students will demonstrate their understanding of proper debate format by participating in a class debate.<\/p><p><strong>Class Price: <br\/><\/strong>$149<\/p><p><strong>Class Duration: <br\/><\/strong>1.25 Hours (75 Minutes) for 5 weeks (1x per week)<\/p>",
+            "button_label": "Sign up today",
+            "button_link": "shopify:\/\/products\/public-speaking-in-action-winning-debates"
+          }
+        },
+        "1651850138f5b26a74-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Storytelling_through_TED_Talks.png",
+            "image_width": 250,
+            "title": "Public Speaking in Action: <br> TED Talks",
+            "text": "<p>TED Talks are growing in popularity, and provide a great way to <strong>tell your story while educating others<\/strong>. At the end of this course, students will present their TED Talk to the class.<\/p><p><strong>Class Price: <br\/><\/strong>$149<\/p><p><strong>Class Duration: <br\/><\/strong>1.25 Hours (75 Minutes) for 5 weeks (1x per week)<\/p>",
+            "button_label": "Sign up today",
+            "button_link": "shopify:\/\/products\/storytelling-in-speech-ted-talks"
+          }
+        },
+        "30047d4b-383b-4b27-85e1-27a39bcb49a2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Launch_Your_Own_Podcast.png",
+            "image_width": 250,
+            "title": "Public Speaking in Action: <br> Launch Your Own Podcast",
+            "text": "<p>In this course, students will <strong>learn the foundations of responsible storytelling<\/strong>. Students will also explore various podcasting techniques integral to creating engaging content via recorded audio At the end of this course, students will have a completed podcast episode.<\/p><p><strong>Class Price: <br\/><\/strong>$149<\/p><p><strong>Class Duration: <br\/><\/strong>1.25 Hours (75 Minutes) for 5 weeks (1x per week)<\/p>",
+            "button_label": "Sign up today",
+            "button_link": "shopify:\/\/products\/after-school-classes-podcasting-launch-your-own-podcasting"
+          }
+        },
+        "d309bdd3-d8fa-415c-90fd-24d45ac88b63": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Acting_for_Stage___Media.png",
+            "image_width": 250,
+            "title": "Public Speaking in Action: <br> Acting for Stage & Media",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651850138f5b26a74-0",
+        "1651850138f5b26a74-1",
+        "30047d4b-383b-4b27-85e1-27a39bcb49a2",
+        "d309bdd3-d8fa-415c-90fd-24d45ac88b63"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16438525710a60f71f": {
+      "type": "rich-text",
+      "blocks": {
+        "1643852571ff38674c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Next Step: Put your Skills into Action"
+          }
+        }
+      },
+      "block_order": [
+        "1643852571ff38674c-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": true
+      }
+    },
+    "16521902482e2dfaa4": {
+      "type": "featured-product",
+      "blocks": {
+        "1652190248bf2cb1bc-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "1652190248bf2cb1bc-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1652190248bf2cb1bc-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "1652190248bf2cb1bc-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "1652190248bf2cb1bc-0",
+        "1652190248bf2cb1bc-2",
+        "1652190248bf2cb1bc-3",
+        "1652190248bf2cb1bc-1"
+      ],
+      "settings": {
+        "featured_product": "public-speaking-in-action-winning-debates",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "165219017931734d18": {
+      "type": "featured-product",
+      "blocks": {
+        "16521901790599570d-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "16521901790599570d-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "16521901790599570d-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "16521901790599570d-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "16521901790599570d-0",
+        "16521901790599570d-2",
+        "16521901790599570d-3",
+        "16521901790599570d-1"
+      ],
+      "settings": {
+        "featured_product": "storytelling-in-speech-ted-talks",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16521900520c88330c": {
+      "type": "featured-product",
+      "blocks": {
+        "165219005207de4972-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "165219005207de4972-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "165219005207de4972-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "165219005207de4972-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "165219005207de4972-0",
+        "165219005207de4972-2",
+        "165219005207de4972-3",
+        "165219005207de4972-1"
+      ],
+      "settings": {
+        "featured_product": "after-school-classes-acting-for-stage-and-media",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "16521901001c85a31f": {
+      "type": "featured-product",
+      "blocks": {
+        "165219010053c002d3-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "165219010053c002d3-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "165219010053c002d3-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "165219010053c002d3-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "165219010053c002d3-0",
+        "165219010053c002d3-2",
+        "165219010053c002d3-3",
+        "165219010053c002d3-1"
+      ],
+      "settings": {
+        "featured_product": "after-school-classes-podcasting-launch-your-own-podcasting",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1655917306ecd8d4ba": {
+      "type": "featured-product",
+      "blocks": {
+        "165591730620b29fef-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "165591730620b29fef-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "165591730620b29fef-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "165591730620b29fef-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "165591730620b29fef-0",
+        "165591730620b29fef-2",
+        "165591730620b29fef-3",
+        "165591730620b29fef-1"
+      ],
+      "settings": {
+        "featured_product": "public-speaking-in-action-present-like-a-pro",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1655917314c0ef7c33": {
+      "type": "featured-product",
+      "blocks": {
+        "1655917314a41c00f2-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "1655917314a41c00f2-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1655917314a41c00f2-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "1655917314a41c00f2-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "1655917314a41c00f2-0",
+        "1655917314a41c00f2-2",
+        "1655917314a41c00f2-3",
+        "1655917314a41c00f2-1"
+      ],
+      "settings": {
+        "featured_product": "public-speaking-in-action-how-to-talk-to-anyone",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "165290543925039ca1": {
+      "type": "advanced-content",
+      "blocks": {
+        "1652905439d31812b5-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1652905439d31812b5-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1652906461f7aa78b9": {
+      "type": "faq",
+      "blocks": {
+        "1652906461c9ebb360-0": {
+          "type": "question",
+          "settings": {
+            "title": "What can students do with this certification?",
+            "text": "<p>This certification can be used on resumes and portfolios to demonstrate that a student has trained in, and demonstrated high levels of achievement in, Public Speaking contexts.<\/p>"
+          }
+        },
+        "1652906461c9ebb360-1": {
+          "type": "question",
+          "settings": {
+            "title": "If I have already taken a course, can it count towards the certificate?",
+            "text": "<p>Absolutely! To get started tracking your courses, just download the <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Ivy_Camps_USA_Certificate_Public_Speaking_with_Confidence_1.pdf?v=1652190965\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Ivy_Camps_USA_Certificate_Public_Speaking_with_Confidence_1.pdf?v=1652190965\">worksheet<\/a> and fill in the courses that have already been completed. Once all courses have been completed, submit the worksheet to info@ivycamps.org<\/p>"
+          }
+        },
+        "412a739a-a0f1-497b-956b-10719fc958cf": {
+          "type": "question",
+          "settings": {
+            "title": "How do I submit my completed worksheet?",
+            "text": "<p>Please email your completed worksheet with a list of classes taken to info@ivycamps.org <\/p>"
+          }
+        },
+        "6ac29def-8bf2-47fd-a18b-a9089511e6ac": {
+          "type": "question",
+          "settings": {
+            "title": "Will I receive a copy of my certificate?",
+            "text": "<p>For students in the USA, we will be mailing a physical certificate upon completion. For students in other parts of the world, we will email a certificate that can be printed and displayed. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652906461c9ebb360-0",
+        "1652906461c9ebb360-1",
+        "412a739a-a0f1-497b-956b-10719fc958cf",
+        "6ac29def-8bf2-47fd-a18b-a9089511e6ac"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "165272300207ee5a0a",
+    "1652190486b42c2f81",
+    "16521905123d1ba4e9",
+    "1643852501d78c948f",
+    "16475224534d354781",
+    "1651850138d582c21e",
+    "16438525710a60f71f",
+    "16521902482e2dfaa4",
+    "165219017931734d18",
+    "16521900520c88330c",
+    "16521901001c85a31f",
+    "1655917306ecd8d4ba",
+    "1655917314c0ef7c33",
+    "165290543925039ca1",
+    "1652906461f7aa78b9"
+  ]
+}

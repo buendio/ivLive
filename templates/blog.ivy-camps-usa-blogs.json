@@ -1,0 +1,55 @@
+{
+  "sections": {
+    "1644287617bd066ec8": {
+      "type": "slideshow",
+      "blocks": {
+        "16442876172dd1c9e5-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Ivy Camps Blog",
+            "title_size": 80,
+            "subheading": "Where a Child’s Love of Learning Begins",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/4_cb287f49-2e8d-4c57-90fb-5945e5f9f7a7.png",
+            "overlay_opacity": 20,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16442876172dd1c9e5-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "blog_show_tag_filter": false,
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": true,
+        "blog_image_size": "square"
+      }
+    }
+  },
+  "order": [
+    "1644287617bd066ec8",
+    "main"
+  ]
+}

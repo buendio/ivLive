@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1652913262959174d5": {
+      "type": "rich-text",
+      "blocks": {
+        "16529132621b5d6132-0": {
+          "type": "heading",
+          "settings": {
+            "title": "8 Ways That Early Financial Education Will Benefit Your Child"
+          }
+        },
+        "16529132621b5d6132-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In 2022 it is essential to learn personal financial skills if you want to live a healthy, happy and secure life. However most children in the United States have a stunning lack of financial education, despite it having a variety of long term benefits. Parents should start talking to their children about money as early as age 3, because most of their money habits are mostly set by ages 7 to 9. This is why it can be so helpful to enroll them as early as possible in an <a href=\"https:\/\/ivycampsusa.com\/pages\/business-finance-classes-from-ivy-camps-usa?utm_campaign=LiveIntent%20-%20Business%20and%20Finance&utm_source=LiveIntentArticle&utm_medium=text&utm_content=online%20finance%20class\" title=\"https:\/\/ivycampsusa.com\/pages\/business-finance-classes-from-ivy-camps-usa?utm_campaign=LiveIntent%20-%20Business%20and%20Finance&utm_source=LiveIntentArticle&utm_medium=text&utm_content=online%20finance%20class\"><em><strong>online finance class<\/strong><\/em><\/a> or <a href=\"https:\/\/ivycampsusa.com\/collections\/summer-programs-2022\/products\/business-leadership-summer-program?utm_campaign=LiveIntent%20-%20Business%20and%20Finance&utm_source=LiveIntentArticle&utm_medium=text&utm_content=summer%20program\" title=\"https:\/\/ivycampsusa.com\/collections\/summer-programs-2022\/products\/business-leadership-summer-program?utm_campaign=LiveIntent%20-%20Business%20and%20Finance&utm_source=LiveIntentArticle&utm_medium=text&utm_content=summer%20program\"><em><strong>summer program<\/strong><\/em><\/a>. Review the 8 ways below that obtaining financial literacy can help set your child up for success.<\/p><p>1) <strong>Studies show that students who have been required to take personal finance courses at a young age are more likely to take advantage of lower cost loans and to utilize grants when it comes to paying for college. <\/strong>As the cost of college continues to rise, the use of grants is more important than ever for those students who want to attend top universities around the country.<\/p><p>2) <strong>Research indicates that students are less likely to rely on private loans or high-interest credit cards as a means to pay for college. <\/strong>Student debt can be a huge burden after graduation, so being mindful about financing college is extremely critical. <\/p><p>3) <strong>Students are more likely to decide to enroll in college when they are aware that there are good financial resources available for them. <\/strong>Many students are starting to dread college because they’re worried about debt, so having strong financial literacy is essential for them to properly plan out their future educational plans.<\/p><p>4) <strong>Recent data from Statista.com shows that among individuals from 18 to 29 years old, 42% did not have retirement savings. <\/strong>In order to change this trend with younger demographics, they need to start their financial education at an earlier age so they can get a head start on saving money.<\/p><p>5) <strong>The concept of compound interest is important for everyone to learn, but if your children can understand it early, then it gives them a better chance to put that knowledge into practice ASAP.<\/strong> Famous investor Warren Buffett recommends starting early in life and says that compound interest is an investor's best friend and has compared building wealth through interest to rolling a snowball down a hill.<\/p><p>6) <strong>If you want your child to acquire wealth, then you should look at a recent report by the Brookings Institution where they found that teenage financial literacy is positively correlated with asset accumulation and net worth by age 25. <\/strong>Therefore starting this educational process before the teenage years should provide an even stronger foundation for their future.<\/p><p>7) <strong>Early financial education can be key to using credit cards in the correct way, as MIT research shows that people tend to spend more when using credit cards compared to cash. <\/strong>This is why some parents have tried to educate their children early about cash and the value of a dollar, as most young kids do not have a solid sense of what things really cost.<\/p><p>8) <strong>Most people learned the phrase growing up that money does not grow on trees, and that is why financially savvy parents introduce the concept of allowances and savings accounts at a young age. <\/strong>Earning money by doing chores and understanding how to leverage a savings account can set them up to continue to have a well adjusted perspective about money.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16529132621b5d6132-0",
+        "16529132621b5d6132-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "165340842120096597": {
+      "type": "advanced-content",
+      "blocks": {
+        "16534084217e09ab7c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_606cf8d1-ef61-4c48-8fd0-e561106e0bad.png",
+            "link": "https:\/\/ivycampsusa.com\/pages\/business-finance-classes-from-ivy-camps-usa?utm_campaign=LiveIntent%20-%20Business%20and%20Finance&utm_source=LiveIntentArticle&utm_medium=banner&utm_content=300x250",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "16534084217e09ab7c-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Find The Right Class For your Child Today!<\/h2><p>Review our Two Week Summer Camps that run Monday to Friday for 90 minutes per session or our Five Week After School Classes that meet once per week for 75 minutes. <\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16534084217e09ab7c-0",
+        "16534084217e09ab7c-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1652913262959174d5",
+    "165340842120096597"
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Student\nSpotlight",
+            "title_size": 80,
+            "subheading": "Work completed by students in our Ivy Camps USA camps and classes",
+            "link": "shopify:\/\/collections\/online-classes",
+            "link_text": "View our Classes",
+            "link_2": "shopify:\/\/pages\/summer-camp-2022",
+            "link_text_2": "View our summer camps",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
+    "1644854027cf79e4eb": {
+      "type": "rich-text",
+      "blocks": {
+        "1644854027f027262b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Student Videos"
+          }
+        },
+        "1644854027f027262b-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Click on each thumbnail to view some of the amazing videos that our students have created!<\/p>"
+          }
+        },
+        "4ab7c3bf-419e-423b-9388-3cb957fad87e": {
+          "type": "button",
+          "settings": {
+            "link": "https:\/\/youtube.com\/playlist?list=PLOGeVRrAqjEDFwEklDzJbJZj_aE6YJIyi",
+            "link_text": "View More Projects"
+          }
+        }
+      },
+      "block_order": [
+        "1644854027f027262b-0",
+        "1644854027f027262b-1",
+        "4ab7c3bf-419e-423b-9388-3cb957fad87e"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16448534349e078200": {
+      "type": "text-columns",
+      "blocks": {
+        "1644853434ebb29545-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3_4c135a65-582c-4a9c-b5f3-3f88031e1075.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https:\/\/www.youtube.com\/watch?v=SBLnWpWbWhM"
+          }
+        },
+        "1644853434ebb29545-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2_23f7948f-5009-4081-9549-91080479579a.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https:\/\/youtu.be\/e-wuvEomlgQ"
+          }
+        },
+        "1644853434ebb29545-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1_8c52b0d0-e098-4464-ada4-b07ccb902185.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https:\/\/youtu.be\/ZcbNIlUUdj4"
+          }
+        }
+      },
+      "block_order": [
+        "1644853434ebb29545-0",
+        "1644853434ebb29545-1",
+        "1644853434ebb29545-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16448542426613c19c": {
+      "type": "rich-text",
+      "blocks": {
+        "16448542426affdcfb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Student Podcasts"
+          }
+        },
+        "16448542426affdcfb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our students create fantastic podcasts on a variety of topics that they are passionate about!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16448542426affdcfb-0",
+        "16448542426affdcfb-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "164485425213adecdc": {
+      "type": "advanced-content",
+      "blocks": {
+        "16448542522f8e737a-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<center><h3> Joe Turtle Talk<\/h3> <div id=\"player\"><audio controls=\"controls\">\n<source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Joe_Turtle_Talk_Grand_Finale.mp3?v=1644856949\" type=\"audio\/mpeg\" \/><\/div><h3> Save the World <\/h3> \n<div id=\"player\"><audio controls=\"controls\"> <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Stop_Pollution_Save_the_World.mp3?v=1644856949\" type=\"audio\/mpeg\" \/><\/div><h3> The Story of the Boy Who Tumbled Down Mt. Svuse <\/h3>\n<div id=\"player\"><audio controls=\"controls\">\n<source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0528\/7070\/9405\/files\/Hanyi_s_Podcast___The_Story_of_the_Boy_Who_Tumbled_Down_Mt._Svuse.mp3?v=1644857217\" type=\"audio\/mpeg\" \/><\/div><\/center>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16448542522f8e737a-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1644861970f280489b": {
+      "type": "rich-text",
+      "blocks": {
+        "16448619704b077072-0": {
+          "type": "heading",
+          "settings": {
+            "title": "More fantastic projects"
+          }
+        }
+      },
+      "block_order": [
+        "16448619704b077072-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1644862162bbc9c436": {
+      "type": "text-columns",
+      "blocks": {
+        "1644862162cf6faed4-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2_7874c1eb-07c7-48a1-9493-5344bf2ead72.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>A new building getting media attention in our student's <a href=\"\/products\/after-school-classes-design-cities-with-legos\" title=\"Design Cities with Legos - 5 Weeks\">lego city<\/a>!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644862162cf6faed4-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/4_3580d659-7ead-4295-8899-123eeef01a51.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>As a part of our <a href=\"\/products\/after-school-classes-science-of-motion-and-machines\" title=\"Science of Motion and Machines - 5 Weeks\">Science of Motion and Machines<\/a> class, students are tasked with building an innovative boat design that can complete a series of challenges. This camper's boat stood up to the challenge and was a truly innovative solution!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644862162cf6faed4-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3_bfb88567-1e45-4f39-a58c-1fd733fb198c.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>A fantastic <a href=\"\/products\/after-school-classes-design-cities-with-legos\" title=\"Design Cities with Legos - 5 Weeks\">city design<\/a> by one of our campers!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644862162cf6faed4-0",
+        "1644862162cf6faed4-1",
+        "1644862162cf6faed4-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "164486355362c2d47a": {
+      "type": "text-columns",
+      "blocks": {
+        "164486355318cbe8fb-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5_e3f01937-6759-4274-a793-e69a771da768.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>This camper created his own new superhero for an original comic book that he was writing as a part of our Discovering Superheroes through Comic Book Design course.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "164486355318cbe8fb-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1_cc870678-2373-4287-aa93-54b71e59a8db.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>A fantastic logo created by one of our campers for our <a href=\"\/products\/after-school-classes-design-your-brand-marketing-and-advertising\" title=\"Design Your Brand: Marketing & Advertising - 5 Weeks\">Design Your Brand<\/a> course! He made a series of great advertising materials for this company utilizing this logo.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "164486355318cbe8fb-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-14T135042.308.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>In all of our courses, we encourage students to think creatively about how to solve the world's problems. In this picture, one of our campers is presenting a prototype of her solution designed in our <a href=\"\/products\/after-school-classes-engineer-a-better-world-with-stanford-design-cycle\" title=\"Engineer a Better World with the Stanford Design Cycle - 5 Weeks\">Engineer a Better World<\/a> class.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164486355318cbe8fb-0",
+        "164486355318cbe8fb-1",
+        "164486355318cbe8fb-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "1644854027cf79e4eb",
+    "16448534349e078200",
+    "16448542426613c19c",
+    "164485425213adecdc",
+    "1644861970f280489b",
+    "1644862162bbc9c436",
+    "164486355362c2d47a"
+  ]
+}

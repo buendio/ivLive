@@ -1,0 +1,248 @@
+{
+  "sections": {
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "The Ivy Camps Way",
+            "title_size": 80,
+            "subheading": "Learn about our style of online classes, camps, and tutoring",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Instagram_Posts_2_13.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1659058064c15232e3": {
+      "type": "rich-text",
+      "blocks": {
+        "1659058064f2209130-0": {
+          "type": "heading",
+          "settings": {
+            "title": "How it works"
+          }
+        },
+        "1659058064f2209130-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Format options for kids age 6 - 14<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1659058064f2209130-0",
+        "1659058064f2209130-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16590581031e322b0c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Online_Classes_39697751-539a-41b5-9d95-4374841b6a50.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "Online Classes",
+        "text": "<p>We offer year round live online classes that your child can attend for 10 weeks. Classes run 1 day per week for 90 minutes. The first 75 minutes is primarily focused on the academic side of our curriculum. The last 15 minutes is where kids experience the <strong>LAST15<\/strong>, with LAST being used as an acronym for Learning and Sharing Time. Students get to meet kids in other classes and see what they’re learning and what projects they’re creating.<\/p><p>During May through August each year we offer our 10 week classes over a 2 week format, where students attend class for 90 minutes, Monday through Friday each week.<\/p><p><\/p>",
+        "button_label": "Learn More",
+        "button_link": "https:\/\/ivycampsusa.com\/collections\/online-classes",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1659058251effdbac8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Online_Summer_Camps_cc72be6d-0cc6-4851-86c8-92a2873f2f97.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "Online Summer Camps",
+        "text": "<p>We have unique live online summer camps that happen each year from May to August. The options vary each year, where most camps will correspond to our primary 4 subject areas. However summer camps are an opportunity for us to present new programs based on curriculum trends and what is popular among our students and their parents.<\/p><p><\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/summer-camps",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "165905831945842b55": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/In-person_Summer_Camps_99258435-6941-47b6-827c-4f06d2aa8bb3.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "In-person Summer Camps",
+        "text": "<p>Ivy Camps started with in-person summer camps and it allowed us to hone our curriculum and create an amazing experience for kids that is fun and educational. The format is tailored to be specific for each summer camp, depending on the locations and goals of the program.<\/p><p>We offer a mix of US based in-person summer camps, as well as international opportunities that change every year. While these in-person summer camps tend to start in mid May, we should typically have information up months ahead of our launch dates.<\/p><p><\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/in-person-summer-camps-2022",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1659058324b8ae35db": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Private_Camps_14a21c63-f0fd-4beb-893c-0ea369cf5683.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "Private Camps",
+        "text": "<p>If you are looking to have individual or group private camps (2-6 students), then we’re happy to accommodate that request. Parents often want this so that their child can get individualized attention or because they want to have a group of siblings or friends all take the same class in a private format. <br\/><br\/>Review our Private Camps page to review the options in more detail or book a meeting with our enrollment team to discuss what camps would fit your needs.<\/p><p><\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/private-camp-button",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1659058339d699086f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Tutoring_8a1668a4-34b3-44a3-ac84-410e34ce6188.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "Tutoring",
+        "text": "<p>1-on-1 tutoring is a great option for any child who needs help with a single topic or perhaps homework help for a specific class. We also have instructors who can help with tutoring for conversational English, if your child needs more practice in this area.<\/p><p>You can read more information about our tutoring options or schedule an appointment with an enrollment advisor to talk about what is best for your child.<\/p><p><\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/online-tutoring",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "165905848962e35482": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Certificate_Pathways_ac25549a-5f05-4742-9385-990a85d2e3f6.png",
+        "image_width": 600,
+        "subtitle": "",
+        "title": "Certificate Pathways",
+        "text": "<p>The Ivy Camps Certificate Pathways were created to help meet the academic needs of parents and their children ages 6 - 14. Our pathways allow a student to take a deep dive into 4 different subject areas, so they can obtain a greater understanding of a topic. Parents appreciate this because it allows their child to demonstrate comprehensive knowledge of the topic, but it also helps their child to explore a future potential career path. <\/p><p>Learn more about each of the pathways and what it takes to complete them and earn a certificate.<\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/certificate-pathways",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "165905862108dddc8e": {
+      "type": "instructors",
+      "blocks": {
+        "44c960ba-c940-4571-8759-d57729a7e2fe": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/8_d4171849-d603-4f70-b13e-1fdbf5422dbe.png",
+            "inst_image_label": "",
+            "inst_name": "John H.",
+            "inst_text": "<p><strong>Harvard University<\/strong><br\/>Linguistics<\/p>",
+            "inst_popup_text": "<p>John is a Linguistics major at Harvard University. He enjoys working at Ivy Camps USA as it provides him with an opportunity to inspire students to pursue their passions! <\/p>"
+          }
+        },
+        "c8ad0fbc-6285-4f2d-8a2c-41ec53e131bc": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/7_938ea879-a8f8-4fca-af36-b16c223e5c24.png",
+            "inst_image_label": "",
+            "inst_name": "Juan G.",
+            "inst_text": "<p><strong>Johns Hopkins University<br\/><\/strong>Chemical & Biomolecular Engineering<\/p>",
+            "inst_popup_text": "<p>Juan is a Chemical and Bimolecular Engineering student who recently graduated from Johns Hopkins University. He enjoys working at Ivy Camps USA because it gives him a chance to work with bright students from around the world!<\/p>"
+          }
+        },
+        "8dc22f7b-764c-4877-8ad4-6d5e9400683e": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/10_0ccc606b-0559-440c-96fe-682d182756c1.png",
+            "inst_image_label": "",
+            "inst_name": "Fatoumata S.",
+            "inst_text": "<p><strong>Princeton University<\/strong><br\/>Chemistry<\/p>",
+            "inst_popup_text": "<p>Fatoumata recently graduated as as a Chemistry major from Princeton University. She is particularly passionate about inspiring kids to take an interdisciplinary approach to problem solving!<\/p>"
+          }
+        },
+        "8f3fc848-c73c-4e78-8c53-0032c3600dad": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/5_b41803a0-1082-47b7-b33b-bafad3c7a048.png",
+            "inst_image_label": "",
+            "inst_name": "Natalie L.",
+            "inst_text": "<p><strong>Yale University<\/strong><br\/>Mathematics<\/p>",
+            "inst_popup_text": "<p>Natalie is a Mathematics major from Yale University. Her favorite part of teaching at Ivy Camps USA is getting to inspire kids around the world to love math and engineering! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "44c960ba-c940-4571-8759-d57729a7e2fe",
+        "c8ad0fbc-6285-4f2d-8a2c-41ec53e131bc",
+        "8dc22f7b-764c-4877-8ad4-6d5e9400683e",
+        "8f3fc848-c73c-4e78-8c53-0032c3600dad"
+      ],
+      "settings": {
+        "inst_no_spacing": false,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "Meet Some of our Instructors",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#041e42",
+        "inst_mbutton_text_color": "#041e42",
+        "inst_button_text": "View All",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    }
+  },
+  "order": [
+    "1643727054c854f508",
+    "main",
+    "1659058064c15232e3",
+    "16590581031e322b0c",
+    "1659058251effdbac8",
+    "165905831945842b55",
+    "1659058324b8ae35db",
+    "1659058339d699086f",
+    "165905848962e35482",
+    "165905862108dddc8e"
+  ]
+}

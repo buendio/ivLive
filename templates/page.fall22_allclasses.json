@@ -1,0 +1,215 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16595503260fd794a2": {
+      "type": "slideshow",
+      "blocks": {
+        "16595503268258c73b-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Online Classes",
+            "title_size": 80,
+            "subheading": "for ages 6-14",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16595503268258c73b-1"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "165955074698292040": {
+      "type": "rich-text",
+      "blocks": {
+        "16595507465aad8e91-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Public Speaking & Debate Classes"
+          }
+        }
+      },
+      "block_order": [
+        "16595507465aad8e91-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1659550909627694f4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "public-speaking-debate",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1660074111556b7253": {
+      "type": "rich-text",
+      "blocks": {
+        "1660074111509302d2-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Business & Finance Classes"
+          }
+        }
+      },
+      "block_order": [
+        "1660074111509302d2-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "166007408547438b54": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "business-finance",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1660073846484cd81d": {
+      "type": "rich-text",
+      "blocks": {
+        "1660073846d407a0a1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Science & Engineering Classes"
+          }
+        }
+      },
+      "block_order": [
+        "1660073846d407a0a1-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1660074026c355f61d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "science-engineering-classes",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "16600742620dd1f961": {
+      "type": "rich-text",
+      "blocks": {
+        "16600742620865d960-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Writing Classes"
+          }
+        }
+      },
+      "block_order": [
+        "16600742620865d960-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1660074278c48f73c7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "writing-classes",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "165970710035843afb": {
+      "type": "rich-text",
+      "blocks": {
+        "1659707100371019e0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsure which class is right for your child?"
+          }
+        },
+        "1659707100371019e0-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Schedule a free consultation with one of our Ivy Camps Program Advisors and they will be happy to help!<\/p>"
+          }
+        },
+        "854e6371-6328-4f5d-9017-f50ee5b0cb00": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/free-personalized-consultation-from-ivy-camps-usa",
+            "link_text": "Schedule a Free consultation"
+          }
+        }
+      },
+      "block_order": [
+        "1659707100371019e0-0",
+        "1659707100371019e0-1",
+        "854e6371-6328-4f5d-9017-f50ee5b0cb00"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16595503260fd794a2",
+    "165955074698292040",
+    "1659550909627694f4",
+    "1660074111556b7253",
+    "166007408547438b54",
+    "1660073846484cd81d",
+    "1660074026c355f61d",
+    "16600742620dd1f961",
+    "1660074278c48f73c7",
+    "165970710035843afb"
+  ]
+}

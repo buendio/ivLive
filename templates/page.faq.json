@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "faq-0": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Group Classes",
+            "text": "<p>Including both after-school classes and summer camps<\/p>",
+            "align_text": "left"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "How do I find my course Zoom link? \/ What platform do you use for online programming?",
+            "text": "<p>We use the Zoom platform to connect with students from all around the world! Your Zoom link will be emailed to prior to the beginning of your course. You can email info@ivycamps.org at any time if you need any assistance.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "How is your course curriculum developed and who is it developed by?",
+            "text": "<p>Our Curriculum Development Specialists have decades of experience in grade-school education and summer programming. They perform very thorough research and update the curriculum every semester to reflect the latest innovations in education. <\/p>"
+          }
+        },
+        "21525e88-fdb2-436d-adab-cc8391975df1": {
+          "type": "question",
+          "settings": {
+            "title": "Are parents allowed to join students?",
+            "text": "<p>Parents are allowed to sit in on courses, but it's not required. You can trust that our expert Program Leads will keep your children active and engaged during the duration of the entire course.<\/p>"
+          }
+        },
+        "6313a259-a2ff-4595-bb2a-2f56d84f603a": {
+          "type": "question",
+          "settings": {
+            "title": "Who are the instructors?",
+            "text": "<p>Our Program Leads are current students and recent graduates of the most elite universities in the US, with most of them coming from one of the 8 Ivy League schools. See who they are <a href=\"\/pages\/our-instructors\" title=\"Our Instructors\">here<\/a>.<\/p>"
+          }
+        },
+        "c28e9f1b-50cf-424d-934f-1f82d10c18cc": {
+          "type": "question",
+          "settings": {
+            "title": "When do you offer your courses?",
+            "text": "<p>We offer courses starting throughout the year. We recommend looking through our courses <a href=\"\/collections\" title=\"All collections\">here<\/a> to see which ones you like and when they start.  <\/p><p>Additionally, we can open up private courses at any time zone with a minimum of three students. <a href=\"\/pages\/contact-us\" title=\"Contact Us\">Contact us <\/a>if you wish to arrange a private course. <\/p>"
+          }
+        },
+        "55d290a6-cc02-4afd-b53e-421cea2664c9": {
+          "type": "question",
+          "settings": {
+            "title": "What is the duration of these courses?",
+            "text": "<p>During the school year, we offer classes that last 10 weeks, with class meetings occurring once per week on the same day each week. Each class meeting is 90 minutes in duration. <\/p><p>During school breaks, we offer two-week-long programs. Each of these programs have class meetings Monday-Friday for 90 minutes each day.<\/p>"
+          }
+        },
+        "faq-3": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Individual Tutoring",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-4": {
+          "type": "question",
+          "settings": {
+            "title": "What kinds of tutoring do you offer?",
+            "text": "<p>We provide <a href=\"\/pages\/academic-tutoring-from-ivy-camps-usa\" title=\"Academic Tutoring from Ivy Camps USA\">academic tutoring\/homework help<\/a> and <a href=\"\/pages\/conversational-english-practice-at-ivy-camps-usa\" title=\"Conversational English Practice at Ivy Camps USA\">conversational english practice<\/a> <\/p>"
+          }
+        },
+        "845714c8-5cd8-4885-a4ad-27ecfc966223": {
+          "type": "question",
+          "settings": {
+            "title": "How will my child meet with their tutor?",
+            "text": "<p>After getting connected with your tutor, you will be sent a Zoom link where your child and tutor will meet.<\/p>"
+          }
+        },
+        "ed245990-53d0-47df-ac84-5ba6db29b016": {
+          "type": "question",
+          "settings": {
+            "title": "How will I know what is covered during my child's tutoring session?",
+            "text": "<p>After each tutoring session, your tutor will send you a personalized feedback form that includes what was covered, what's next, and any additional information. You are always welcome to sit in on any Zoom session, too!<\/p>"
+          }
+        },
+        "f10fbdf7-ced1-4744-b044-8008003f4d74": {
+          "type": "question",
+          "settings": {
+            "title": "How do you match students with tutors?",
+            "text": "<p>We have a team of amazing tutors and mentors from America's elite universities. We hand-match students with their tutors based on their needs and interests.<\/p>"
+          }
+        },
+        "60d4c651-c49f-4830-b28b-09ebb84aa77c": {
+          "type": "question",
+          "settings": {
+            "title": "What is the cancellation policy?",
+            "text": "<p>If you need to cancel a tutoring session, please do so more than 24 hours in advance. Otherwise we won't be able to refund your session.<\/p>"
+          }
+        },
+        "c59d9b7d-a667-43bd-8bac-aefd2f2664b5": {
+          "type": "question",
+          "settings": {
+            "title": "What do I do if I'm running late for my child's tutoring session?",
+            "text": "<p>Contact your tutor and info@ivycamps.org as soon as possible.<\/p><p>If you are more than 20 minutes late to your session (without having given your tutor any warning), your session will end and your tutor will log off.<\/p>"
+          }
+        },
+        "2ed7c1e0-e028-4c9a-b826-babb46698dce": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Refund Policy",
+            "text": "<p>The fine print. We aim to be as transparent as possible. Please let us know if you have any questions.<\/p>",
+            "align_text": "left"
+          }
+        },
+        "ab85731a-e578-404a-8f6a-8ae25231fd90": {
+          "type": "question",
+          "settings": {
+            "title": "What is your refund policy?",
+            "text": "<p><strong>All Ivy Camps Programming (In-Person and Virtual):<\/strong> <br\/><br\/>Full refunds less any credit card processing fees can be issued upon request for any reason up to 14 days prior to the start date of your program. <br\/><br\/>Any cancellations within 14 days of the program start date will be eligible for Ivy Camps credit good towards any Ivy Camps program and valid for one-year upon issuance. All refund requests must be made in writing. Sick days or missed days for any reason will not be rescheduled, refunded or credited.<br\/><\/p><p><strong>1-1 Tutoring<br\/><br\/><\/strong>Payments for tutoring are made up front.<br\/><br\/>Each session is 60 minutes in duration<br\/><br\/>If the student chooses not to use all 60 minutes, the session will not be prorated and no partial credit will be granted.<br\/><br\/>Tutoring sessions are all scheduled in accordance with the availability of both the tutor and the parent\/student. <br\/><br\/>As such, there is no refund for tutoring if your student:<br\/><br\/>Misses a tutoring session without prior notice<br\/>Notifies their instructor of their absence or tardiness <strong>less than 24 hours <\/strong>ahead of the tutoring session.<br\/><br\/>If a change is made with at least 24 hours notice, a tutor can schedule a makeup session with the student without additional charge.<br\/><br\/>If you are ever dissatisfied with a given session and Ivy Camps is unable to rectify the situation – Ivy Camps will refund that individual session.<br\/><br\/>If you decide that tutoring is not for you <strong>after your initial tutoring session <\/strong>and Ivy Camps USA cannot resolve the concern, please notify us by emailing <a href=\"mailto:info@ivycamps.org\" target=\"_blank\">info@ivycamps.org<\/a> within 24 hours of your first session. We will cancel your tutoring program and provide a full refund.<\/p>"
+          }
+        },
+        "760c434f-5e8a-47e2-b878-f54e774050f5": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Refer-a-friend",
+            "text": "<p>Please view our <a href=\"https:\/\/ivycampsusa.com\/pages\/rewards-program-page\" title=\"https:\/\/ivycampsusa.com\/pages\/rewards-program-page\"><em>refer-a-friend page<\/em><\/a><em> <\/em>for more details.<\/p>",
+            "align_text": "left"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "21525e88-fdb2-436d-adab-cc8391975df1",
+        "6313a259-a2ff-4595-bb2a-2f56d84f603a",
+        "c28e9f1b-50cf-424d-934f-1f82d10c18cc",
+        "55d290a6-cc02-4afd-b53e-421cea2664c9",
+        "faq-3",
+        "faq-4",
+        "845714c8-5cd8-4885-a4ad-27ecfc966223",
+        "ed245990-53d0-47df-ac84-5ba6db29b016",
+        "f10fbdf7-ced1-4744-b044-8008003f4d74",
+        "60d4c651-c49f-4830-b28b-09ebb84aa77c",
+        "c59d9b7d-a667-43bd-8bac-aefd2f2664b5",
+        "2ed7c1e0-e028-4c9a-b826-babb46698dce",
+        "ab85731a-e578-404a-8f6a-8ae25231fd90",
+        "760c434f-5e8a-47e2-b878-f54e774050f5"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq"
+  ]
+}

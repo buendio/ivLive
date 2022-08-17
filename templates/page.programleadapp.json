@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16437390128fc9d961": {
+      "type": "advanced-content",
+      "blocks": {
+        "1643739012aecc8ed1-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"cognito\">\n<script src=\"https:\/\/www.cognitoforms.com\/s\/pw0M-bG5NkqxuiuX2DNtfg\"><\/script>\n<script>Cognito.load(\"forms\", { id: \"98\" });<\/script>\n<\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1643739012aecc8ed1-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16437390128fc9d961"
+  ]
+}

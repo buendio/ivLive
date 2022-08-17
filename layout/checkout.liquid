@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}" dir="{{ direction }}" class="{{ checkout_html_classes }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, user-scalable=0">
+    <meta name="referrer" content="origin">
+
+    <title>{{ page_title }}</title>
+
+    {{ content_for_header }}
+
+    {{ checkout_stylesheets }}
+    {{ checkout_scripts }}
+  </head>
+  <body>
+    {{ skip_to_content_link }}
+
+    <header class="banner" data-header role="banner">
+      <div class="wrap">
+        {{ content_for_logo }}
+      </div>
+    </header>
+
+    {{ order_summary_toggle }}
+    <div class="content" data-content>
+      <div class="wrap">
+        <div class="main">
+          <header class="main__header" role="banner">
+            {{ content_for_logo }}
+            {{ breadcrumb }}
+            {{ alternative_payment_methods }}
+          </header>
+          <main class="main__content" role="main">
+            {{ content_for_layout }}
+          </main>
+          <footer class="main__footer" role="contentinfo">
+            {{ content_for_footer }}
+          </footer>
+        </div>
+        <aside class="sidebar" role="complementary">
+          <div class="sidebar__header">
+            {{ content_for_logo }}
+          </div>
+          <div class="sidebar__content">
+            {{ content_for_order_summary }}
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    {{ tracking_code }}
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <script>
+      function show_change_date(text,item) {
+        let dannArr = text.split("/");
+        var currentDateVariant = dannArr[0].trim();
+
+      const monthNames = new Map([
+          ['january', 1],['february', 2],['march', 3],['april', 4],['may', 5],['june', 6],['july', 7],['august', 8],['september', 9],['october', 10],['november', 11],['december', 12],
+          ['enero', 1],['febrero', 2],['marzo', 3],['abril', 4],['mayo', 5],['junio', 6],['julio', 7],['agosto', 8],['septiembre', 9],['setiembre', 9],['octubre', 10],['noviembre', 11],['diciembre', 12],
+          ['janvier', 1],['février', 2],['mars', 3],['avril', 4],['mai', 5],['juin', 6],['juillet', 7],['août', 8],['septembre', 9],['octobre', 10],['novembre', 11],['décembre', 12],
+          ['一月', 1],['二月', 2],['三月', 3],['四月', 4],['五月', 5],['六月', 6],['七月', 7],['八月', 8],['九月', 9],['十月', 10],['十一月', 11],['十二月', 12],
+          ['Ocak', 1],['Şubat', 2],['Mart', 3],['Nisan', 4],['Mayıs', 5],['Haziran', 6],['Temmuz', 7],['Ağustos', 8],['Eylül', 9],['Ekim', 10],['Kasım', 11],['Aralık', 12]
+
+        ]);
+
+        var arab_months = ("يناير*شهر فبراير*مارس*أبريل*يمكن*يونيو*تموز*أغسطس*أيلول*اكتوبر*شهر نوفمبر*ديسمبر").split('*');
+        for(var b=0; b<arab_months.length; b++) {monthNames.set(arab_months[b],(b+1));}
+
+        var idMonth = 0;
+        var idMonthDay = 0;
+        var currentMonthVariantArray = currentDateVariant.split(" ");
+      	var currentMonthVariantNumber =0;
+      	var currentDayVariant=0;
+        
+        idMonth = (parseInt(currentMonthVariantArray[0]) ? 1 : 0);
+        idMonthDay = (parseInt(currentMonthVariantArray[0]) ? 0 : 1)
+
+         if(monthNames.get(currentMonthVariantArray[idMonth].toLowerCase()) || monthNames.get(currentMonthVariantArray[idMonth])){
+          currentMonthVariantNumber = monthNames.get(currentMonthVariantArray[idMonth].toLowerCase()) || monthNames.get(currentMonthVariantArray[idMonth]);
+          currentDayVariant = currentMonthVariantArray[idMonthDay];
+          
+  var datetest = new Date();
+            var labelVariante ="";
+            var currentTimeVariant = "";
+            var currentMinuteVariant ="";
+            var currentHourMinuteVariant ="";
+            var currentHourVariant="";
+            var horaPM = false;
+            var localAMPM ="";
+
+            var todayValue =  new Date();
+            var todayValueUTC = Date.UTC(todayValue);
+            var courseValueUTC = Date.UTC(todayValue);
+            var localDate= new Date(todayValueUTC);
+            var localHour = 0;
+            var nextYear = false;
+            var yearVariant = 0;
+            var nextDay = false;
+            var dayBefore = false;
+            var nextDayValue = 0;
+            var variantElements = "";
+  
+
+          if(todayValue.getMonth() == 12 && currentMonthVariantNumber < 12){
+              nextYear = true;
+            }
+
+            yearVariant = (nextYear ? todayValue.getFullYear() + 1 : todayValue.getFullYear() );
+            nextDay = false;
+            dayBefore = false;
+
+            currentTimeVariant=dannArr[1].trim();
+
+            if(currentTimeVariant){
+              nextDay = currentTimeVariant.includes("next day") || currentTimeVariant.includes("Next Day")   ? true : false;
+
+              nextDayValue= 0;
+              currentTimeVariant = currentTimeVariant.includes("next day") ? currentTimeVariant.replace("(next day)", "").trim() : currentTimeVariant.trim();
+              currentTimeVariant = currentTimeVariant.includes("Next Day") ? currentTimeVariant.replace("(Next Day)", "").trim() : currentTimeVariant.trim();
+              nextDayValue = nextDay ? parseInt(currentDayVariant) + 1 : 0;
+              horaPM = false;
+
+
+             currentHourMinuteVariant = currentTimeVariant.replace(" AM GMT", "").replace(" PM GMT", "");
+                currentHourVariant = currentHourMinuteVariant.split(":")[0];
+                currentMinuteVariant = currentHourMinuteVariant.split(":")[1];
+
+              if(currentTimeVariant == "12:00 AM GMT"){
+                  currentHourVariant = 0; 
+                }
+            
+              var horaPM = false;
+                if(currentTimeVariant.includes("PM") == true){
+                  horaPM = true;
+                  currentHourVariant = parseInt(currentHourVariant)+12;
+                }else{
+                  horaPM = false;
+                }
+
+            todayValueUTC = Date.UTC(yearVariant, currentMonthVariantNumber-1
+                                         ,(nextDay ? nextDayValue: currentDayVariant)
+                                         ,currentHourVariant,parseInt(currentMinuteVariant),0)
+
+                courseValueUTC = new Date(Date.UTC(yearVariant
+                                                   ,currentMonthVariantNumber-1
+                                                   ,currentDayVariant
+                                                   ,currentHourVariant
+                                                   ,parseInt(currentMinuteVariant)
+                                                   ,0))
+
+            localDate= new Date(todayValueUTC);
+                localAMPM = "PM";
+
+                dayBefore = nextDay ? false : (localDate.getDate() < courseValueUTC.getUTCDate()  ? true : false) ;
+
+
+                //Coverting to local datetime 
+                localHour = localDate.getHours();
+                if(localDate.getHours() < 12) {
+                  localAMPM = "AM";
+                }else{
+                  localHour = localHour - 12
+
+                }
+
+                if(localHour == 0){
+                  localHour = 12;
+                }
+let new_time='';
+if(localDate.getTimezoneOffset() <= 0){
+                   new_time = localHour + ":"
+                  + (localDate.getMinutes() == 0 ? "00" : localDate.getMinutes()) 
+                  +" " 
+                  + localAMPM 
+                  + (nextDay == true ? " Next Day" : 
+                     (currentHourVariant == 0 && dayBefore == false ? "":
+                      (currentDayVariant != localDate.getDate() ? " Next Day" : "")
+                     ) 
+                    )
+                  //+" ("+currentTimeVariant+" "+(nextDay == true ? "Next Day" : '' )+")";
+
+                }else{
+                   new_time = localHour + ":"
+                  + (localDate.getMinutes() == 0 ? "00" : localDate.getMinutes()) +" " 
+                  + localAMPM 
+                  + (dayBefore == true && nextDay == false ? ' Day before' : '')
+                  // +" ("+currentTimeVariant+" "+(nextDay == true ? "Next Day" : '' )+")";
+                }
+  let new_text =  dannArr[0].trim()+' / '+new_time;
+  if (2 in dannArr) {
+    new_text += ' / '+dannArr[2].trim();
+  }
+   // new_text += '</span>';
+  console.log(item);
+  item.textContent=new_text;
+  
+   
+            
+            }
+
+  
+ 
+  }
+      }
+      
+      $('.product__description__variant').each(function () {
+        let text=$(this).html();
+        let dannArr = text.split("/");
+        let item=this;
+        $.each( dannArr, function( key, value ) { 
+          let pos=value.indexOf("GMT"); 
+          if (pos>0) { 
+            let new_text=text.trim();
+            show_change_date(new_text,item);
+          }
+        })
+      })
+      
+    </script>
+  </body>
+</html>

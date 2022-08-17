@@ -1,0 +1,196 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Certificate Pathways",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Junior_Prep_-_New_Website_4.png",
+            "overlay_opacity": 10,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16529108053dc28f74": {
+      "type": "rich-text",
+      "blocks": {
+        "1652910805dfe0c4bb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Students aged 6-14 can choose any of the following certificate pathways to guide and deepen their learning. At the end of each pathway, students will be officially Ivy Camps Certified in that subject area, demonstrating comprehensive knowledge in that area.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652910805dfe0c4bb-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1652910814144f8980": {
+      "type": "advanced-content",
+      "blocks": {
+        "165291081316159f8e-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165291081316159f8e-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "165291103056fa36a8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7_ba2ffcf8-16e4-4a16-9f51-f271dc3b18f0.png",
+        "image_width": 400,
+        "subtitle": "Ivy Camps usa certificate:",
+        "title": "Public Speaking with Confidence",
+        "text": "<p>Students with this certification can accurately state that they <strong>have the skills necessary to deliver messages with confidence and clarity.<\/strong><\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/public-speaking-with-confidence-certificate-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1652911171fdbdf046": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6_342281fd-fdac-4c90-9e90-7311af722c23.png",
+        "image_width": 400,
+        "subtitle": "Ivy Camps usa certificate:",
+        "title": "Critical Thinking in STEM",
+        "text": "<p>Students completing this certification will be able to <strong>think critically about, and understand the process of finding solutions for, <\/strong>pressing issues in the STEM field.<\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/stem-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16529111846955b9bb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/8_52665f6f-8437-4d0e-95cd-12c3ee168806.png",
+        "image_width": 400,
+        "subtitle": "Ivy Camps usa certificate:",
+        "title": "Junior Business Leader",
+        "text": "<p>Students earning this certification will demonstrate proficiency in <strong>finance and business<\/strong>. In addition, students will be confident in their <strong>ability to lead a team<\/strong>. <\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/junior-business-leader-certificate-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1652911187bda1ecf8": {
+      "type": "advanced-content",
+      "blocks": {
+        "1652911187b05ab8ef-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1652911187b05ab8ef-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "1652906461f7aa78b9": {
+      "type": "faq",
+      "blocks": {
+        "1652906461c9ebb360-0": {
+          "type": "question",
+          "settings": {
+            "title": "What can students do with these certifications?",
+            "text": "<p>These certification can be used on resumes and portfolios to demonstrate that a student has trained in, and demonstrated high levels of achievement in the subject matter of their certificate.<\/p>"
+          }
+        },
+        "1652906461c9ebb360-1": {
+          "type": "question",
+          "settings": {
+            "title": "If I have already taken a course, can it count towards the certificate?",
+            "text": "<p>Absolutely! Please email info@ivycamps.org to learn more.<\/p>"
+          }
+        },
+        "6ac29def-8bf2-47fd-a18b-a9089511e6ac": {
+          "type": "question",
+          "settings": {
+            "title": "Will I receive a copy of my certificate?",
+            "text": "<p>For students in the USA, we will be mailing a physical certificate upon completion. For students in other parts of the world, we will email a certificate that can be printed and displayed. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652906461c9ebb360-0",
+        "1652906461c9ebb360-1",
+        "6ac29def-8bf2-47fd-a18b-a9089511e6ac"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "16529108053dc28f74",
+    "1652910814144f8980",
+    "165291103056fa36a8",
+    "1652911171fdbdf046",
+    "16529111846955b9bb",
+    "1652911187bda1ecf8",
+    "1652906461f7aa78b9"
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Global Partnerships",
+            "title_size": 80,
+            "subheading": "Our global partners help us bring our programs to more children around the world",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/PARALLAX_HEADER_Template_4.png",
+            "image_mobile": "shopify:\/\/shop_images\/PARALLAX_HEADER_Template_4.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16451095522b92a84a": {
+      "type": "rich-text",
+      "blocks": {
+        "1645109552135f3487-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Partners"
+          }
+        }
+      },
+      "block_order": [
+        "1645109552135f3487-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16451083316b6c556f": {
+      "type": "text-columns",
+      "blocks": {
+        "164510833186b47a6a-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/12_256x256_crop_center_e14b1d47-9234-4184-a95d-22f3514e3746.png",
+            "image_width": 120,
+            "title": "GEMS EDUCATION",
+            "text": "<p>GEMS is the largest owner\/operator of schools globally with 100+ campuses & hundreds of thousands of students. GEMS prides itself on seeing genius in every child. Ivy Camps works with their headquarters group for extracurricular and summer programming.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "164510833186b47a6a-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/11_c8f268a6-279d-493a-9cf8-333c0d415159.png",
+            "image_width": 120,
+            "title": "EXPLORE NISEKO",
+            "text": "<p>Explore Niseko is the owner\/operator of lodging, restaurant, and education facilities in Niseko, Japan. Ivy Camps has partnered with Explore Niseko to provide camp programming for those in, and visiting, Niseko.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "164510833186b47a6a-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5_256x256_crop_center_578b3fe0-37fe-4317-85ae-1f872533b167.png",
+            "image_width": 120,
+            "title": "HONG KONG CDNIS",
+            "text": "<p>Hong Kong Canadian International School (CDNIS) is one of the premier private schools in Hong Kong. Ivy Camps works with their administration to provide camps located at their state of the art campus.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164510833186b47a6a-0",
+        "164510833186b47a6a-1",
+        "164510833186b47a6a-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "164510883402fc3cb7": {
+      "type": "text-columns",
+      "blocks": {
+        "16451088349b65172e-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/activekids_f0086132-424d-4281-9d52-1fdbab32925c.png",
+            "image_width": 180,
+            "title": "ACTIVE KIDS",
+            "text": "<p>Active kids provides extra-curricular programming for Hong Kong & Mainland Chinese children. Their programming ranges from chess to cooking. Ivy Camps partners with active kids for camp program collaboration.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16451088349b65172e-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/12_256x256_crop_center_e14b1d47-9234-4184-a95d-22f3514e3746.png",
+            "image_width": 120,
+            "title": "GEMS SINGAPORE",
+            "text": "<p>GEMS World Academy Singapore is hosts one of the most diverse student bodies on the planet. Ivy Camps is proud to be the camp provider for GEMS Singapore and offer programming at its brand new, state-of-the-art facilities.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16451088349b65172e-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/4_256x256_crop_center_7bb1ee9e-5571-4fb6-b820-798c43f3058c.png",
+            "image_width": 120,
+            "title": "AJAX ADVENTURE CAMP",
+            "text": "<p>Voted business of the year by the Aspen Chamber of Commerce, Ajax Adventure Camp is Ivy Camp’s sister camp located in Aspen, Colorado. Ajax Adventure camp focuses on outdoor adventures, where learning is through osmosis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16451088349b65172e-0",
+        "16451088349b65172e-1",
+        "16451088349b65172e-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16451088109964fab9": {
+      "type": "text-columns",
+      "blocks": {
+        "16451088107c99cb4f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/7_256x256_crop_center_3a36dfee-0a04-4ddb-bc40-d3113a9bb6a5.png",
+            "image_width": 120,
+            "title": "AJAX SLEEPAWAY",
+            "text": "<p>Ajax Sleepaway is Ivy Camps’s sister residential camp providing US and International kids with the opportunity to attend a sleepaway camp high in the Colorado rocky mountains. Activities range from 1\/2 miles zip-lines to horseback-riding and more.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16451088107c99cb4f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/8_256x256_crop_center_0ea7b2d4-c194-4de5-8d98-5aaec93a6284.png",
+            "image_width": 120,
+            "title": "CORNELL GLOBAL NETWORK",
+            "text": "<p>The Cornell Global Network student group works directly with Ivy Camps for staff hiring and interviewing, research projects, program sourcing and vetting, and other collaborations with like-minded and world-exploring individuals.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16451088107c99cb4f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/9_256x256_crop_center_81e7de0d-9b11-4908-885a-4238ac4b97c0.png",
+            "image_width": 110,
+            "title": "YALE YIRA",
+            "text": "<p>The Yale International Relations Association (YIRA) works with Ivy Camps to help provide international opportunities to university students. Through the YIRA and Ivy Camps collaboration more university students are able to travel and work abroad.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16451088107c99cb4f-0",
+        "16451088107c99cb4f-1",
+        "16451088107c99cb4f-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1645109092bc922763": {
+      "type": "text-columns",
+      "blocks": {
+        "1645109092998e957d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2_256x256_crop_center_f544fc85-fa31-4188-a9f5-fa75415843bc.png",
+            "image_width": 120,
+            "title": "ICS ADDIS",
+            "text": "<p>ICS Addis provides highly effective education in Addis Ababa, Ethiopia. Ivy Camps USA partners with ICS Addis to provide extracurricular instruction for their students in the subjects of STEM, Arts, and Business.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1645109092998e957d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5_256x256_crop_center_39f943e7-1b2d-410f-8c41-319af1ed2247.png",
+            "image_width": 120,
+            "title": "TAM",
+            "text": "<p>TAM is a provider of community engagement programs. Ivy Camps USA has partnered with TAM to provide their students with Arts programs to build skills and knowledge in the subject area.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1645109092998e957d-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/4_256x256_crop_center_f51e3ae4-f4b2-4a30-9515-7cd146734dd0.png",
+            "image_width": 120,
+            "title": "REPTON DUBAI",
+            "text": "<p>Repton is an international school located in the heart of Dubai. They provide education focusing on the development of the whole child. Repton Dubai works with Ivy Camps USA to provide an in-person learning opportunity for their students.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1645109092998e957d-0",
+        "1645109092998e957d-1",
+        "1645109092998e957d-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16451091100f104f9e": {
+      "type": "text-columns",
+      "blocks": {
+        "1645109110ed33ba21-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/8_256x256_crop_center_cfb25421-0631-4143-ac6c-9ea855fdb032.png",
+            "image_width": 200,
+            "title": "SANDOOQ AL WATAN",
+            "text": "<p>Ivy Camps USA has worked with Sandooq Al Watan's Mawhibatna program to provide extracurricular opportunities for their students.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1645109110ed33ba21-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/7_256x256_crop_center_de5a44e9-b380-4580-ac45-0afb88afdbfe.png",
+            "image_width": 200,
+            "title": "DAEGU INTERNATIONAL SCHOOL",
+            "text": "<p>Ivy Camps USA works with Daegu International School to provide extracurricular instruction for their students in the subjects of STEM, Arts\/Media, and Business.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1645109110ed33ba21-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1_2d932b50-0d21-434b-84cd-1cd2210fb732.png",
+            "image_width": 200,
+            "title": "BINA BANGSA SCHOOL",
+            "text": "<p>The Bina Bangsa school and Ivy Camps USA have worked together to put together an extracurricular program for their students designed to enhance subject knowledge in the areas of STEM, business, the university application process, and arts\/media.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1645109110ed33ba21-0",
+        "1645109110ed33ba21-1",
+        "1645109110ed33ba21-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16451091190fcc60ae": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "c20e4e90-6df1-4cab-9dc1-06822514c993": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/download_256x256_crop_center_ad95ea56-2fb2-4c1c-936c-694cfa444839.png",
+            "image_width": 120,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "c20e4e90-6df1-4cab-9dc1-06822514c993"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16442494710214c14c": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "16442494716fbdfb2a-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16442494716fbdfb2a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "164425059997d9131c": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "16442505994a3d5539-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Instructors from Top 10 US Universities"
+          }
+        },
+        "16442505994a3d5539-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our instructors come from diverse backgrounds and cultures. Each goes through our specialized training program to further equip them to guide and consistently inspire our learners.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16442505994a3d5539-0",
+        "16442505994a3d5539-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1644250579116d9828": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "1644250579540e3d96-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/10_5c05b5e8-cc3d-477a-a046-516bdd9f9784.png",
+            "image_width": 200,
+            "title": "Sasha",
+            "text": "<p><strong>School:<\/strong> Harvard University<br\/><strong>Major:<\/strong> Neuroscience & Global Health<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644250579540e3d96-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/9_4198fbaf-f60b-4433-8c49-1ac7b95b7d41.png",
+            "image_width": 200,
+            "title": "Nick",
+            "text": "<p><strong>School:<\/strong> Brown University<br\/><strong>Major:<\/strong> Economics & Mathematics<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644250579540e3d96-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/8_b161eea1-84d0-4757-8df5-d8160e8b1b46.png",
+            "image_width": 200,
+            "title": "Melissa",
+            "text": "<p><strong>School: <\/strong>Dartmouth College<br\/><strong>Major:<\/strong> Psychology<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644250579540e3d96-0",
+        "1644250579540e3d96-1",
+        "1644250579540e3d96-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1644250586a06958df": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "16442505862599f59d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/6_9e347408-6b40-41ec-8314-771af49527e7.png",
+            "image_width": 200,
+            "title": "Astrid",
+            "text": "<p><strong>School:<\/strong> Columbia University<br\/><strong>Major:<\/strong> Political Science<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16442505862599f59d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/7_a37b6072-11f0-483f-92cd-ff5d6c24b7cb.png",
+            "image_width": 200,
+            "title": "Liam",
+            "text": "<p><strong>School:<\/strong> Stanford University<br\/><strong>Major:<\/strong> Chemistry & Linguistics<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16442505862599f59d-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Innovation_Public_Speaking_Global_Awareness_Entrepreneurship_Leadership.png",
+            "image_width": 200,
+            "title": "Fatoumata",
+            "text": "<p><strong>School:<\/strong> Princeton University<br\/><strong>Major:<\/strong> Chemistry<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16442505862599f59d-0",
+        "16442505862599f59d-1",
+        "16442505862599f59d-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1644250900f3893d4a": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "0d17e41b-e43f-47a0-a5c2-01b1892f57f7": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/our-instructors",
+            "link_text": "Meet More Instructors"
+          }
+        }
+      },
+      "block_order": [
+        "0d17e41b-e43f-47a0-a5c2-01b1892f57f7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1644251361ec64b726": {
+      "type": "advanced-content",
+      "blocks": {
+        "1644251361874d3fea-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1644251361874d3fea-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "16442513585d98dab4": {
+      "type": "rich-text",
+      "blocks": {
+        "1644251358ea4e68fe-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Build a Program & Grow with Us"
+          }
+        },
+        "1644251358ea4e68fe-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Our programs are tailored to your needs. To find out more about pricing and answer any questions you may have please submit your email. We will reach out to you shortly<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644251358ea4e68fe-0",
+        "1644251358ea4e68fe-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1644251373537cb625": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "16451095522b92a84a",
+    "16451083316b6c556f",
+    "164510883402fc3cb7",
+    "16451088109964fab9",
+    "1645109092bc922763",
+    "16451091100f104f9e",
+    "16451091190fcc60ae",
+    "16442494710214c14c",
+    "164425059997d9131c",
+    "1644250579116d9828",
+    "1644250586a06958df",
+    "1644250900f3893d4a",
+    "1644251361ec64b726",
+    "16442513585d98dab4",
+    "1644251373537cb625"
+  ]
+}

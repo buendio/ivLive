@@ -1,0 +1,442 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Classes for ages 6-14",
+            "title": "Public Speaking\n& Debate",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/PARALLAX_HEADER_Template_5.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1643852344781b4d99": {
+      "type": "rich-text",
+      "blocks": {
+        "1643852344ebc2daa7-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Public Speaking & Debate Classes"
+          }
+        },
+        "1643852344ebc2daa7-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Emerging as a critical skill for the top students of tomorrow, <strong>Public Speaking & Debate <\/strong>are important subjects to learn more about. At Ivy Camps USA, we provide a large array of courses focusing on <strong>inspiring student's confidence while building their skills <\/strong>to become brilliant Public Speakers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1643852344ebc2daa7-0",
+        "1643852344ebc2daa7-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "165236990038abf387": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1652369900794f1903-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Step 1: Learn the Foundations"
+          }
+        },
+        "1652369900794f1903-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Emerging as a critical skill for the top leaders of tomorrow, <strong>Public Speaking & Debate<\/strong> are important subjects to learn more about. Our foundational class focuses on <strong>inspiring student's confidence while building their skills<\/strong> to become brilliant Public Speakers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652369900794f1903-0",
+        "1652369900794f1903-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1652369796931898ac": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1652369796858cd40e-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "1652369796858cd40e-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "1652369796858cd40e-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "1652369796858cd40e-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "1652369796858cd40e-0",
+        "1652369796858cd40e-2",
+        "1652369796858cd40e-3",
+        "1652369796858cd40e-1"
+      ],
+      "settings": {
+        "featured_product": "foundations-of-effective-public-speaking",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "165237392335314273": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FoundationsofEffectivePublicSpeaking.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Step 1: Learn the Foundations",
+        "text": "<p>Emerging as a critical skill for the top leaders of tomorrow, <strong>Public Speaking & Debate<\/strong> are important subjects to learn more about. Our foundational class focuses on <strong>inspiring student's confidence while building their skills<\/strong> to become brilliant Public Speakers.<\/p><p><strong>Foundational Class Price: <\/strong>$149.00 USD<br\/><strong>Next Class Start Date: <\/strong>August 23<\/p>",
+        "button_label": "Sign up Today",
+        "button_link": "shopify:\/\/products\/foundations-of-effective-public-speaking",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1652373878c2535249": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "foundations-of-public-speaking",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "165236999220a695e1": {
+      "type": "rich-text",
+      "blocks": {
+        "16523699922b25ad42-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Step 2: Apply Your Skills"
+          }
+        },
+        "16523699922b25ad42-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>After learning the foundations, take your student's skills a step further with these courses.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16523699922b25ad42-0",
+        "16523699922b25ad42-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1643852286378c6c2c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "public-speaking-in-action",
+        "per_row": 4,
+        "rows": 3,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1650982958dfef4dd9": {
+      "type": "rich-text",
+      "blocks": {
+        "1650982958ac2c3544-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This summer, we will also be having a <strong>two-week summer camp <\/strong>also covering the topic of <strong>Public Speaking & Debate.<\/strong><\/p>"
+          }
+        },
+        "c634e36e-4e48-451b-8251-549e6301c750": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/arts-media-and-communication-summer-program",
+            "link_text": "Click here to learn more"
+          }
+        }
+      },
+      "block_order": [
+        "1650982958ac2c3544-1",
+        "c634e36e-4e48-451b-8251-549e6301c750"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16509829672f5e4c9c": {
+      "type": "advanced-content",
+      "blocks": {
+        "1650982967ac223d59-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1650982967ac223d59-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1643852503b1830fd3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/39_d6a9fc60-d711-4b7f-913e-2f8088a00ff4.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Program Format",
+        "text": "<p><\/p><p>➜ All classes are held<strong> live and online<\/strong><\/p><p>➜ Classes are <strong>75 minutes<\/strong> in duration<\/p><p>➜ Classes happen <strong>once per week<\/strong>,  on the <strong>same day each week<\/strong><\/p><p>➜ All classes will have a small class size between <strong>1-6 students<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16438524965c1d0674": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/40_101ed78c-c25e-4ef1-8770-ec0ddaeac566.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Curriculum",
+        "text": "<p><\/p><p>➜ All classes feature curriculum <strong>designed by top education professionals<\/strong> with <strong>decades of experience<\/strong> in global K-12 education<\/p><p>➜ Our Public Speaking & Debate curriculum is designed to not only <strong>provide students with the skills and language ability<\/strong> that they need to be effective public speakers, but also to <strong>build their confidence! <\/strong><\/p><p>➜ Students will leave our public speaking program with an<strong> improved confidence<\/strong> in their ideas and their ability to speak in front of others<\/p><p>➜ All classes have students develop a <strong>comprehensive final project<\/strong> related to the subject of which they are studying<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1643852501d78c948f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/41_d79f53b6-4beb-420b-a679-99975538436c.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Instructors",
+        "text": "<p><\/p><p>➜ All instructors come from<strong> top universities<\/strong> in the <strong>United States <\/strong>such as <strong>Dartmouth, Harvard, Yale, MIT, and many more<\/strong><\/p><p>➜ Ivy Camps USA instructors go through a <strong>comprehensive training program <\/strong>designed by our curriculum professionals<\/p><p>➜ Instructors that teach our Public Speaking and Debate classes are trained to provide a <strong>supportive environment <\/strong>for students to build their skills<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16523763694a3964a7": {
+      "type": "advanced-content",
+      "blocks": {
+        "1652376369376a7897-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1652376369376a7897-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "164385249083e17b3f": {
+      "type": "testimonials",
+      "blocks": {
+        "16438524901e906814-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My son loves this program! Thank you for giving us this opportunity<\/p>",
+            "author": "Marie S.",
+            "author_info": "Parent from the USA"
+          }
+        },
+        "16438524901e906814-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The staff has been a complete dream. They are all so welcoming, understanding, and encouraging!<\/p>",
+            "author": "Natalia R.",
+            "author_info": "Parent from Mexico"
+          }
+        },
+        "16438524901e906814-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My child LOVED this experience! He cannot wait for his next camp!<\/p>",
+            "author": "April T.",
+            "author_info": "Mother from the USA"
+          }
+        }
+      },
+      "block_order": [
+        "16438524901e906814-0",
+        "16438524901e906814-1",
+        "16438524901e906814-2"
+      ],
+      "settings": {
+        "title": "What Parents Are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#041e42",
+        "test_section_background_color": "#ffffff"
+      }
+    },
+    "16475224534d354781": {
+      "type": "featured-video",
+      "settings": {
+        "title": "A Look Into Our Classes",
+        "video_url": "https:\/\/vimeo.com\/690538272",
+        "divider": true
+      }
+    },
+    "16438525710a60f71f": {
+      "type": "rich-text",
+      "blocks": {
+        "1643852571ff38674c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsure which class is right for your child?"
+          }
+        },
+        "1643852571ff38674c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Schedule a free consultation with one of our Ivy Camps Program Advisors and they will be happy to help!<\/p>"
+          }
+        },
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/free-personalized-consultation-from-ivy-camps-usa",
+            "link_text": "Schedule a Free Consultation"
+          }
+        }
+      },
+      "block_order": [
+        "1643852571ff38674c-0",
+        "1643852571ff38674c-1",
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "1643852344781b4d99",
+    "165236990038abf387",
+    "1652369796931898ac",
+    "165237392335314273",
+    "1652373878c2535249",
+    "165236999220a695e1",
+    "1643852286378c6c2c",
+    "1650982958dfef4dd9",
+    "16509829672f5e4c9c",
+    "1643852503b1830fd3",
+    "16438524965c1d0674",
+    "1643852501d78c948f",
+    "16523763694a3964a7",
+    "164385249083e17b3f",
+    "16475224534d354781",
+    "16438525710a60f71f"
+  ]
+}

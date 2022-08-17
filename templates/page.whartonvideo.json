@@ -1,0 +1,28 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1650982117f2d7f497": {
+      "type": "video-block",
+      "settings": {
+        "vb_title": "Walk to Class with a Wharton Student",
+        "vb_title_color": "#041e42",
+        "vb_subtitle": "",
+        "vb_subtitle_color": "#43bee5",
+        "vb_video_url": "https:\/\/vimeo.com\/694987666",
+        "vb_items_title": "",
+        "vb_items_title_color": "#43bee5",
+        "vb_items_subtitle": "",
+        "vb_items_subtitle_color": "#43bee5",
+        "vb_background_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1650982117f2d7f497"
+  ]
+}

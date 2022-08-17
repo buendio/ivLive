@@ -1,0 +1,226 @@
+{
+  "sections": {
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "How it Works",
+            "title_size": 80,
+            "subheading": "Live and online classes, camps, and tutoring for ages 6-14",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Instagram_Posts_2_13.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16437271667fa24479": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/67.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our Format",
+        "text": "<p>➜ Most <a href=\"\/collections\/after-school-classes\" title=\"After-School Classes\">classes<\/a>, <a href=\"\/pages\/ivy-camps-usa-tutoring-primary-middle-6-14\" title=\"Tutoring for Ages 6-14\">tutoring sessions<\/a>, and <a href=\"\/pages\/summer-camp-2022\" title=\"Summer Camp 2022\">camps<\/a> are held <strong>live and online <\/strong>(with the only exception being our <a href=\"\/pages\/in-person-summer-camps-2022\" title=\"In-Person Summer Camps 2022\">in-person summer camps<\/a>)<br\/><br\/>➜ All <a href=\"\/collections\/after-school-classes\" title=\"After-School Classes\">group classes<\/a> and <a href=\"\/pages\/summer-camp-2022\" title=\"Summer Camp 2022\">camps<\/a> will have a small class size between <strong>1-6 students<\/strong><br\/><br\/>➜ At the end of every group program and private camp, students will have a <strong>completed final project<\/strong> applying the content that they learned through the week<br\/><br\/>➜ At the end of every tutoring session, <strong>tutors will provide feedback<\/strong> so students and parents can understand what is going well and what points of improvement the students still may have<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1648226294eb534192": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "1648226294f44d013b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1648226294f44d013b-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1647876752cd4ea717": {
+      "type": "video-infographic-section",
+      "disabled": true,
+      "blocks": {
+        "6cc78b51-d71f-4fac-9d9a-ac8fbe59ef17": {
+          "type": "vi-block",
+          "settings": {
+            "vi_block_image": "shopify:\/\/shop_images\/Group_27.png",
+            "vi_block_text": "Welcome and Meet your instructor"
+          }
+        },
+        "06b8156f-3dde-4db1-a05e-48498a8c3d9a": {
+          "type": "vi-block",
+          "settings": {
+            "vi_block_image": "shopify:\/\/shop_images\/Group_28.png",
+            "vi_block_text": "Interact with kids around the world"
+          }
+        },
+        "5c0df63a-451d-416c-99ae-8d756eb0a151": {
+          "type": "vi-block",
+          "settings": {
+            "vi_block_image": "shopify:\/\/shop_images\/Group_29.png",
+            "vi_block_text": "Learn About Topics You’re Interested in"
+          }
+        },
+        "d5ded7b9-af5c-485f-b386-494a3623e1ae": {
+          "type": "vi-block",
+          "settings": {
+            "vi_block_image": "shopify:\/\/shop_images\/Group_30.png",
+            "vi_block_text": "Have Fun"
+          }
+        },
+        "e168101f-13ef-4247-8d62-82660ffe0a16": {
+          "type": "vi-block",
+          "settings": {
+            "vi_block_image": "shopify:\/\/shop_images\/Group_31.png",
+            "vi_block_text": "Showcase what you’ve learned"
+          }
+        }
+      },
+      "block_order": [
+        "6cc78b51-d71f-4fac-9d9a-ac8fbe59ef17",
+        "06b8156f-3dde-4db1-a05e-48498a8c3d9a",
+        "5c0df63a-451d-416c-99ae-8d756eb0a151",
+        "d5ded7b9-af5c-485f-b386-494a3623e1ae",
+        "e168101f-13ef-4247-8d62-82660ffe0a16"
+      ],
+      "settings": {
+        "vi_title": "A Day At Ivy Camps USA",
+        "vi_title_color": "#ffffff",
+        "vi_subtitle": "Educational and fun programs",
+        "vi_subtitle_color": "#43bee5",
+        "vi_video_url": "",
+        "vi_background_color": "#021939",
+        "vi_section_btl": "shopify:\/\/shop_images\/Untitled_design_97.png",
+        "vi_section_bbr": "shopify:\/\/shop_images\/Untitled_design_95_2bd6466a-a03c-4f72-b1d4-06d7723f206c.png"
+      }
+    },
+    "1647878346c47b91f8": {
+      "type": "video-block",
+      "blocks": {
+        "3af52a60-5c23-4d42-b006-e8b4727ea090": {
+          "type": "vb-block",
+          "settings": {
+            "vb_item_video": "https:\/\/vimeo.com\/690538272",
+            "vb_item_title": "Public Speaking",
+            "vb_item_title_color": "#ffffff",
+            "vb_item_subtitle": "",
+            "vb_item_subtitle_color": "#43bee5"
+          }
+        },
+        "b745a3d8-1399-4177-a932-f8802403e878": {
+          "type": "vb-block",
+          "settings": {
+            "vb_item_video": "https:\/\/vimeo.com\/692007202",
+            "vb_item_title": "YouTube Video Creation",
+            "vb_item_title_color": "#ffffff",
+            "vb_item_subtitle": "",
+            "vb_item_subtitle_color": "#43bee5"
+          }
+        }
+      },
+      "block_order": [
+        "3af52a60-5c23-4d42-b006-e8b4727ea090",
+        "b745a3d8-1399-4177-a932-f8802403e878"
+      ],
+      "settings": {
+        "vb_title": "What To Expect At Ivy Camps USA",
+        "vb_title_color": "#ffffff",
+        "vb_subtitle": "",
+        "vb_subtitle_color": "#43bee5",
+        "vb_video_url": "https:\/\/vimeo.com\/700907847",
+        "vb_items_title": "A Look Into Our Classes",
+        "vb_items_title_color": "#ffffff",
+        "vb_items_subtitle": "",
+        "vb_items_subtitle_color": "#43bee5",
+        "vb_background_color": "#041e42",
+        "vb_section_btl": "shopify:\/\/shop_images\/Untitled_design_94.png",
+        "vb_section_bbr": "shopify:\/\/shop_images\/Untitled_design_95_2bd6466a-a03c-4f72-b1d4-06d7723f206c.png"
+      }
+    },
+    "1650555841d2bb0348": {
+      "type": "rich-text",
+      "blocks": {
+        "1650555841a905e2ed-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsure where to start?"
+          }
+        },
+        "1650555841a905e2ed-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Schedule a free consultation with one of our Ivy Camps Program Advisors and they will be happy to help!<\/p>"
+          }
+        },
+        "59b8328a-c047-455b-949d-bd9f5c180bfd": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/free-personalized-consultation-from-ivy-camps-usa",
+            "link_text": "Schedule a Consultation"
+          }
+        }
+      },
+      "block_order": [
+        "1650555841a905e2ed-0",
+        "1650555841a905e2ed-1",
+        "59b8328a-c047-455b-949d-bd9f5c180bfd"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "1643727054c854f508",
+    "main",
+    "16437271667fa24479",
+    "1648226294eb534192",
+    "1647876752cd4ea717",
+    "1647878346c47b91f8",
+    "1650555841d2bb0348"
+  ]
+}

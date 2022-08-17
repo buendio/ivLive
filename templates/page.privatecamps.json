@@ -1,0 +1,204 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16438135519f510f80": {
+      "type": "slideshow",
+      "blocks": {
+        "164381355188477f9b-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Private Camp",
+            "title_size": 80,
+            "subheading": "Explore any of our subjects in an individual or private group setting",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/9_AM_3.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "164381355188477f9b-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "164381354828d6b964": {
+      "type": "featured-product",
+      "blocks": {
+        "164381354879108a85-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "164381354879108a85-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "164381354879108a85-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "164381354879108a85-1": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "164381354879108a85-0",
+        "164381354879108a85-2",
+        "164381354879108a85-3",
+        "164381354879108a85-1"
+      ],
+      "settings": {
+        "featured_product": "private-camp",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "164381676484484218": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1643816764fb92ade8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Explore any of the following topics"
+          }
+        }
+      },
+      "block_order": [
+        "1643816764fb92ade8-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16438160236ebd2bf0": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "1643816023e3d7ef11-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p><a href=\"https:\/\/ivycampsusa.com\/products\/after-school-classes-backyard-biology\">Backyard Biology: Exploring Plants & Animals Around You<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/products\/after-school-classes-design-cities-with-legos\">Design Cities with Legos<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/products\/after-school-classes-engineer-a-better-world-with-stanford-design-cycle\">Engineer a Better World with the Standard Design Cycle<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/products\/after-school-classes-water-biology-and-chemistry-ice-steam-how-h2o-powers-life\">Ice, Water, and STEAM: How H2O Powers Life<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-physics-building-adventures\">Physics Building Adventures<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/products\/after-school-classes-science-of-motion-and-machines\">Science of Motion & Machines<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/products\/after-school-classes-steam-stem-for-kids-science-technology-engineering-arts-technology-discovery\">Science, Technology, Engineering, Arts, and Math Discovery<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-strategy-and-wonder-tabletop-game-design\">Strategy & Wonder: Tabletop Game Design<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/products\/after-school-classes-to-infinity-and-beyond-exploring-outer-space\">To Infinity & Beyond: Exploring Outer Space<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-medicine-for-kids-tour-the-human-body\">Tour the Human Body<\/a><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1643816023e3d7ef11-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-become-a-stock-market-expert\">Become a Stock Market Expert<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-build-your-own-business\">Build Your Own Business<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-design-your-brand-marketing-and-advertising\">Design Your Brand: Marketing & Advertising<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-personal-finance-for-kids-growing-gold\">Growing Gold: Personal Finance for Kids<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-its-game-time-decision-making-life-business\">It's Game Time: Decision Making in Life & Business<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-take-charge-leading-as-a-ceo\">Take Charge! Leading as a CEO<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-teamwork-and-operations-building-a-carnival\">Teamwork & Operations: Building a Carnival<\/a><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1643816023e3d7ef11-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-acting-for-stage-and-media\">Acting for Stage & Media<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-culture-crafts-cooking-around-the-world\">Culture, Crafts, and Cooking<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-discover-superheroes-through-comic-book-design\">Discovering Superheroes through Comic Book Design<\/a><\/p><p><a href=\"\/products\/foundations-of-effective-public-speaking\" title=\"Foundations of Effective Public Speaking - 5 Weeks\">Foundations of Effective Public Speaking<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-podcasting-launch-your-own-podcasting\">Launch Your Own Podcast<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-master-the-art-of-public-speaking\">Master the Art of Public Speaking<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-master-youtube-content-creation\">Master YouTube Content Creation<\/a><\/p><p><a href=\"\/products\/public-speaking-in-action-winning-debates\" title=\"Public Speaking in Action: Winning Debates - 5 Weeks\">Public Speaking in Action: Winning Debates<\/a><\/p><p><a href=\"https:\/\/ivycampsusa.com\/collections\/after-school\/products\/after-school-classes-writing-and-design-the-power-of-our-words\">Writing & Design: The Power of Our Words<\/a><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1643816023e3d7ef11-0",
+        "1643816023e3d7ef11-1",
+        "1643816023e3d7ef11-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16437414563c46dcaf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/91.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "How it Works",
+        "text": "<p>➜ All private camp sessions are <strong>60 minutes<\/strong><\/p><p>➜ All private camps will be taught by our <strong>instructors from top universities such as Harvard, Yale, MIT, <\/strong>and others!<\/p><p>➜ Private camps can <strong>occur on any day of the week at any time convenient to the students<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": true
+      }
+    },
+    "16437414728908bd9e": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/92.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Looking to take a class with a friend or small group?",
+        "text": "<p>A <strong>30% off <\/strong>discount is available for shared private camps with 2 students, and a<strong> 40% discount <\/strong>is available for shared private camps with 3 or more students! Use live chat or email us to request a group code.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16438135519f510f80",
+    "164381354828d6b964",
+    "164381676484484218",
+    "16438160236ebd2bf0",
+    "16437414563c46dcaf",
+    "16437414728908bd9e"
+  ]
+}

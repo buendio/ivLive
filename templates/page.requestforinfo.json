@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1656707812baaa9b18": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "165582284948799d18": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "165582284935b6f193-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Learn More!"
+          }
+        },
+        "165582284935b6f193-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>To learn more about our online or in-person programs, please fill out the form below or <a href=\"\/pages\/free-personalized-consultation-from-ivy-camps-usa\" target=\"_blank\" title=\"Schedule a Free Personalized Consultation\">click here to schedule <\/a> a <strong>Free Consultation <\/strong>with one of our <strong>Program Advisors<\/strong>. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165582284935b6f193-0",
+        "165582284935b6f193-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16606894646ed7f167": {
+      "type": "advanced-content",
+      "blocks": {
+        "166068946453948b96-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<center id=\"consultation\"> <script charset=\"utf-8\" type=\"text\/javascript\" src=\"\/\/js.hsforms.net\/forms\/v2.js\"><\/script>\n<script id=\"consultation\">\n  hbspt.forms.create({\n    region: \"na1\",\n    portalId: \"8655579\",\n    formId: \"f08d66b1-a296-4168-ae96-34a3632abbf7\"\n  });\n<\/script> <\/center>",
+            "width": "50%",
+            "alignment": "top-middle"
+          }
+        },
+        "a6a0cb25-60f5-45bf-8ad6-079713e31f63": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p style=\"text-align:center\"><b>\nSpeak to a Academic Advisor about Ivy Camps USA<\/b><\/p>\n<!-- Start of Meetings Embed Script -->\n    <div class=\"meetings-iframe-container\" data-src=\"https:\/\/meetings.hubspot.com\/emily-crisman?embed=true\"><\/div>\n    <script type=\"text\/javascript\" src=\"https:\/\/static.hsappstatic.net\/MeetingsEmbed\/ex\/MeetingsEmbedCode.js\"><\/script>\n  <!-- End of Meetings Embed Script -->",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166068946453948b96-1",
+        "a6a0cb25-60f5-45bf-8ad6-079713e31f63"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1656707812baaa9b18",
+    "165582284948799d18",
+    "16606894646ed7f167"
+  ]
+}

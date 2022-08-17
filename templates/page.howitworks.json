@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "How it Works",
+            "title_size": 80,
+            "subheading": "Live and online classes, camps, and tutoring for ages 6-14",
+            "link": "shopify:\/\/collections\/online-classes",
+            "link_text": "Our Group Classes",
+            "link_2": "shopify:\/\/pages\/online-tutoring",
+            "link_text_2": "Our Tutoring",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Business-_Desktop.png",
+            "image_mobile": "shopify:\/\/shop_images\/PublicSpeaking-_Mobile_36f4c6d1-5165-45ae-b630-30ee20f952f0.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1643852503b1830fd3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/67.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Format",
+        "text": "<p><\/p><p>➜ All classes, tutoring sessions, and camps are held<strong> live and online<\/strong><\/p><p>➜ All group classes and camps will have a small class size between <strong>1-6 students<\/strong><\/p><p>➜ At the end of every group program and private camp, students will have a <strong>completed final project <\/strong>applying the content that they leaned through the week <\/p><p>➜ At the end of every tutoring session, <strong>tutors will provide feedback<\/strong> so students and parents can understand what is going well and what points of improvement the students still may have <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16438524965c1d0674": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/40_101ed78c-c25e-4ef1-8770-ec0ddaeac566.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Curriculum",
+        "text": "<p><\/p><p>➜ All classes feature curriculum <strong>designed by top education professionals<\/strong> with <strong>decades of experience<\/strong> in global K-12 education<\/p><p>➜ Our <strong>tutoring <\/strong>sessions are structured using the best practices for effective virtual learning with activities provided by our curriculum experts<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1643852501d78c948f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/41_d79f53b6-4beb-420b-a679-99975538436c.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Instructors",
+        "text": "<p><\/p><p>➜ All instructors come from<strong> top universities<\/strong> in the <strong>United States <\/strong>such as <strong>Dartmouth, Harvard, Yale, MIT, and many more<\/strong><\/p><p>➜ Ivy Camps USA instructors go through a <strong>comprehensive training program <\/strong>designed by our curriculum professionals<\/p><p><\/p>",
+        "button_label": "Meet our instructors",
+        "button_link": "shopify:\/\/pages\/our-instructors",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "164385249083e17b3f": {
+      "type": "testimonials",
+      "blocks": {
+        "16438524901e906814-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I've seen the computer screen turn into a vehicle for learning, laughter, and most of all, fun, for campers all around the world!<\/p>",
+            "author": "Tara S.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "16438524901e906814-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I really liked everything at the camp. The subject was really fun!<\/p>",
+            "author": "Sara R.",
+            "author_info": "Student from the UAE"
+          }
+        },
+        "16438524901e906814-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My sons liked the camp very much. This whole experience has been great!<\/p>",
+            "author": "Yasmine R.",
+            "author_info": "Mother from Chile"
+          }
+        }
+      },
+      "block_order": [
+        "16438524901e906814-0",
+        "16438524901e906814-1",
+        "16438524901e906814-2"
+      ],
+      "settings": {
+        "title": "What Parents & Students Are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#041e42",
+        "test_section_background_color": "#ffffff",
+        "test_section_btl": "shopify:\/\/shop_images\/Untitled_design_92.png",
+        "test_section_btr": "shopify:\/\/shop_images\/13_copy_3A.png",
+        "test_section_bbl": "shopify:\/\/shop_images\/14_copy_3A.png",
+        "test_section_bbr": "shopify:\/\/shop_images\/Blob-1_f46a7155-2abc-4a79-816b-03133277f121.png"
+      }
+    },
+    "16438525710a60f71f": {
+      "type": "rich-text",
+      "blocks": {
+        "1643852571ff38674c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsure which class is right for your child?"
+          }
+        },
+        "1643852571ff38674c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Schedule a free consultation with one of our Ivy Camps Program Advisors and they will be happy to help!<\/p>"
+          }
+        },
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/free-personalized-consultation-from-ivy-camps-usa",
+            "link_text": "Schedule a Free Consultation"
+          }
+        }
+      },
+      "block_order": [
+        "1643852571ff38674c-0",
+        "1643852571ff38674c-1",
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "1643852503b1830fd3",
+    "16438524965c1d0674",
+    "1643852501d78c948f",
+    "164385249083e17b3f",
+    "16438525710a60f71f"
+  ]
+}

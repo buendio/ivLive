@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16595503260fd794a2": {
+      "type": "slideshow",
+      "blocks": {
+        "16595503268258c73b-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Certificate Pathways",
+            "title_size": 80,
+            "subheading": "Subject Based Progressive Learning for Kids 6-14",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16595503268258c73b-1"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1659620341ca69e298": {
+      "type": "rich-text",
+      "blocks": {
+        "165962034150e9d88a-0": {
+          "type": "heading",
+          "settings": {
+            "title": "What are Certificate Pathways?"
+          }
+        }
+      },
+      "block_order": [
+        "165962034150e9d88a-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1659620227acec9105": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/General_Pathway_Graphic.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "",
+        "text": "<p>As students start their learning journey with Ivy Camps, most of them start at the beginning of a certificate pathway by taking the foundational class to build their base knowledge. After that is complete, there are 2 additional classes to take to complete a pathway. <br\/><br\/>The pathway curriculum is tailored to meet the academic needs of kids ages 6 - 14, so that they can expand their knowledge on a specific subject. We offer certificate pathways in Public Speaking, Business, STEM, and Writing. <br\/><br\/>Learn more below about how your child can begin their Ivy Camps adventure with one of our pathways. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1659620453eea01519": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Public_Speaking_1.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Public Speaking",
+        "text": "<p>Ivy Camps public speaking classes are very popular with parents and is the pathway where most kids start their academic pursuit. It is extremely effective as it not only improves their communication skills, but it can also have crossover benefits to how well they perform in writing and other subject areas.<\/p><p><strong>Benefits to the Public Speaking Certificate Pathway<\/strong><\/p><p>● Helps them become a better listener<br\/>● Builds their confidence and leadership skills<br\/>● Increase their vocabulary and enhance their pronunciation abilities <\/p><p><\/p>",
+        "button_label": "View the Pathway",
+        "button_link": "shopify:\/\/pages\/public-speaking-with-confidence-certificate-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": true
+      }
+    },
+    "165962056144c0db00": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Business_1.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Business",
+        "text": "<p>Starting on the Ivy Camps business pathway is an excellent way for students to build leadership skills and knowledge, while deciding if they might want to go further with their business education. The information learned during these classes will often carry over into other aspects of life and academic performance.<\/p><p><strong>Benefits to the Business Certificate Pathway<\/strong><\/p><p>● Improve teamwork and decision making abilities<br\/>● Understand if the student might want to start their own business<br\/>● Learn about the stock market and become interested in investing <\/p><p><\/p>",
+        "button_label": "View the Pathway",
+        "button_link": "shopify:\/\/pages\/junior-business-leader-certificate-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1659620672bf05ffde": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/STEM_1.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "STEM",
+        "text": "<p>Students enjoy our STEM certificate pathway as the learning process is fun, with the curriculum still being academically stimulating. Not only is the knowledge in these classes beneficial for later on in students' educational journey, but it can lead to STEM majors in college and the focus of future career choices.<\/p><p><strong>Benefits to the STEM Certificate Pathway<\/strong><\/p><p>● Gain experience with scientific method and inquiry<br\/>● Enhance problem solving skills<br\/>● Obtain a deeper understanding of engineering and science<\/p><p><\/p>",
+        "button_label": "View the Pathway",
+        "button_link": "shopify:\/\/pages\/stem-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16596207497bf468b7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Writing_1_3c82552c-3d66-4d64-ae32-54a2925a6300.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Writing",
+        "text": "<p>Becoming a better writer is not only essential to excelling in school, but it also can help students by improving their overall ability to communicate. Even if students end up pursuing a career where there is limited writing, it will still involve verbal communication and the best way to start improving that early is by focusing on being a proficient writer.<\/p><p><strong>Benefits to the Writing Certificate Pathway<\/strong><\/p><p>● Establish a solid understanding of English grammar<br\/>● Elevate storytelling abilities to be more clear and focused<br\/>● Learn new organizational skills that can apply to everyday tasks<\/p><p><\/p>",
+        "button_label": "View the Pathway",
+        "button_link": "shopify:\/\/pages\/clarity-and-precision-in-writing-certificate-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16596204209cc77d23": {
+      "type": "advanced-content",
+      "blocks": {
+        "1659620420a95cdfea-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1659620420a95cdfea-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "165962084011e5cd87": {
+      "type": "faq",
+      "blocks": {
+        "1659620840f499f699-0": {
+          "type": "question",
+          "settings": {
+            "title": "What can students do with these certifications?",
+            "text": "<p>These certification can be used on resumes and portfolios to demonstrate that a student has trained in, and demonstrated high levels of achievement in the subject matter of their certificate.<\/p>"
+          }
+        },
+        "1659620840f499f699-1": {
+          "type": "question",
+          "settings": {
+            "title": "If I have already taken a course, can it count towards the certificate?",
+            "text": "<p>Absolutely! Please email info@ivycamps.org to learn more.<\/p>"
+          }
+        },
+        "7b53fe69-e06a-4309-8355-d3d5816b7c28": {
+          "type": "question",
+          "settings": {
+            "title": "Will I receive a copy of my certificate?",
+            "text": "<p>For students in the USA, we will be mailing a physical certificate upon completion. For students in other parts of the world, we will email a certificate that can be printed and displayed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1659620840f499f699-0",
+        "1659620840f499f699-1",
+        "7b53fe69-e06a-4309-8355-d3d5816b7c28"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16595503260fd794a2",
+    "1659620341ca69e298",
+    "1659620227acec9105",
+    "1659620453eea01519",
+    "165962056144c0db00",
+    "1659620672bf05ffde",
+    "16596207497bf468b7",
+    "16596204209cc77d23",
+    "165962084011e5cd87"
+  ]
+}

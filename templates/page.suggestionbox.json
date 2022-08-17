@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16437390128fc9d961": {
+      "type": "advanced-content",
+      "blocks": {
+        "1643739012aecc8ed1-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div data-tf-widget=\"LOAzj13P\" data-tf-iframe-props=\"title=Suggestion Box\" data-tf-medium=\"snippet\" style=\"width:100%;height:800px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1643739012aecc8ed1-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16437390128fc9d961"
+  ]
+}

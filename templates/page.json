@@ -1,0 +1,82 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "About Us",
+            "title_size": 80,
+            "subheading": "Founded with the goal of connecting kids around the world",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/SpringSemester_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/untitled_design__76.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16437271667fa24479": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/15.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our history",
+        "text": "<p>Founded in 2014, Ivy Camps has delivered educational and fun programming to thousands of children via both in-person and online interactive classes. Ivy Camps has delivered its interactive classes in over 40 countries around the world. With a consistent 5-star satisfaction rating, Ivy Camps prides itself on being the preeminent provider of supplemental education designed for any student who seeks to widen their path to a future of elite education.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "164372719101a6c7c3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-01T100221.885.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our values",
+        "text": "<p>➸ Foster a compassionate global community<br\/>➸ Inspire curiosity and learning<br\/>➸ Promote fearless experimenting and discovery<br\/>➸ Value people and encourage diversity<br\/>➸ Cultivate success through fun<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "16437271667fa24479",
+    "164372719101a6c7c3"
+  ]
+}

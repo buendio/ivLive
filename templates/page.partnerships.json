@@ -1,0 +1,504 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Partner with Us",
+            "title_size": 80,
+            "subheading": "Providing enriching extracurricular classes and camps for learners K-12, delivered by instructors from the Top 10 US universities",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/pexels-pixabay-267885_0285705c-a167-4603-b19a-ae49b425ed4c.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/untitled_design__76.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16442489859abd9bae": {
+      "type": "text-columns",
+      "blocks": {
+        "1644248985a1e4483b-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3_001d0e52-d712-43c2-8f2b-9ffadad06543.png",
+            "image_width": 250,
+            "title": "Essential Soft Skills",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644248985a1e4483b-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2_60e2b454-6a76-49fb-be35-269e70a6a696.png",
+            "image_width": 250,
+            "title": "A Growing Global Community",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644248985a1e4483b-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1_49df70e6-c8d7-4e9f-afc6-9bf783122c23.png",
+            "image_width": 250,
+            "title": "A Lasting Impact",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644248985a1e4483b-0",
+        "1644248985a1e4483b-1",
+        "1644248985a1e4483b-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16442489897f280fd2": {
+      "type": "advanced-content",
+      "blocks": {
+        "1644248989394e9e86-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1644248989394e9e86-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1644249468525c4a5b": {
+      "type": "rich-text",
+      "blocks": {
+        "164424946890adf30a-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Over 50 Programs to Choose From"
+          }
+        },
+        "164424946890adf30a-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Conducted in smaller groups of 6-8 learners for quality assurance, our interactive and engaging virtual, in-person, or hybrid programs are designed for long-term learner impact. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164424946890adf30a-0",
+        "164424946890adf30a-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16437271667fa24479": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/23_27f2be68-1a1e-48e0-be04-8e5cb0871415.png",
+        "image_width": 450,
+        "subtitle": "Years K-12",
+        "title": "STEM, Business, and Arts",
+        "text": "<p>Explore topics and gain relevant skills for future careers so your students can excel in the classroom and beyond!<\/p>",
+        "button_label": "Explore our Programs",
+        "button_link": "shopify:\/\/collections\/online-classes",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "164372719101a6c7c3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/22_df8cb3ea-151b-4faf-a19c-1ed1737e4efc.png",
+        "image_width": 450,
+        "subtitle": "Years 9-12",
+        "title": "Pre-University Prep",
+        "text": "<p>Have your students <em>explore majors and careers, gain skills relevant for college admissions, and prepare for a successful college applications cycle <\/em>with our <strong>Pre-University Prep <\/strong>programs.<\/p>",
+        "button_label": "Explore our Programs",
+        "button_link": "https:\/\/ivycampsprep.com\/",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16442494710214c14c": {
+      "type": "advanced-content",
+      "blocks": {
+        "16442494716fbdfb2a-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16442494716fbdfb2a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "164425059997d9131c": {
+      "type": "rich-text",
+      "blocks": {
+        "16442505994a3d5539-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Instructors from Top 10 US Universities"
+          }
+        },
+        "16442505994a3d5539-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our instructors come from diverse backgrounds and cultures. Each goes through our specialized training program to further equip them to guide and consistently inspire our learners.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16442505994a3d5539-0",
+        "16442505994a3d5539-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1644250579116d9828": {
+      "type": "text-columns",
+      "blocks": {
+        "1644250579540e3d96-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/10_5c05b5e8-cc3d-477a-a046-516bdd9f9784.png",
+            "image_width": 200,
+            "title": "Sasha",
+            "text": "<p><strong>School:<\/strong> Harvard University<br\/><strong>Major:<\/strong> Neuroscience & Global Health<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644250579540e3d96-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/9_4198fbaf-f60b-4433-8c49-1ac7b95b7d41.png",
+            "image_width": 200,
+            "title": "Nick",
+            "text": "<p><strong>School:<\/strong> Brown University<br\/><strong>Major:<\/strong> Economics & Mathematics<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1644250579540e3d96-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/8_b161eea1-84d0-4757-8df5-d8160e8b1b46.png",
+            "image_width": 200,
+            "title": "Melissa",
+            "text": "<p><strong>School: <\/strong>Dartmouth College<br\/><strong>Major:<\/strong> Psychology<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644250579540e3d96-0",
+        "1644250579540e3d96-1",
+        "1644250579540e3d96-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1644250586a06958df": {
+      "type": "text-columns",
+      "blocks": {
+        "16442505862599f59d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/6_9e347408-6b40-41ec-8314-771af49527e7.png",
+            "image_width": 200,
+            "title": "Astrid",
+            "text": "<p><strong>School:<\/strong> Columbia University<br\/><strong>Major:<\/strong> Political Science<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16442505862599f59d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/7_a37b6072-11f0-483f-92cd-ff5d6c24b7cb.png",
+            "image_width": 200,
+            "title": "Liam",
+            "text": "<p><strong>School:<\/strong> Stanford University<br\/><strong>Major:<\/strong> Chemistry & Linguistics<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16442505862599f59d-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Innovation_Public_Speaking_Global_Awareness_Entrepreneurship_Leadership.png",
+            "image_width": 200,
+            "title": "Fatoumata",
+            "text": "<p><strong>School:<\/strong> Princeton University<br\/><strong>Major:<\/strong> Chemistry<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16442505862599f59d-0",
+        "16442505862599f59d-1",
+        "16442505862599f59d-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1644250900f3893d4a": {
+      "type": "rich-text",
+      "blocks": {
+        "0d17e41b-e43f-47a0-a5c2-01b1892f57f7": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/our-instructors",
+            "link_text": "Meet More Instructors"
+          }
+        }
+      },
+      "block_order": [
+        "0d17e41b-e43f-47a0-a5c2-01b1892f57f7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1644250905d49182ea": {
+      "type": "advanced-content",
+      "blocks": {
+        "164425090554bbf950-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "164425090554bbf950-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1644251137bd985a59": {
+      "type": "rich-text",
+      "blocks": {
+        "164425113728f953ee-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Previous Programs"
+          }
+        },
+        "164425113728f953ee-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Explore some of the programs we have enjoyed running.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164425113728f953ee-0",
+        "164425113728f953ee-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1644251180d270384b": {
+      "type": "text-columns",
+      "blocks": {
+        "16442511807be1b3de-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Innovation_Public_Speaking_Global_Awareness_Entrepreneurship_Leadership_2.png",
+            "image_width": 400,
+            "title": "Mawhibatna Program - Sandooq al Watan, UAE",
+            "text": "<p><strong>Camp Characteristics: <br\/><\/strong>This partnership consisted of <strong>3 hours<\/strong> of programming for <strong>2 weeks<\/strong> on a school break for around <strong>300 students<\/strong>. Students had access to <strong>30 USA-based instructors from top schools.<\/strong><\/p><p><strong>Feedback: <br\/><\/strong>\"Out of all of the large providers we have worked with, the team at Ivy Camps USA has been the easiest and most enjoyable to work with\" <br\/>- Our Partner<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16442511807be1b3de-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Innovation_Public_Speaking_Global_Awareness_Entrepreneurship_Leadership_1.png",
+            "image_width": 400,
+            "title": "Wellington College International, China",
+            "text": "<p><strong>Camp Characteristics: <br\/><\/strong>This partnership was a summer-break camp with over <strong>1000 students<\/strong> taking in-person programs for <strong>6 weeks<\/strong>. This camp featured over <strong>40 USA-based instructors<\/strong> and <strong>150 local staff<\/strong>.<\/p><p><strong>Feedback: <br\/><\/strong>\"The whole communication process combines scientific, artistic, and commercial content, which is rich and interesting, and brings a full experience to my child\"<br\/>- Parent from China<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16442511807be1b3de-1",
+        "16442511807be1b3de-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1644251361ec64b726": {
+      "type": "advanced-content",
+      "blocks": {
+        "1644251361874d3fea-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1644251361874d3fea-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "16442513585d98dab4": {
+      "type": "rich-text",
+      "blocks": {
+        "1644251358ea4e68fe-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Build a Program & Grow with Us"
+          }
+        },
+        "1644251358ea4e68fe-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Our programs are tailored to your needs. Whether you are looking to include our in-person, virtual, or hybrid programs into your school's offering, we have the customizations to ensure you get the value you're looking for. To find out more about pricing and answer any questions you may have please submit your email. We will reach out to you shortly<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644251358ea4e68fe-0",
+        "1644251358ea4e68fe-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1644251373537cb625": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "16442489859abd9bae",
+    "16442489897f280fd2",
+    "1644249468525c4a5b",
+    "16437271667fa24479",
+    "164372719101a6c7c3",
+    "16442494710214c14c",
+    "164425059997d9131c",
+    "1644250579116d9828",
+    "1644250586a06958df",
+    "1644250900f3893d4a",
+    "1644250905d49182ea",
+    "1644251137bd985a59",
+    "1644251180d270384b",
+    "1644251361ec64b726",
+    "16442513585d98dab4",
+    "1644251373537cb625"
+  ]
+}

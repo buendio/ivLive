@@ -1,0 +1,333 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Testimonials",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/PARALLAX_HEADER_Tutoring.png",
+            "image_mobile": "shopify:\/\/shop_images\/untitled_design__76.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "164788935364177ff9": {
+      "type": "testimonial-boxes",
+      "disabled": true,
+      "blocks": {
+        "1647889353bbbd283f-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I've seen the computer screen turn into a vehicle for learning, laughter, and most of all, fun, for campers all around the world!<\/p>",
+            "author": "Sara R.",
+            "author_info": "Student from the UAE"
+          }
+        },
+        "1647889353bbbd283f-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The program lead was great and (my daughter) enjoyed the session. She was so excited, she was asking the next day if there is a class and if she could do it again. Thanks for the experience.<\/p>",
+            "author": "Sasha M.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "1647889353bbbd283f-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>We are really enjoying this class.  Me and my son look forward to it each week.<\/p>",
+            "author": "Monique Q.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "1647889353bbbd283f-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>My daughter is very picky with instructors and courses but she really enjoys this one!<\/p>",
+            "author": "Fen S.",
+            "author_info": "Mother from China"
+          }
+        },
+        "9bc2b70d-3283-48a5-824b-cdc08ac2e1ed": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The instructors are SO GOOD! He was shy at first and they really helped him come out of his shell. He loves being in a class with other kids and was talking about it all morning<\/p>",
+            "author": "Nour S.",
+            "author_info": "Mother from the UAE"
+          }
+        },
+        "f08c1ef3-2c38-40c9-9950-e7345c1c5a8c": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>All of the kids have really enjoyed attending the camp program. They have definitely learned a lot and changed a lot through your camp in such a short period. They feel more passionate about learning and are more optimistic about their future thanks to your program.<\/p>",
+            "author": "John S.",
+            "author_info": "Father from South Africa"
+          }
+        }
+      },
+      "block_order": [
+        "1647889353bbbd283f-0",
+        "1647889353bbbd283f-1",
+        "1647889353bbbd283f-2",
+        "1647889353bbbd283f-3",
+        "9bc2b70d-3283-48a5-824b-cdc08ac2e1ed",
+        "f08c1ef3-2c38-40c9-9950-e7345c1c5a8c"
+      ],
+      "settings": {
+        "tb_heading": "Ivy Camps USA Reviews from Our Parents & Students",
+        "tb_color_heading": "#021939",
+        "tb_background_color": "#ffffff",
+        "tb_section_btr": "shopify:\/\/shop_images\/GGPTopRight.png",
+        "tb_section_bbl": "shopify:\/\/shop_images\/GGPLowerLeft.png"
+      }
+    },
+    "166031478363e75cae": {
+      "type": "text-columns",
+      "blocks": {
+        "166031478348d880de-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Rafaela.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "166031478348d880de-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Noah_4ef44dd6-db14-457c-bf7b-c55e4e10aec3.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "166031478348d880de-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Emilio_0cccd5d2-ac2e-46ac-a00d-885c388387d2.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166031478348d880de-0",
+        "166031478348d880de-1",
+        "166031478348d880de-2"
+      ],
+      "settings": {
+        "title": "Students",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16603147903359bc92": {
+      "type": "text-columns",
+      "blocks": {
+        "1660314790e5277ccf-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Payal_1da409e2-8308-4d68-a74f-a657cce4f2bf.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1660314790e5277ccf-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Ji-hoon_6c354328-647b-45b7-893d-c1494a2efcfa.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1660314790e5277ccf-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jennifer.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660314790e5277ccf-0",
+        "1660314790e5277ccf-1",
+        "1660314790e5277ccf-2"
+      ],
+      "settings": {
+        "title": "Parents",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "166031480035d88432": {
+      "type": "text-columns",
+      "blocks": {
+        "16603148000208cd39-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Talia.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16603148000208cd39-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Jack_L.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16603148000208cd39-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/April_T.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16603148000208cd39-0",
+        "16603148000208cd39-1",
+        "16603148000208cd39-2"
+      ],
+      "settings": {
+        "title": "Instructors",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "166031648574fa16c5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/More_Classes_Section.png",
+        "image_width": 400,
+        "subtitle": "",
+        "title": "About Ivy Camps USA",
+        "text": "<p>We provide parents with a variety of learning opportunities, ranging from year round live online classes, in-person and online summer camps, as well as a mix of 1-on-1 tutoring options. Most of the programs we offer have specific curriculum that maps back to our certificate pathways, where students get to take a more in-depth exploration of a topic, so that they can gain a higher level of understanding.<\/p><p>If you want to learn more about our format and approach to learning at Ivy Camps, then you can view more detail on our <a href=\"https:\/\/ivycampsusa.com\/pages\/how-it-works\"><span style=\"text-decoration:underline\">How It Works<\/span><\/a> page.<\/p><p><\/p>",
+        "button_label": "View Our Classes",
+        "button_link": "https:\/\/ivycampsusa.com\/pages\/ivy-camps-usa-online-classes",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": true
+      }
+    },
+    "1660317129eb924851": {
+      "type": "rich-text",
+      "blocks": {
+        "166031712998ca913f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Request More Information"
+          }
+        },
+        "166031712998ca913f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We will send you a digital brochure about all of our programs<\/p>"
+          }
+        },
+        "388139f1-c10d-4da0-a8f9-e90d8b70b559": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/request-for-information",
+            "link_text": "Request more information"
+          }
+        }
+      },
+      "block_order": [
+        "166031712998ca913f-0",
+        "166031712998ca913f-1",
+        "388139f1-c10d-4da0-a8f9-e90d8b70b559"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "164788935364177ff9",
+    "166031478363e75cae",
+    "16603147903359bc92",
+    "166031480035d88432",
+    "166031648574fa16c5",
+    "1660317129eb924851"
+  ]
+}

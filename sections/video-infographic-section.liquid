@@ -1,0 +1,179 @@
+{%- style -%}
+  	.vi-wrapper.vb-{{ section.id }} {
+      background-color: {{ section.settings.vi_background_color }};
+    }
+
+	.vi-title.vb-{{ section.id }} {
+		color: {{ section.settings.vi_title_color }};
+	}	
+
+	.vi-subtitle.vb-{{ section.id }} {
+		color: {{ section.settings.vi_subtitle_color }};
+	}	
+
+}
+{%- endstyle -%}
+
+<div class="vi-wrapper vb-{{ section.id }}">
+
+	{%- if section.settings.vi_section_btl != blank -%}
+		{% assign img_url = section.settings.vi_section_btl | image_url: width: 500 %}
+    	<img class="vi-cover-tl" src="{{ img_url }}" alt=""/>
+	{%- endif -%}
+    {%- if section.settings.vi_section_btr != blank -%}
+		{% assign img_url = section.settings.vi_section_btr | image_url: width: 500 %}
+    	<img class="vi-cover-tr" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.vi_section_bbl != blank -%}
+		{% assign img_url = section.settings.vi_section_bbl | image_url: width: 500 %}
+    	<img class="vi-cover-bl" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.vi_section_bbr != blank -%}
+		{% assign img_url = section.settings.vi_section_bbr | image_url: width: 500 %}
+    	<img class="vi-cover-br" src="{{ img_url }}" alt=""/>
+	{%- endif -%}
+
+  
+  	<div class="vi-inner-wrapper">
+      
+      {%- if section.settings.vi_title != blank -%}
+      	<h2 class="vi-title vb-{{ section.id }}">{{ section.settings.vi_title }}</h2>
+      {%- endif -%}
+      
+      {%- if section.settings.vi_subtitle != blank -%}
+      	<div class="vi-subtitle vb-{{ section.id }}">{{ section.settings.vi_subtitle }}</div>
+      {%- endif -%}
+      
+      {%- if section.blocks.size > 0 -%}
+        <div class="vi-blocks-wrapper">
+          {%- for block in section.blocks -%}
+              <div class="vi-block mb-{{ section.blocks.size }}">
+
+                {%- if block.settings.vi_block_image != blank -%}
+                  {% assign img_url = block.settings.vi_block_image | image_url: width: 500 %}
+                  <img class="vi-block-image" src="{{ img_url }}" alt=""/>
+                {%- endif -%}
+
+                {%- if block.settings.vi_block_text != blank -%}
+                  <div class="vi-block-text">{{ block.settings.vi_block_text }}</div>
+                {%- endif -%}              
+
+              </div>
+          {%- endfor -%}
+        </div>     
+      {%- endif -%}
+      
+      {%- if section.settings.vi_infographic != blank -%}
+        <div class="vi-infographic-wrapper">
+			{% assign img_url = section.settings.vi_infographic | image_url: width: 1000 %}
+    		<img class="vi-infographic" src="{{ img_url }}"/>
+        </div>
+      {%- endif -%}
+      
+      {%- if section.settings.vi_video_url != blank -%}
+        <div class="vi-video-wrapper">
+          
+          {%- if section.settings.vi_video_url.type == "youtube" -%}
+            <iframe class="vi-video" src="//www.youtube.com/embed/{{ section.settings.vi_video_url.id }}?rel=0&showinfo=0&vq=720" frameborder="0" allowfullscreen></iframe>
+          {%- endif -%}
+          {%- if section.settings.vi_video_url.type == "vimeo" -%}
+            <iframe class="vi-video" src="//player.vimeo.com/video/{{ section.settings.vi_video_url.id }}?&byline=0&portrait=0&badge=0" frameborder="0" allowfullscreen></iframe>
+          {%- endif -%}
+                   
+        </div>
+      {%- endif -%}
+      
+   </div>
+
+</div>
+
+{% schema %}
+  {
+    "name": "Video Infographic Section",
+    "class": "index-section--hero",
+	"max_blocks":5,
+    "settings": [
+      {
+        "type": "text",
+        "id": "vi_title",
+        "label": "Title",
+        "default": "A Day At Ivy Camps USA"
+      },{
+        "type": "color",
+        "id": "vi_title_color",
+        "label": "Title Color",
+        "default": "#ffffff"
+      },{
+        "type": "text",
+        "id": "vi_subtitle",
+        "label": "Sub Title"
+      },{
+        "type": "color",
+        "id": "vi_subtitle_color",
+        "label": "Sub Title Color",
+        "default": "#43bee5"
+      },{
+        "type": "image_picker",
+        "id": "vi_infographic",
+        "label": "Info Graphic"
+      },{
+        "type": "video_url",
+        "id": "vi_video_url",
+        "label": "Video Link",
+        "default": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "info": "Supports YouTube and Vimeo. Not all features supported by Vimeo. [Learn more](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)",
+		"accept": [
+          "youtube",
+          "vimeo"
+        ]
+      },{
+        "type": "header",
+        "content": "Background Items"
+      },{
+        "type": "color",
+        "id": "vi_background_color",
+        "label": "Background Color",
+        "default": "#FFFFFF"
+      },{
+        "type": "image_picker",
+        "id": "vi_section_btl",
+        "label": "Background Image - Top Left"
+      },{
+        "type": "image_picker",
+        "id": "vi_section_btr",
+        "label": "Background Image - Top Right"
+      },{
+        "type": "image_picker",
+        "id": "vi_section_bbl",
+        "label": "Background Image - Bottom Left"
+      },{
+        "type": "image_picker",
+        "id": "vi_section_bbr",
+        "label": "Background Image - Bottom Right"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Video Infographic",
+        "category": "Custom"
+      }
+    ],
+	"blocks":[
+	  {
+        "type": "vi-block",
+        "name": "Infographic Item",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "vi_block_image",
+            "label": "Image"
+          },{
+            "type": "textarea",
+            "id": "vi_block_text",
+            "label": "Image Text"
+          }
+        ]
+      }
+	]
+  }
+{% endschema %}

@@ -1,0 +1,198 @@
+{%- style -%}
+  .tb-{{ section.id }} {
+	background-color: {{ section.settings.tb_background_color }};
+  }
+}
+{%- endstyle -%}
+
+<div
+  class="tb-section-wrapper tb-{{ section.id }}"
+  data-section-id="{{ section.id }}"
+  data-section-type="testimonials"
+  data-aos>
+  
+  
+	{%- if section.settings.tb_section_btl != blank -%}
+		{% assign img_url = section.settings.tb_section_btl | image_url: width: 500 %}
+    	<img class="tb-cover-tl" src="{{ img_url }}" alt=""/>
+	{%- endif -%}
+    {%- if section.settings.tb_section_btr != blank -%}
+		{% assign img_url = section.settings.tb_section_btr | image_url: width: 500 %}
+    	<img class="tb-cover-tr" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.tb_section_bbl != blank -%}
+		{% assign img_url = section.settings.tb_section_bbl | image_url: width: 500 %}
+    	<img class="tb-cover-bl" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.tb_section_bbr != blank -%}
+		{% assign img_url = section.settings.tb_section_bbr | image_url: width: 500 %}
+    	<img class="tb-cover-br" src="{{ img_url }}" alt=""/>
+	{%- endif -%}  
+  
+  
+    {%- if section.settings.tb_heading != blank -%}
+      <h2 class="tb-heading">{{ section.settings.tb_heading | escape }}</h2>
+    {%- endif -%}
+
+    {%- if section.blocks.size > 0 -%}
+  		<div class="tb-blocks-wrapper">
+          {%- for block in section.blocks -%}
+			<div class="tb-block-wrapper">
+              <div class="tb-block">
+                {%- if block.settings.icon == 'quote' -%}
+                  <span class="quote-icon"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-quote" viewBox="0 0 41 35"><path d="M10.208 17.711h6.124v16.332H0V21.684C0 8.184 5.444.956 16.332 0v6.125c-4.083 1.14-6.124 4.414-6.124 9.82v1.766zm24.498 0h6.124v16.332H24.498V21.684C24.498 8.184 29.942.956 40.83 0v6.125c-4.083 1.14-6.124 4.414-6.124 9.82v1.766z" fill="#000" fill-rule="evenodd"/></svg></span>
+                {%- elsif block.settings.icon == '5-stars' -%}
+                  <span class="testimonial-stars">★★★★★</span>
+                {%- elsif block.settings.icon == '4-stars' -%}
+                  <span class="testimonial-stars">★★★★</span>
+                {%- elsif block.settings.icon == '3-stars' -%}
+                  <span class="testimonial-stars">★★★</span>
+                {%- elsif block.settings.icon == '2-stars' -%}
+                  <span class="testimonial-stars">★★</span>
+                {%- elsif block.settings.icon == '1-star' -%}
+                  <span class="testimonial-stars">★</span>
+                {%- endif -%}
+
+                {%- if block.settings.testimonial != blank -%}
+                  <div class="rte-setting text-spacing">{{ block.settings.testimonial }}</div>
+                {%- endif -%}
+                
+                {%- if block.settings.author != blank -%}
+                  <cite class="tb-author">{{ block.settings.author | escape }}</cite>
+                {%- endif -%}
+                {%- if block.settings.author_info != blank -%}
+                  <div class="tb-info">{{ block.settings.author_info | escape }}</div>
+                {%- endif -%}
+              </div>
+          	</div>
+          {%- endfor -%}
+  		</div>
+    {%- endif -%}
+</div>
+
+{% schema %}
+  {
+    "name": "Testimonial Boxes",
+    "class": "index-section--hero",
+    "settings": [
+      {
+        "type": "text",
+        "id": "tb_heading",
+        "label": "Heading"
+      },{
+        "type": "color",
+        "id": "tb_color_heading",
+        "label": "Heading Color",
+        "default": "#021939"
+      },{
+        "type": "header",
+        "content": "Background Items"
+      },{
+        "type": "color",
+        "id": "tb_background_color",
+        "label": "Background Color",
+        "default": "#FFFFFF"
+      },{
+        "type": "image_picker",
+        "id": "tb_section_btl",
+        "label": "Background Image - Top Left"
+      },{
+        "type": "image_picker",
+        "id": "tb_section_btr",
+        "label": "Background Image - Top Right"
+      },{
+        "type": "image_picker",
+        "id": "tb_section_bbl",
+        "label": "Background Image - Bottom Left"
+      },{
+        "type": "image_picker",
+        "id": "tb_section_bbr",
+        "label": "Background Image - Bottom Right"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "testimonial",
+        "name": "Testimonial",
+        "settings": [
+          {
+            "type": "select",
+            "id": "icon",
+            "label": "Icon",
+            "default": "5-stars",
+            "options": [
+              {
+                "value": "none",
+                "label": "None"
+              },
+              {
+                "value": "quote",
+                "label": "Quote"
+              },
+              {
+                "value": "5-stars",
+                "label": "5 stars"
+              },
+              {
+                "value": "4-stars",
+                "label": "4 stars"
+              },
+              {
+                "value": "3-stars",
+                "label": "3 stars"
+              },
+              {
+                "value": "2-stars",
+                "label": "2 stars"
+              },
+              {
+                "value": "1-star",
+                "label": "1 star"
+              }
+            ]
+          },
+          {
+            "type": "richtext",
+            "id": "testimonial",
+            "label": "Text",
+            "default": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>"
+          },
+          {
+            "type": "text",
+            "id": "author",
+            "label": "Author",
+            "default": "Author's name"
+          },
+          {
+            "type": "text",
+            "id": "author_info",
+            "label": "Author info",
+            "default": "Los Angeles, CA"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Testimonial Boxes",
+        "blocks": [
+          {
+            "type": "testimonial"
+          },
+          {
+            "type": "testimonial"
+          },
+          {
+            "type": "testimonial"
+          },
+          {
+            "type": "testimonial"
+          },
+          {
+            "type": "testimonial"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

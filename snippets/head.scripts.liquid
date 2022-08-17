@@ -1,0 +1,12 @@
+<script>
+  window.globalScriptObserver = new MutationObserver((mutationsList, observer) => {
+    for (let mutation of mutationsList) {
+      const element = mutation.addedNodes[0]
+
+      if (element?.tagName === 'SCRIPT' && element.classList.contains('analytics')) {
+        element.type = 'lazyload.js'
+      }
+    }
+  })
+  window.globalScriptObserver.observe(document.head, { childList: true })
+</script>

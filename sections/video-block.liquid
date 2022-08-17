@@ -1,0 +1,223 @@
+{%- style -%}
+  	.vb-wrapper.vb-{{ section.id }} {
+      background-color: {{ section.settings.vb_background_color }};
+    }
+
+	.vb-title.vb-{{ section.id }} {
+		color: {{ section.settings.vb_title_color }};
+	}	
+
+	.vb-subtitle.vb-{{ section.id }} {
+		color: {{ section.settings.vb_subtitle_color }};
+	}	
+
+}
+{%- endstyle -%}
+
+<div class="vb-wrapper vb-{{ section.id }}">
+
+	{%- if section.settings.vb_section_btl != blank -%}
+		{% assign img_url = section.settings.vb_section_btl | image_url: width: 500 %}
+    	<img class="vb-cover-tl" src="{{ img_url }}" alt=""/>
+	{%- endif -%}
+    {%- if section.settings.vb_section_btr != blank -%}
+		{% assign img_url = section.settings.vb_section_btr | image_url: width: 500 %}
+    	<img class="vb-cover-tr" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.vb_section_bbl != blank -%}
+		{% assign img_url = section.settings.vb_section_bbl | image_url: width: 500 %}
+    	<img class="vb-cover-bl" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.vb_section_bbr != blank -%}
+		{% assign img_url = section.settings.vb_section_bbr | image_url: width: 500 %}
+    	<img class="vb-cover-br" src="{{ img_url }}" alt=""/>
+	{%- endif -%}
+
+  
+  	<div class="vb-inner-wrapper">
+      
+      {%- if section.settings.vb_title != blank -%}
+      	<h2 class="vb-title vb-{{ section.id }}">{{ section.settings.vb_title }}</h2>
+      {%- endif -%}
+      
+      {%- if section.settings.vb_subtitle != blank -%}
+      	<div class="vb-subtitle vb-{{ section.id }}">{{ section.settings.vb_subtitle }}</div>
+      {%- endif -%}     
+      
+      {%- if section.settings.vb_video_url != blank -%}
+        <div class="vb-video-wrapper">
+          
+          {%- if section.settings.vb_video_url.type == "youtube" -%}
+            <iframe class="vb-video iframe-video" loading="lazy" data-src="//www.youtube.com/embed/{{ section.settings.vb_video_url.id }}?rel=0&showinfo=0&vq=720" frameborder="0" allowfullscreen></iframe>
+          {%- endif -%}
+          {%- if section.settings.vb_video_url.type == "vimeo" -%}
+            <iframe class="vb-video iframe-video" loading="lazy" data-src="//player.vimeo.com/video/{{ section.settings.vb_video_url.id }}?&byline=0&portrait=0&badge=0" frameborder="0" allowfullscreen></iframe>
+          {%- endif -%}
+                   
+        </div>
+      {%- endif -%}
+      
+      {%- if section.blocks.size > 0 -%}
+      	{%- if section.settings.vb_items_title != blank -%}
+        	<h2 class="vb-items-title" style="color:{{ section.settings.vb_items_title_color }}">{{ section.settings.vb_items_title }}</h2>
+        {%- endif -%}
+
+        {%- if section.settings.vb_items_subtitle != blank -%}
+        	<div class="vb-items-subtitle" style="color:{{ section.settings.vb_items_subtitle_color }}">{{ section.settings.vb_items_subtitle }}</div>
+        {%- endif -%} 
+          
+      	<div class="vb-blocks-wrapper">
+          
+          {%- for block in section.blocks -%}
+              <div class="vb-block mb-{{ section.blocks.size }}">                
+                
+                <div class="vb-item-video-wrapper">
+                  {%- if block.settings.vb_item_video.type == "youtube" -%}
+                    <iframe class="vb-item-video iframe-video" loading="lazy" data-src="//www.youtube.com/embed/{{ block.settings.vb_item_video.id }}?rel=0&showinfo=0&vq=720" frameborder="0" allowfullscreen></iframe>
+                  {%- endif -%}
+                  {%- if block.settings.vb_item_video.type == "vimeo" -%}
+                    <iframe class="vb-item-video iframe-video" loading="lazy" data-src="//player.vimeo.com/video/{{ block.settings.vb_item_video.id }}?&byline=0&portrait=0&badge=0" frameborder="0" allowfullscreen></iframe>
+                  {%- endif -%}
+                </div>
+                         
+                {%- if block.settings.vb_item_title != blank -%}
+                  <div class="vb-item-title" style="color:{{ block.settings.vb_item_title_color }}">{{ block.settings.vb_item_title }}</div>
+                {%- endif -%}
+
+                {%- if block.settings.vb_item_subtitle != blank -%}
+                  <div class="vb-item-subtitle" style="color:{{ block.settings.vb_item_subtitle_color }}">{{ block.settings.vb_item_subtitle }}</div>
+                {%- endif -%}   
+                   
+              </div>
+          {%- endfor -%}
+        </div>     
+      {%- endif -%}
+      
+   </div>
+
+</div>
+
+{% schema %}
+  {
+    "name": "Video Block Section",
+    "max_blocks":2,
+    "class": "index-section--hero",
+	"settings": [
+      {
+        "type": "text",
+        "id": "vb_title",
+        "label": "Title",
+        "default": "A Day At Ivy Camps USA"
+      },{
+        "type": "color",
+        "id": "vb_title_color",
+        "label": "Title Color",
+        "default": "#ffffff"
+      },{
+        "type": "text",
+        "id": "vb_subtitle",
+        "label": "Sub Title"
+      },{
+        "type": "color",
+        "id": "vb_subtitle_color",
+        "label": "Sub Title Color",
+        "default": "#43bee5"
+      },{
+        "type": "video_url",
+        "id": "vb_video_url",
+        "label": "Video Link",
+        "default": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "info": "Supports YouTube and Vimeo. Not all features supported by Vimeo. [Learn more](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)",
+		"accept": [
+          "youtube",
+          "vimeo"
+        ]
+      },{
+        "type": "text",
+        "id": "vb_items_title",
+        "label": "Items Title"
+      },{
+        "type": "color",
+        "id": "vb_items_title_color",
+        "label": "Items Title Color",
+        "default": "#43bee5"
+      },{
+        "type": "text",
+        "id": "vb_items_subtitle",
+        "label": "Items Sub Title"
+      },{
+        "type": "color",
+        "id": "vb_items_subtitle_color",
+        "label": "Items Sub Title Color",
+        "default": "#43bee5"
+      },{
+        "type": "header",
+        "content": "Background Items"
+      },{
+        "type": "color",
+        "id": "vb_background_color",
+        "label": "Background Color",
+        "default": "#FFFFFF"
+      },{
+        "type": "image_picker",
+        "id": "vb_section_btl",
+        "label": "Background Image - Top Left"
+      },{
+        "type": "image_picker",
+        "id": "vb_section_btr",
+        "label": "Background Image - Top Right"
+      },{
+        "type": "image_picker",
+        "id": "vb_section_bbl",
+        "label": "Background Image - Bottom Left"
+      },{
+        "type": "image_picker",
+        "id": "vb_section_bbr",
+        "label": "Background Image - Bottom Right"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Video Block",
+        "category": "Custom"
+      }
+    ],
+	"blocks":[
+	  {
+        "type": "vb-block",
+        "name": "Video Item",
+        "settings": [
+          {
+            "type": "video_url",
+            "id": "vb_item_video",
+            "label": "Video Link",
+            "default": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "info": "Supports YouTube and Vimeo. Not all features supported by Vimeo. [Learn more](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)",
+            "accept": [
+              "youtube",
+              "vimeo"
+            ]
+          },{
+            "type": "text",
+            "id": "vb_item_title",
+            "label": "Title"
+          },{
+            "type": "color",
+            "id": "vb_item_title_color",
+            "label": "Title Color",
+            "default": "#ffffff"
+          },{
+            "type": "text",
+            "id": "vb_item_subtitle",
+            "label": "Sub Title"
+          },{
+            "type": "color",
+            "id": "vb_item_subtitle_color",
+            "label": "Sub Title Color",
+            "default": "#43bee5"
+          }
+        ]
+      }
+	]
+  }
+{% endschema %}

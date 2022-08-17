@@ -1,0 +1,174 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16438135519f510f80": {
+      "type": "slideshow",
+      "blocks": {
+        "164381355188477f9b-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Academic Tutoring",
+            "title_size": 80,
+            "subheading": "Work with our top instructors to improve grades or gain a better understanding of any academic subject",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/24_09812cca-1e72-481d-880e-9df7d611a48a.png",
+            "overlay_opacity": 10,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "164381355188477f9b-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "164381676484484218": {
+      "type": "rich-text",
+      "blocks": {
+        "c5f019b1-2f18-4658-b45f-1fdb91809656": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This tutoring option is great for when your child is <strong>struggling in school with a specific topic <\/strong>or when your child could use <strong>support in completing their homework<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c5f019b1-2f18-4658-b45f-1fdb91809656"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16437414563c46dcaf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/23_456494ec-72a0-4662-829a-b5367223dfd3.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "What We Teach",
+        "text": "<p><strong>We provide tutoring to assist your child in any subject that they may encounter in school. <\/strong>Some examples of previous tutoring subjects include:<\/p><p>➜ Fractions and algebra<\/p><p>➜ Spanish grammar<\/p><p>➜ Creative writing <\/p><p>➜ Public speaking, spelling, and use of commas<\/p><p><\/p><p>➜ Biology<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": true
+      }
+    },
+    "16437414728908bd9e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/24_955c14c5-8c59-40b6-b43b-f4f51f18881e.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "How It Works",
+        "text": "<p>Our tutors are hand-selected to best fit your child's needs. They have the ability to work with your child in just <strong>one subject<\/strong>, and also have the versatility to support your child in <strong>improving their school performance overall. <\/strong><\/p><p><strong>Each session lasts for 60 minutes and is scheduled at a time of your convenience. <\/strong>After each session, our tutors will <strong>provide feedback<\/strong> on how your child performed in the session, what they learned\/worked on, and how they can continue to improve. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "164384565589d263fb": {
+      "type": "advanced-content",
+      "blocks": {
+        "1643845655533aeba2-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1643845655533aeba2-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "164381354828d6b964": {
+      "type": "featured-product",
+      "blocks": {
+        "164381354879108a85-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "164381354879108a85-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "164381354879108a85-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "164381354879108a85-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "164381354879108a85-0",
+        "164381354879108a85-1",
+        "164381354879108a85-2",
+        "164381354879108a85-3"
+      ],
+      "settings": {
+        "featured_product": "online-tutoring-services-school-help",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16438135519f510f80",
+    "164381676484484218",
+    "16437414563c46dcaf",
+    "16437414728908bd9e",
+    "164384565589d263fb",
+    "164381354828d6b964"
+  ]
+}

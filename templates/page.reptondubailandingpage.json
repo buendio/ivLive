@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Repton Dubai & Ivy Camps USA",
+            "title_size": 60,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/9_AM_3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Business-_Desktop.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1651773982b6560c4f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_030704d5-1900-4f93-a138-60565fb3a321.png",
+        "image_width": 500,
+        "subtitle": "programs for Ages 3-14",
+        "title": "Sign Up Today!",
+        "text": "<p>Learn exciting topics such as Public Speaking, Acting, STEAM, Business Creation, Cryptocurrency, & more! <\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/products\/repton-summer-camp-2022",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16517744260b72521c": {
+      "type": "advanced-content",
+      "blocks": {
+        "16517744262a22bf36-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16517744262a22bf36-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "164385249083e17b3f": {
+      "type": "testimonials",
+      "blocks": {
+        "16438524901e906814-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I was most excited during camp when i got to present my work and observe other student's inventions as well! It was fantastic!<\/p>",
+            "author": "Kalia A.",
+            "author_info": "Student from the UAE"
+          }
+        },
+        "16438524901e906814-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Overall, my child liked his classes and teachers and was sad that the classes were over. The teachers did a great job! We as parents did not need to help much during classes, which was also very positive.<\/p>",
+            "author": "Raquel S.",
+            "author_info": "Mother from Mexico"
+          }
+        },
+        "16438524901e906814-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Excellent! My daughter loves Ivy Camps. She absolutely loved attending and I look forward to continue enrolling her.<\/p>",
+            "author": "Katy U.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "16438524901e906814-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I absolutely loved this class and I learned a lot about STEAM!<\/p>",
+            "author": "Mario L.",
+            "author_info": "Student from Colombia"
+          }
+        }
+      },
+      "block_order": [
+        "16438524901e906814-0",
+        "16438524901e906814-1",
+        "16438524901e906814-2",
+        "16438524901e906814-3"
+      ],
+      "settings": {
+        "title": "What Students & Parents Are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "test_section_background_color": "#ffffff"
+      }
+    },
+    "1651773986c7a0bbd6": {
+      "type": "advanced-content",
+      "blocks": {
+        "16517739867a771d54-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16517739867a771d54-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1643852503b1830fd3": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/50.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "program format",
+        "text": "<p><\/p><p>➜ All classes are held<strong> live and online<\/strong><\/p><p>➜ Classes are <strong>75 minutes<\/strong> in duration<\/p><p>➜ After-school classes happen <strong>once per week<\/strong>,  on the <strong>same day each week<\/strong><\/p><p>➜ All classes will have a small class size between <strong>1-6 students<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16438524965c1d0674": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6_e1c0c30c-480b-4640-9900-c45888efedca.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Curriculum",
+        "text": "<p><\/p><p>➜ All classes feature curriculum <strong>designed by top education professionals<\/strong> with <strong>decades of experience<\/strong> in global K-12 education<\/p><p>➜ All classes have students develop a <strong>comprehensive final project<\/strong> related to the subject of which they are studying<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1643852501d78c948f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5_1dab10bf-f701-4f79-b589-0755cc312770.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Instructors",
+        "text": "<p><\/p><p>➜ All instructors come from<strong> top universities<\/strong> in the <strong>United States <\/strong>such as <strong>Dartmouth, Harvard, Yale, MIT, and many more<\/strong><\/p><p>➜ Ivy Camps USA instructors go through a <strong>comprehensive training program <\/strong>designed by our curriculum professionals<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16438525710a60f71f": {
+      "type": "rich-text",
+      "blocks": {
+        "1643852571ff38674c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsure which class is right for your child?"
+          }
+        },
+        "1643852571ff38674c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Schedule a free consultation with one of our Ivy Camps Program Advisors and they will be happy to help!<\/p>"
+          }
+        },
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/free-personalized-consultation-from-ivy-camps-usa",
+            "link_text": "Schedule a Free Consultation"
+          }
+        }
+      },
+      "block_order": [
+        "1643852571ff38674c-0",
+        "1643852571ff38674c-1",
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "1651773982b6560c4f",
+    "16517744260b72521c",
+    "164385249083e17b3f",
+    "1651773986c7a0bbd6",
+    "1643852503b1830fd3",
+    "16438524965c1d0674",
+    "1643852501d78c948f",
+    "16438525710a60f71f"
+  ]
+}

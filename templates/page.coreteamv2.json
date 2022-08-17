@@ -1,0 +1,307 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Our Leadership Team",
+            "title_size": 80,
+            "subheading": "Bringing tons of experience in both education and global business, our leadership team is uniquely skilled to help students all around the world achieve success.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Business-_Desktop.png",
+            "overlay_opacity": 0,
+            "focal_point": "20% 0"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "164815372626b7a106": {
+      "type": "rich-text",
+      "blocks": {
+        "16481537266b1169ec-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "16481537266b1169ec-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Click on each image to learn more about our fantastic team<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16481537266b1169ec-0",
+        "16481537266b1169ec-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1647835211fcd11528": {
+      "type": "instructors",
+      "blocks": {
+        "2a1df892-5b07-4efa-8679-41b43fb36c10": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/6_157bee06-3d46-4ff6-91cc-d84ba7a27649.png",
+            "inst_image_label": "",
+            "inst_name": "Danny Hundert",
+            "inst_text": "<p>Founder & CEO (\"Camp Executive Officer\")<\/p>",
+            "inst_popup_text": "<p>Danny, a Dartmouth and University of Pennsylvania Wharton School of Business MBA graduate, is the founder of Ivy Camps USA. With over 20 years of experience in building and advising educational operations across the world, Danny is one of America’s most respected and recognized supplemental education administrators. He was awarded ‘The 2013 Business of the Year’ and ‘The 2016 Entrepreneur of the Year’ by the Aspen Chamber of Commerce due to the positive impact he and Ivy Camps continues to have on children's lives. He is passionate about connecting kids around the world to learn about different cultures while also cultivating soft skills such as leadership, problem-solving, and above all else: self-discovery.<\/p>"
+          }
+        },
+        "201d59f1-7ca5-4ca9-8915-f4ab538e2f4d": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/4_c35a1705-208b-43d4-b812-22905d6e4c8f.png",
+            "inst_image_label": "",
+            "inst_name": "Nourjannah Hendi",
+            "inst_text": "<p>Chief Business Officer<\/p>",
+            "inst_popup_text": "<p>Nourjannah is a graduate of Georgetown University where she studied Justice and Peace Studies. She has also recently earned her Masters Degree in Management from Georgetown University's McDonough School of Business. Nourjannah started out with Ivy Camps USA as a Program Lead in Shanghai, China, where she taught Performing Arts. She then went on to become an Assistant Director in Singapore and then the Director in Dubai. She is currently the Chief Business Officer at Ivy Camps USA. Nourjannah is passionate about educational accessibility around the world and enjoys being part of a tangible change that provides quality educational opportunities globally. She also enjoys working with top-tier college students as they have fun with our campers, work with other Ivy Camps USA staff, and explore new environments around the world.<\/p>"
+          }
+        },
+        "a16c5547-e145-4759-90c6-90e5ff627548": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Untitled_design_-_2022-04-22T094807.579.png",
+            "inst_image_label": "",
+            "inst_name": "Marie Quinn",
+            "inst_text": "<p>Head of Operations<\/p>",
+            "inst_popup_text": "<p>Dr. Marie Quinn has over twenty years in executive leadership, specifically managing and leading teams in B2B and B2C models for 500M to 2B education companies.  She served as University President of South University's Austin Campus, Vice President of Operations, North America for Australia based Navitas, and as Senior Vice President of University Partnerships with WorldStrides.  Helping academic institutions achieve campus internationalization, Marie has dedicated her career to supporting and creating accessible, global education.<\/p><p>Marie holds a BA in Humanities and Social Sciences, a MBA in New Venture Management and a DBA in Management, with academic study focusing on emotional intelligence and performance.  <\/p>"
+          }
+        },
+        "3b74f185-ec01-4731-a72a-3106ef4ceb62": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/6_5e5f4119-42d1-4718-9e54-a50140a151a4.png",
+            "inst_image_label": "",
+            "inst_name": "Jack Liufu",
+            "inst_text": "<p>Director of People & Operations<\/p>",
+            "inst_popup_text": "<p>Jack is a graduate of Cornell University, where he majored in chemistry and spent his time branching out into education, linguistics, and Latin, and he's currently seeking a master's in education. During his time at Cornell, he spent years TA-ing, teaching first grade, and tutoring. He absolutely loves working with kids and has experience with both in-person teaching and online\/virtual education. He started as a Program Lead at Ivy Camps USA, specializing in performing arts and creative expression, and he now takes pride in cultivating cohorts of Program Leads and helping to provide stellar camps for kids all around the world. He hopes that he can help kids have as much fun as they can; if you see him doing a cheer, join in!<\/p>"
+          }
+        },
+        "24e0aac7-d3f6-4737-a81b-6d5d9b262ec3": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/11_413521cc-53a0-43b0-bdc0-f9f4034af3be.png",
+            "inst_image_label": "",
+            "inst_name": "Meredith Kersh",
+            "inst_text": "<p>Director of Curriculum<\/p>",
+            "inst_popup_text": "<p>Meredith is a Wake Forest and American University MAT graduate with a certificate from Harvard Graduate School of Education. Meredith co-founded a start-up which created a social-emotional curriculum that was then acquired by an international non-profit organization. She is a former elementary school teacher and has over a decade of experience creating curriculum that kids love. Meredith strongly believes that we need to prepare kids for an unknown future by giving them meaningful cross-cultural learning experiences. She currently serves on the Board of Directors for the Boys & Girls Club in Bend, Oregon.<\/p>"
+          }
+        },
+        "661b9fbe-237e-41f7-b1f7-813ac5a2de3c": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/8_900eb155-2bce-44d0-b0c2-3abe19bd450c.png",
+            "inst_image_label": "",
+            "inst_name": "Jessica Schaid",
+            "inst_text": "<p>Educational Advisor & Curriculum Development Specialist<\/p>",
+            "inst_popup_text": "<p>Jessica has 16 years of experience in Secondary Education. She began her career as a curriculum developer, designing diversity education programs in Wisconsin. She taught middle school and high school in New Mexico, specializing in Social Studies, ELA, College and Career Readiness, and English as a Second Language. She currently serves as an Instructor for the College of Education at New Mexico State University, helping to prepare the next generation of Secondary Educators. Jessica has also taught online and blended classes, applying EdTech to maximize the learning experience for students of all ages. After spending her childhood in Minnesota, she greatly enjoys the deserts of the Southwest and appreciates any opportunity to be outside exploring public lands with her dog.<\/p>"
+          }
+        },
+        "4d54062e-c63e-485a-9824-950193c41cbb": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/3_2d6f91ab-9eca-4463-a8d7-fb10296cbcd2.png",
+            "inst_image_label": "",
+            "inst_name": "Shamera Wilkins",
+            "inst_text": "<p>School Partnerships & Curriculum Development Specialist<\/p>",
+            "inst_popup_text": "<p>Bio coming soon!<\/p>"
+          }
+        },
+        "c5b7066c-368d-4da4-b55f-6a2024d631d2": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/10_1af52442-71e3-4c7e-8935-e8575e2f3d41.png",
+            "inst_image_label": "",
+            "inst_name": "Trent Jameson",
+            "inst_text": "<p>Leader of Fun<\/p>",
+            "inst_popup_text": "<p>Trent holds his BA in communications and has over 25 years working in the camp and industry in various positions and with over 10 different organizations. He has developed and directed 2 different startup camps and created numerous activities across a wide variety of subjects over the course of his career. He also has provided consulting on activity development and expansion for summer camps and individual coaching on how to incorporate play into practice and learning. His creativity is seen all across the US with activities that he has created becoming a mainstay at many camps. At a camp he worked with 20 years ago, they still have an entire genre of activities called “Trenting” that encompasses any fun and creative activity that counselors create during camp. He currently lives in Idaho with his pets who help him in his work with Ivy Camps.<\/p>"
+          }
+        },
+        "6d9f9b85-73ce-4131-a678-7d7e60377329": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/14_8d778f62-8c0b-4fc7-bfda-a4141c58e97e.png",
+            "inst_image_label": "",
+            "inst_name": "Nick Grant",
+            "inst_text": "<p>Director of Marketing & Growth<\/p>",
+            "inst_popup_text": "<p>Nick is a California native that holds a BS in Business and Entrepreneurship along with over 18 years of experience working with early stage startups in a variety of industries including EdTech, Social Commerce, and Lead Generation. He was a previous cofounder of a Visual Strategy agency in Seattle, which he grew from 2 to 25 full time employees. He was a 4x speaker at the Adobe MAX conference from 2013 to 2016, where he spoke about best practices for visual communication for groups as large as 800. Leveraging his history in marketing and scaling companies, Nick is excited about elevating Ivy Camps to become one of the most well-known and respected brands in the industry.<\/p>"
+          }
+        },
+        "71f6bc59-d08b-499c-b3a5-cdf0dcab6a72": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/9_bb1949e5-5057-42f5-acd4-f7d9db2bd2d6.png",
+            "inst_image_label": "",
+            "inst_name": "Amber Murphy",
+            "inst_text": "<p>Arts & Media Lead<\/p>",
+            "inst_popup_text": "<p>Amber is a graduate of Lasell University with a BA in Graphic Design. With marketing and social media management experience. She is passionate about creating visual solutions while constantly learning and growing with the ever changing world of design. From her very first job as an assistant dance instructor, to camp counseling, and working as an art teacher, she has always encouraged her students to experiment and follow their own creative path. Amber values education and the power of teaching, and is so excited to combine both her love of design and working with kids as a part of the Ivy Camps USA team.<\/p>"
+          }
+        },
+        "33e8f6af-d094-4cd9-a5e8-809fedcbaacc": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/12_2d96669e-c68d-432c-ab75-5184b1a445d5.png",
+            "inst_image_label": "",
+            "inst_name": "Lizbeth Villanueva",
+            "inst_text": "<p>Assistant Director of Marketing<\/p>",
+            "inst_popup_text": "<p>Lizbeth currently attends the University of Pennsylvania's Wharton School of Business where she is concentrating in Marketing and Management with a minor in Latin American Latino Studies. Lizbeth initially joined us as a Program Lead for the Leaders of Tomorrow track during the Summer of 2020. She is now the Assistant Director of Global Partnerships for Ivy Camps USA. Lizbeth's passion for education and diversity drives her to work hard in expanding the Ivy Camps family and creating an impact in our camper's lives. She is extremely excited to continue to meet and learn with children from across the world.<\/p>"
+          }
+        },
+        "54a2bf61-a4dc-42af-9a97-13834e85d2fc": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/5_c844793d-7a9f-4d09-8034-618300a3973f.png",
+            "inst_image_label": "",
+            "inst_name": "Ryan James",
+            "inst_text": "<p>Partnership Coordinator<\/p>",
+            "inst_popup_text": "<p>A spirited and adventurous South African, Ryan has successfully worn many hats over his years. From charting music composer; to fine art auctioneer, where he travelled throughout Europe and the Americas; to utilizing his skillset and perspective in the evolving and emerging EdTech space. He found his passion in EdTech while working with a locally scaling EdTech company. Seeking a global reach, he is most excited about bringing Ivy Camps to the world, and being a part of solving forward-facing challenges like the future of learner engagement, the future of global education, and using tech to deliver impactful learning experiences. <\/p>"
+          }
+        },
+        "0d045ec1-2cd7-40bd-97cf-039783de8eba": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/7_b65454b0-c5db-44c6-abe8-799c5cf0454c.png",
+            "inst_image_label": "",
+            "inst_name": "Hannah Garcia",
+            "inst_text": "<p>Director of Innovation & Development<\/p>",
+            "inst_popup_text": "<p>Hannah is a graduate of Johns Hopkins University where she studied Medicine, Science, and the Humanities with a concentration in Anthropology. She is now pursuing a master’s degree in the field of science. Throughout her life, she has always been passionate about education and has spent multiple years teaching kids in an extracurricular context. Hannah first joined us as a Program Lead in the summer of 2020, where she specialized in teaching STEAM and interdisciplinary courses. Since then, she has moved into a position as our Director of Innovation & Development. In this role Hannah works to take new, innovative ideas and make them into tangible initiatives to help Ivy Camps USA reach more students around the world!<\/p>"
+          }
+        },
+        "86a7d985-bf89-4f4f-8110-e765da0e2233": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/15_93f380a5-7b6c-49d7-bfac-5304959b7de9.png",
+            "inst_image_label": "",
+            "inst_name": "Emily Crisman",
+            "inst_text": "<p>Enrollment Advisor<\/p>",
+            "inst_popup_text": "<p>Emily Crisman is a Detroit, Michigan native who holds a BA from Albion College where she focused on Communications (both Mass and Interpersonal) as well as Religious Studies. While at Albion Emily played varsity soccer and was even inducted into their Athletic Hall of Fame. <\/p><p>Emily has over 15 years of experience leading Enrollment Operation teams for several higher education institutions. She specializes in admissions and marketing processes and is passionate about education startups. <\/p><p>Emily is most excited about the ability to build an international community of passionate students, parents, and educators. <\/p>"
+          }
+        },
+        "cf6e056d-5071-4c09-a828-41ebff782a01": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/4_d33251bf-5997-443b-a4e1-8cc224990f6c.png",
+            "inst_image_label": "",
+            "inst_name": "Hana Butler Gutiérrez",
+            "inst_text": "<p>Sales & Outreach Associate<\/p>",
+            "inst_popup_text": "<p>Hana is a freshman at Brown University, concentrating in Mechanical Engineering. Hana first joined Ivy Camps USA as a Program Lead during the Fall of 2020, working from her home in Guadalajara, Mexico. She has tutored kids for over 4 years, which stemmed her love of mentoring kids in their educational journey. She is passionate about hands-on learning in environments that encourage diversity, which is what Ivy Camps is all about! She loves being part of the international community at Ivy Camps, and as the Sales and Outreach Associate, is excited to help Ivy Camps keep growing all around the world!<\/p>"
+          }
+        },
+        "b364e3be-ff33-4d71-8959-d8b537be9f26": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Untitled_design_-_2022-05-25T144658.158_960f8e60-5493-4aed-beac-c977963e3d1d.png",
+            "inst_image_label": "",
+            "inst_name": "Liam Smith",
+            "inst_text": "<p>Assistant Director of In-Person Operations<\/p>",
+            "inst_popup_text": "<p>Liam attends Stanford University where he is studying Computer Science with a minor in Linguistics. Currently the Assistant Director of In-Person Operations, Liam first joined us in Spring of 2021 as a program lead. He has years of experience working with kids as a camp counselor and tutor both online and in-person. Liam is passionate about supplementary education and the positive impact it has on a child's development. In his new role, Liam will be helping to bring back Ivy Camps' in-person camps in full force, and he's excited to continue to grow our international programming!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2a1df892-5b07-4efa-8679-41b43fb36c10",
+        "201d59f1-7ca5-4ca9-8915-f4ab538e2f4d",
+        "a16c5547-e145-4759-90c6-90e5ff627548",
+        "3b74f185-ec01-4731-a72a-3106ef4ceb62",
+        "24e0aac7-d3f6-4737-a81b-6d5d9b262ec3",
+        "661b9fbe-237e-41f7-b1f7-813ac5a2de3c",
+        "4d54062e-c63e-485a-9824-950193c41cbb",
+        "c5b7066c-368d-4da4-b55f-6a2024d631d2",
+        "6d9f9b85-73ce-4131-a678-7d7e60377329",
+        "71f6bc59-d08b-499c-b3a5-cdf0dcab6a72",
+        "33e8f6af-d094-4cd9-a5e8-809fedcbaacc",
+        "54a2bf61-a4dc-42af-9a97-13834e85d2fc",
+        "0d045ec1-2cd7-40bd-97cf-039783de8eba",
+        "86a7d985-bf89-4f4f-8110-e765da0e2233",
+        "cf6e056d-5071-4c09-a828-41ebff782a01",
+        "b364e3be-ff33-4d71-8959-d8b537be9f26"
+      ],
+      "settings": {
+        "inst_no_spacing": true,
+        "inst_addtop_spacing": true,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "",
+        "inst_section_title_color": "#041e42",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#43bee5",
+        "inst_mbutton_text_color": "#ffffff",
+        "inst_button_text": "View All",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#43bee5",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "1647838834c62d8621": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1647838834b5e4020c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "1647838834b5e4020c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>As a byproduct of their elite academic and professional background, our teachers are uniquely equipped to provide children with a nuanced educational experience that challenges their creative, intellectual, and emotional capacities.  During each class and camp, our team guides campers towards mastery in a wide variety of scholastic and artistic endeavors — sparking passion, cultivating depth of character, and helping students gain self-knowledge.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1647838834b5e4020c-0",
+        "1647838834b5e4020c-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "164815372626b7a106",
+    "1647835211fcd11528",
+    "1647838834c62d8621"
+  ]
+}

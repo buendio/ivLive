@@ -1,0 +1,162 @@
+{%- style -%}
+  .newsletter-{{ section.id }} {
+    background-color: {{ section.settings.background_color }};
+    {%- if section.settings.background_image != blank -%}
+		{% assign img_url = section.settings.background_image | image_url: width: 2000 %}
+    	background-image:url({{ img_url }});
+		background-size:cover;
+		background-position:center center;
+		background-repeat:no-repeat;
+	{%- endif -%}
+	padding:20px;
+	position:relative;
+  }
+
+  .newsletter-title { color: {{ section.settings.color_title }}; }
+
+  .newsletter-text { color: {{ section.settings.color_text }}; }
+
+  .newsletter-cover { background-color: {{ section.settings.cover_background_color }}; }	
+
+  .newsletter-{{ section.id }} .newsletter__input::-webkit-input-placeholder { color: {{ section.settings.color_form_text }}; }
+  .newsletter-{{ section.id }} .newsletter__input::-moz-placeholder { color: {{ section.settings.color_form_text }}; }
+  .newsletter-{{ section.id }} .newsletter__input::-ms-input-placeholder { color: {{ section.settings.color_form_text }}; }
+{%- endstyle -%}
+
+<div class="newsletter-section newsletter-{{ section.id }}">
+  <div class="newsletter-cover">
+    <div class="page-width text-center">
+      {%- for block in section.blocks -%}
+        <div class="theme-block" {{ block.shopify_attributes }}>
+          {%- case block.type -%}
+            {%- when '@app' -%}
+              {% render block %}
+            {%- when 'title' -%}
+              {%- if block.settings.title != blank -%}
+                <h2 class="newsletter-title">{{ block.settings.title | escape }}</h2>
+              {%- endif -%}
+            {%- when 'text' -%}
+              {%- if block.settings.text != blank -%}
+                <div class="rte newsletter-text">{{ block.settings.text }}</div>
+              {%- endif -%}
+            {%- when 'form' -%}
+              {%- render 'newsletter-form', section_id: section.id, snippet_context: 'section' -%}
+            {%- when 'share_buttons' -%}
+              {%- render 'social-sharing' -%}
+          {%- endcase -%}
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Email signup",
+    "max_blocks": 6,
+    "blocks": [
+      {
+        "type": "@app"
+      },
+      {
+        "type": "title",
+        "name": "Title",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Heading",
+            "default": "Sign up and save"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Text",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Subheading",
+            "default": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
+          }
+        ]
+      },
+      {
+        "type": "form",
+        "name": "Form",
+        "limit": 1
+      },
+      {
+        "type": "share_buttons",
+        "name": "Share buttons",
+        "limit": 1
+      }
+    ],
+    "settings": [
+      {
+        "type": "paragraph",
+        "content": "Customers who subscribe will have their email address added to the 'accepts marketing' [customer list](/admin/customers?query=&accepts_marketing=1)."
+      },
+      {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background Color",
+        "default": "#041e42"
+      },{
+        "type": "image_picker",
+        "id": "background_image",
+        "label": "Background Image"
+      },{
+        "type": "color",
+        "id": "cover_background_color",
+        "label": "Background Color - Cover",
+        "default": "#ffffff"
+      },{
+        "type": "color",
+        "id": "button_color",
+        "label": "Button Color",
+        "default": "#efa500"
+      },{
+        "type": "color",
+        "id": "button_text_color",
+        "label": "Button Text Color",
+        "default": "#041e42"
+      },
+      {
+        "type": "color",
+        "id": "color_title",
+        "label": "Title Color",
+        "default": "#041e42"
+      },
+      {
+        "type": "color",
+        "id": "color_text",
+        "label": "Text Color",
+        "default": "#43bee5"
+      },
+      {
+        "type": "color",
+        "id": "color_form_text",
+        "label": "Form Text Color",
+        "default": "#041e42"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Email signup",
+        "blocks": [
+          {
+            "type": "title"
+          },
+          {
+            "type": "text"
+          },
+          {
+            "type": "form"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

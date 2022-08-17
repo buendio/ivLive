@@ -1,0 +1,435 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "dropdown",
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "1651769227b86b43ce": {
+      "type": "advanced-content",
+      "blocks": {
+        "165176922703f09321-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165176922703f09321-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1652451916599827b7": {
+      "type": "instructors",
+      "blocks": {
+        "bc89226e-8d87-45b0-a5ac-e44366793ce6": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/2_33c66a1e-056a-44ed-b427-67f398123a69.png",
+            "inst_image_label": "",
+            "inst_name": "Jack Liufu",
+            "inst_text": "<p>Harvard University<\/p>",
+            "inst_popup_text": "<p>Jack is a Director at Ivy Camps USA with a passion for chemistry, travel, and education. <\/p>"
+          }
+        },
+        "15528b25-124d-4b29-86c0-4ee67a9110ca": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/1_aedfe0d9-8686-4ed8-bef8-7c79a44beb3e.png",
+            "inst_image_label": "",
+            "inst_name": "Hannah Garcia",
+            "inst_text": "<p>Johns Hopkins University<\/p>",
+            "inst_popup_text": "<p>Hannah is a Director at Ivy Camps USA who enjoys educating others. Her favorite subject to teach is science! <\/p>"
+          }
+        },
+        "8ccadaaf-61cf-43e7-82bc-5a93b4b59098": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/4_f39b5cdf-73b1-40f2-901e-e34d40906c19.png",
+            "inst_image_label": "",
+            "inst_name": "Kelly Lomboy",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p>Kelly is a Director at Ivy Camps USA who is passionate about educating others and learning new things. <\/p>"
+          }
+        },
+        "2e9a4bc0-aabd-49b7-af28-8e6ef868621d": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/3_8af8f441-8423-4fa8-9357-a2a6a58369b6.png",
+            "inst_image_label": "",
+            "inst_name": "Liam Smith",
+            "inst_text": "<p>Stanford University<\/p>",
+            "inst_popup_text": "<p>Liam is a Director at Ivy Camps USA who is passionate about education. In his spare time, he enjoys learning about language and the brain. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "bc89226e-8d87-45b0-a5ac-e44366793ce6",
+        "15528b25-124d-4b29-86c0-4ee67a9110ca",
+        "8ccadaaf-61cf-43e7-82bc-5a93b4b59098",
+        "2e9a4bc0-aabd-49b7-af28-8e6ef868621d"
+      ],
+      "settings": {
+        "inst_no_spacing": false,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "Meet Our Directors",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#041e42",
+        "inst_mbutton_text_color": "#041e42",
+        "inst_button_text": "",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "1652451935e1668ec8": {
+      "type": "advanced-content",
+      "blocks": {
+        "1652451935383dddaf-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1652451935383dddaf-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5_53cb1c50-2c22-44ae-96cb-bbb748f4907b.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our Curriculum",
+        "text": "<p>➜ All classes feature curriculum <strong>designed by top education professionals<\/strong> with <strong>decades of experience<\/strong> in global K-12 education<\/p><p>➜ All classes have students develop a <strong>comprehensive final project<\/strong> related to the subject of which they are studying<\/p><p>➜ Please view photos for this camp to learn more about our curriculum<\/p>",
+        "button_label": "Meet our Curriculum Team",
+        "button_link": "shopify:\/\/pages\/team",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dubai_Website.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our Instructors",
+        "text": "<p>➜ All instructors for our programs for ages 6-14 come from<strong> top universities<\/strong> in the <strong>United States <\/strong>such as <strong>Dartmouth, Harvard, Yale, MIT, and many more<\/strong><\/p><p>➜ All instructors for our programs for ages 3-5 will be Teaching Assistants <strong>using Ivy Camps USA curriculum <\/strong><\/p><p>➜ Ivy Camps USA instructors go through a <strong>comprehensive training program <\/strong>designed by our curriculum professionals<\/p><p><\/p>",
+        "button_label": "Meet our Instructors",
+        "button_link": "shopify:\/\/pages\/our-instructors",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16536617495226de2c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dubai_Website_1.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Camp Logistics",
+        "text": "<p>➜ All programs are <strong>1 week<\/strong> long<\/p><p>➜ Programs take place <strong>Monday - Friday<\/strong> and each day of camp runs from <strong>9 AM to 3 PM<\/strong><\/p><p>➜ Students will be grouped with others around their same age<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "16557832019ce26048": {
+      "type": "advanced-content",
+      "blocks": {
+        "1655783201414af073-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1655783201414af073-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "16557831850afe8ded": {
+      "type": "faq",
+      "blocks": {
+        "16557831854859ad11-0": {
+          "type": "question",
+          "settings": {
+            "title": "Will my child be with kids around their age?",
+            "text": "<p>Yes! All students will be grouped with kids within a couple years of their age. The most common breakdown is ages 3-5, 6-8, 9-11, and 12-14.<\/p>"
+          }
+        },
+        "16557831854859ad11-1": {
+          "type": "question",
+          "settings": {
+            "title": "Will students do activities\/sports?",
+            "text": "<p>Yes! Students will participate in elective blocks each afternoon where they will play sports, games, and exercise. Each curriculum has movement breaks built in as well, so students continue being active throughout the day. <\/p>"
+          }
+        },
+        "00fb3898-46a2-4d2e-90b8-a9749ee20382": {
+          "type": "question",
+          "settings": {
+            "title": "Does my child need a packed lunch or will Ivy Camps provide lunch?",
+            "text": "<p>Each student must bring their own lunch and snack to camp each day.<\/p>"
+          }
+        },
+        "d734dc81-3428-4a8c-920c-199a640f4aaa": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer before or after care?",
+            "text": "<p>Please email us at info@ivycamps.org or WhatsApp us at +1 (970) 557-5155 for information about transportation options \/ before or after care!<\/p>"
+          }
+        },
+        "f47501e5-3d90-4e67-8fa2-fbbc5831129e": {
+          "type": "question",
+          "settings": {
+            "title": "My child requires special attention\/accommodations. Who can I contact?",
+            "text": "<p>Please email us at info@ivycamps.org or WhatsApp us at +1 (970) 557-5155 with a description of the accommodations required and we will try our best to accommodate you!<\/p>"
+          }
+        },
+        "8702d8ab-1003-4d19-a1ca-08c90ccfc7f8": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a discount for enrolling in multiple weeks or for siblings?",
+            "text": "<p>At the moment, there are no discounts available. <\/p>"
+          }
+        },
+        "97841a47-b0f2-4135-bad9-89006eed6d7d": {
+          "type": "question",
+          "settings": {
+            "title": "My child is younger than 3, can they enroll?",
+            "text": "<p>Our curriculum is designed for students ages 3-14, and we will not be able to accommodate for younger or older than that range. <\/p>"
+          }
+        },
+        "2d635603-c388-46be-b718-352c4422f8cf": {
+          "type": "question",
+          "settings": {
+            "title": "My child is older than 14, can they enroll?",
+            "text": "<p>Unfortunately, we cannot take students over the age of 14, as our curriculum that is being used at this camp has been specially developed by our curriculum developers for students up to 14 years of age. <\/p>"
+          }
+        },
+        "cb28a4c2-086c-4751-ad5e-06559d52cd79": {
+          "type": "question",
+          "settings": {
+            "title": "Do I have to be a Repton student to enroll?",
+            "text": "<p>Nope! All students are welcome!<\/p>"
+          }
+        },
+        "74167b75-9174-4b2e-84ca-a0a1b54b72c4": {
+          "type": "question",
+          "settings": {
+            "title": "Is the price for 1 week or 4 weeks?",
+            "text": "<p>The price listed online is for one week of camp, and you’re welcome to enroll in as many weeks as you’d like! We recommend that you register soon to secure your spot, as our last camps sold out quickly <\/p>"
+          }
+        },
+        "feb22e39-f9c4-4856-adb0-b6f9888fb37a": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer transportation options?",
+            "text": "<p>We do not currently offer transportation options, but many parents use Careem Kids and Uber as an option. <\/p>"
+          }
+        },
+        "ae355194-fead-40a8-8f76-513a92d2ffd1": {
+          "type": "question",
+          "settings": {
+            "title": "How is your course curriculum developed, and who is it developed by?",
+            "text": "<p>Our Curriculum Development Specialists have decades of experience in grade-school education and summer programming. They perform very thorough research and update the curriculum regularly to reflect the latest innovations in education.<\/p>"
+          }
+        },
+        "dea767f3-3044-44f4-8333-89c6cbfd83c9": {
+          "type": "question",
+          "settings": {
+            "title": "How is my kid going to learn about crypto, finance, or physics in one week?",
+            "text": "<p>Our curriculum is developed by Curriculum Development Specialists and has been tested both virtually and in-person with students of all ages. We use concepts that the kids are familiar with to build up to more advanced topics, and all of our students leave with a new understanding of the subject.<\/p>"
+          }
+        },
+        "4e92fda6-bc5d-4a00-b8cf-848bbc29e306": {
+          "type": "question",
+          "settings": {
+            "title": "Will this course help my child get into college?",
+            "text": "<p>These camps are developed to teach students the soft skills necessary to reach their goals, including college. Soft skills include public speaking, confidence, creativity, problem solving, and leadership among many. <\/p>"
+          }
+        },
+        "4928bb79-8995-4e4b-a3ad-d28f7f300232": {
+          "type": "question",
+          "settings": {
+            "title": "Will my child receive a certificate, letter of recommendation, etc. after camp?",
+            "text": "<p> All students who complete the course will receive a certificate on the last day of camp.<\/p>"
+          }
+        },
+        "7abd619f-b27d-42a6-ae0f-9f000c7f9bce": {
+          "type": "question",
+          "settings": {
+            "title": "Who are the instructors? Are they qualified?",
+            "text": "<p>Our instructors come from Ivy League and top US universities, like Harvard, Princeton, MIT, Yale, and more! Ivy Camps USA instructors have extensive backgrounds in education, as well as go through a comprehensive training program designed by our curriculum professionals, before working with your child. <\/p>"
+          }
+        },
+        "3b52b6b1-17b7-457f-bd7a-0d57d63d39b6": {
+          "type": "question",
+          "settings": {
+            "title": "Can you tell me who specifically will be working with our children? ",
+            "text": "<p>Sure thing! Our Directors who are flying out are:<\/p><p><strong>Director of In-Person Operations: <\/strong>Leading<strong> <\/strong>all of our in-person camps this summer is Nourjannah Hendi! Nourjannah is a graduate of Georgetown University where she studied Justice and Peace Studies. She has also recently earned her Masters Degree in Management from Georgetown University's McDonough School of Business. Nourjannah is passionate about educational accessibility around the world and enjoys being part of a tangible change that provides quality educational opportunities globally.<\/p><p><strong>Repton School Dubai:<\/strong> Our Dubai director is Kelly Lomboy! Kelly is a recent graduate from Cornell University where she studied Government with an English minor. This is her second time coming to Repton Dubai, and she’s passionate about educating others and learning new things.<\/p><p><strong>Repton School Al Barsha:<\/strong> Our Al Barsha directors are Jack Liufu and Hannah Garcia! Jack is a graduate of Cornell University, where he majored in chemistry and spent his time branching out into education, linguistics, and Latin, and he's preparing to start his Master's in Education at Harvard in the fall. Hannah is a graduate of Johns Hopkins University where she studied Medicine, Science, and the Humanities with a concentration in Anthropology. She is now pursuing a master’s degree in the field of science. Hannah has always been passionate about education and has spent multiple years teaching kids in an extracurricular context.<\/p><p><strong>Repton School Abu Dhabi:<\/strong> Our Abu Dhabi director is Liam Smith! Liam comes from Stanford University where he is studying Computer Science with a minor in Linguistics. He has years of experience working with kids as a camp counselor and tutor both online and in-person, and this will be his second time working with Repton camps. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16557831854859ad11-0",
+        "16557831854859ad11-1",
+        "00fb3898-46a2-4d2e-90b8-a9749ee20382",
+        "d734dc81-3428-4a8c-920c-199a640f4aaa",
+        "f47501e5-3d90-4e67-8fa2-fbbc5831129e",
+        "8702d8ab-1003-4d19-a1ca-08c90ccfc7f8",
+        "97841a47-b0f2-4135-bad9-89006eed6d7d",
+        "2d635603-c388-46be-b718-352c4422f8cf",
+        "cb28a4c2-086c-4751-ad5e-06559d52cd79",
+        "74167b75-9174-4b2e-84ca-a0a1b54b72c4",
+        "feb22e39-f9c4-4856-adb0-b6f9888fb37a",
+        "ae355194-fead-40a8-8f76-513a92d2ffd1",
+        "dea767f3-3044-44f4-8333-89c6cbfd83c9",
+        "4e92fda6-bc5d-4a00-b8cf-848bbc29e306",
+        "4928bb79-8995-4e4b-a3ad-d28f7f300232",
+        "7abd619f-b27d-42a6-ae0f-9f000c7f9bce",
+        "3b52b6b1-17b7-457f-bd7a-0d57d63d39b6"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "1651769227b86b43ce",
+    "1652451916599827b7",
+    "1652451935e1668ec8",
+    "text-and-image",
+    "text-and-image2",
+    "16536617495226de2c",
+    "recently-viewed",
+    "collection-return",
+    "product-recommendations",
+    "16557832019ce26048",
+    "16557831850afe8ded"
+  ]
+}

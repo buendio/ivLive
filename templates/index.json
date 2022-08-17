@@ -1,0 +1,714 @@
+{
+  "sections": {
+    "1643250502380808ff": {
+      "type": "slideshow",
+      "blocks": {
+        "164325050226b6315e-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Ages 6-14",
+            "title": "Live Online Classes,\nSummer Camps, and Tutoring",
+            "title_size": 60,
+            "subheading": "Taught by Instructors from Top Universities in the USA",
+            "link": "shopify:\/\/pages\/ivy-camps-usa-online-classes",
+            "link_text": "View Online Classes",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/hero_image_8fa94fc7-1acc-472d-8d09-945e9f28ff6f.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_88.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "164325050226b6315e-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1649358211f4a4dbb7": {
+      "type": "rich-text",
+      "blocks": {
+        "1649358211f8134c54-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Online Classes"
+          }
+        },
+        "1649358211f8134c54-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Choose a subject and get started today! <br\/>All classes are 10 weeks in length, meeting 1x per week<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1649358211f8134c54-0",
+        "1649358211f8134c54-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1660142908a68fe771": {
+      "type": "text-columns",
+      "blocks": {
+        "1660142908a5624ab6-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Business_1.png",
+            "image_width": 400,
+            "title": "Business & Finance",
+            "text": "",
+            "button_label": "View our Classes",
+            "button_link": "shopify:\/\/pages\/business-finance-classes-from-ivy-camps-usa"
+          }
+        },
+        "1660142908a5624ab6-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Public_Speaking_1.png",
+            "image_width": 400,
+            "title": "Public Speaking & Debate",
+            "text": "",
+            "button_label": "View our Classes",
+            "button_link": "shopify:\/\/pages\/public-speaking-debate-from-ivy-camps-usa"
+          }
+        },
+        "1660142908a5624ab6-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Writing_1_3c82552c-3d66-4d64-ae32-54a2925a6300.png",
+            "image_width": 400,
+            "title": "Writing",
+            "text": "",
+            "button_label": "View our Classes",
+            "button_link": "shopify:\/\/pages\/writing-classes-at-ivy-camps-usa"
+          }
+        },
+        "2134f933-81f1-4e5d-8663-3d0ae0521639": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/STEM_1.png",
+            "image_width": 400,
+            "title": "Science & Engineering",
+            "text": "",
+            "button_label": "View our Classes",
+            "button_link": "shopify:\/\/pages\/stem-classes-at-ivy-camps-usa"
+          }
+        }
+      },
+      "block_order": [
+        "1660142908a5624ab6-0",
+        "1660142908a5624ab6-1",
+        "1660142908a5624ab6-2",
+        "2134f933-81f1-4e5d-8663-3d0ae0521639"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16597289805b6cc487": {
+      "type": "instructors",
+      "disabled": true,
+      "blocks": {
+        "521158ad-deaf-4d87-9064-2d6582f12761": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Science___Engineering.png",
+            "inst_image_label": "",
+            "inst_name": "Science & Engineering",
+            "inst_text": "",
+            "inst_popup_text": "<p>Pursuing science and engineering classes at Ivy Camps ties into our STEM offering, as children will also get exposure to math and technology, as part of the curriculum. Parents like this option as it helps their children to get insight into multiple subjects, to see if they might want to further their education in one of the subjects as a possible career path.<\/p><p><a href=\"\/pages\/stem-classes-at-ivy-camps-usa\" title=\"STEM Classes at Ivy Camps USA\">Click here to view our classes.<\/a><\/p>"
+          }
+        },
+        "8b64c484-4163-4c0e-8978-6c9e4f9fa6c8": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Public_Speaking_f8ef1c9a-f611-44d4-b1b3-cedeef1069ff.png",
+            "inst_image_label": "",
+            "inst_name": "Public Speaking & Debate",
+            "inst_text": "",
+            "inst_popup_text": "<p>Becoming a better public speaker at an early age can have a huge impact on boosting a child’s confidence, which can help improve their daily performance at school. Parents often start their Ivy Camps adventure with placing their children in these classes, because of how much it helps their ability to succeed when they enroll them in other subjects.<\/p><p><a href=\"\/pages\/public-speaking-debate-from-ivy-camps-usa\" title=\"Public Speaking & Debate Classes from Ivy Camps USA\">Click here to view our classes.<\/a><\/p>"
+          }
+        },
+        "c0fe47d7-1fa1-49f8-9dea-e800319a7221": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Writing_1.png",
+            "inst_image_label": "",
+            "inst_name": "Writing",
+            "inst_text": "",
+            "inst_popup_text": "<p>The writing curriculum at schools around the world varies widely and it is one of the primary reasons why we see so many kids choosing Ivy Camps as a way to improve their skills. Parents see tremendous value in their children improving their writing, as it has crossover benefits to their communication abilities and other aspects of their school performance.<\/p><p><a href=\"\/pages\/writing-classes-at-ivy-camps-usa\" title=\"Writing Classes at Ivy Camps USA\">Click here to view our classes.<\/a><\/p>"
+          }
+        },
+        "1624653c-46b6-4124-b90b-a13bd06485a1": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Business___Finance.png",
+            "inst_image_label": "",
+            "inst_name": "Business & Finance",
+            "inst_text": "",
+            "inst_popup_text": "<p>Children who take finance and business classes at Ivy Camps tend to have a passion for the subject or are looking to help with a deficit in their knowledge. Parents enjoy when kids complete these classes, as it helps them to further their education and better prepare them for how to deal with financial situations later in life.<br\/><br\/><a href=\"\/pages\/business-finance-classes-from-ivy-camps-usa\" title=\"Business & Finance Classes from Ivy Camps USA\">Click here to view our 10-week classes.<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "521158ad-deaf-4d87-9064-2d6582f12761",
+        "8b64c484-4163-4c0e-8978-6c9e4f9fa6c8",
+        "c0fe47d7-1fa1-49f8-9dea-e800319a7221",
+        "1624653c-46b6-4124-b90b-a13bd06485a1"
+      ],
+      "settings": {
+        "inst_no_spacing": true,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#041e42",
+        "inst_mbutton_text_color": "#041e42",
+        "inst_button_text": "",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "165973048208ac30bf": {
+      "type": "instructors",
+      "disabled": true,
+      "blocks": {
+        "c1b0a8c3-edba-4aa9-bed1-704d92be7ec1": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Public_Speaking_with_Confidence_1_a41ae67a-fcdd-45d9-892e-832770289c9a.png",
+            "inst_image_label": "",
+            "inst_name": "",
+            "inst_text": "",
+            "inst_popup_text": "<p>Ivy Camps USA public speaking classes are very popular with parents and is the pathway where most kids start their academic pursuit. It is extremely effective as it not only improves their communication skills, but it can also have crossover benefits to how well they perform in writing and other subject areas.<\/p><p><strong>Benefits to the Public Speaking Certificate Pathway:<\/strong><\/p><p>● Helps them become a better listener<br\/>● Builds their confidence and leadership skills<br\/>● Increase their vocabulary and enhance their pronunciation abilities <\/p><p><a href=\"\/pages\/public-speaking-with-confidence-certificate-pathway\" title=\"Public Speaking with Confidence - Certificate Pathway\"><strong>Click here to learn more. <\/strong><\/a><\/p>"
+          }
+        },
+        "8a1906f8-f533-4c5a-949a-0bc77a3e3764": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Business_Leadership_1_6f22a6b9-aafd-41d4-9e39-cdc383ea1ede.png",
+            "inst_image_label": "",
+            "inst_name": "",
+            "inst_text": "",
+            "inst_popup_text": "<p>Starting on the Ivy Camps USA business pathway is an excellent way for students to build leadership skills and knowledge, while deciding if they might want to go further with their business education. The information learned during these classes will often carry over into other aspects of life and academic performance.<\/p><p><strong>Benefits to the Business Certificate Pathway:<\/strong><\/p><p>● Improve teamwork and decision making abilities<br\/>● Understand if the student might want to start their own business<br\/>● Learn about the stock market and become interested in investing<\/p><p><a href=\"\/pages\/junior-business-leader-certificate-pathway\" title=\"Junior Business Leader - Certificate Pathway\"><strong>Click here to learn more.<\/strong><\/a><strong> <\/strong><\/p>"
+          }
+        },
+        "ce281d27-43f1-472b-94dd-ccab819807ce": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Writing_2_bb4b74cf-61ee-4e80-8c43-57b9d6798945.png",
+            "inst_image_label": "",
+            "inst_name": "",
+            "inst_text": "",
+            "inst_popup_text": "<p>Becoming a better writer is not only essential to excelling in school, but it also can help students by improving their overall ability to communicate. Even if students end up pursuing a career where there is limited writing, it will still involve verbal communication and the best way to start improving that early is by focusing on being a proficient writer.<\/p><p><strong>Benefits to the Writing Certificate Pathway:<\/strong><\/p><p>● Establish a solid understanding of English grammar<br\/>● Elevate storytelling abilities to be more clear and focused<br\/>● Learn new organizational skills that can apply to everyday tasks<\/p><p><a href=\"\/pages\/clarity-and-precision-in-writing-certificate-pathway\" title=\"Clarity and Precision in Writing - Certificate Pathway\"><strong>Click here to learn more. <\/strong><\/a><\/p>"
+          }
+        },
+        "0622b5a5-4b82-40bc-b9e0-4c3d3b0652ae": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Critical_Thinking_In_STEM_1_4d87061a-1830-418b-bf63-18b0ff4a3435.png",
+            "inst_image_label": "",
+            "inst_name": "",
+            "inst_text": "",
+            "inst_popup_text": "<p>Students enjoy our STEM certificate pathway as the learning process is fun, with the curriculum still being academically stimulating. Not only is the knowledge in these classes beneficial for later on in students' educational journey, but it can lead to STEM majors in college and the focus of future career choices.<\/p><p><strong>Benefits to the STEM Certificate Pathway:<\/strong><\/p><p>● Gain experience with scientific method and inquiry<br\/>● Enhance problem solving skills<br\/>● Obtain a deeper understanding of engineering and science<\/p><p><a href=\"\/pages\/stem-pathway\" title=\"STEM Pathway\"><strong>Click here to learn more.<\/strong><\/a><strong> <\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c1b0a8c3-edba-4aa9-bed1-704d92be7ec1",
+        "8a1906f8-f533-4c5a-949a-0bc77a3e3764",
+        "ce281d27-43f1-472b-94dd-ccab819807ce",
+        "0622b5a5-4b82-40bc-b9e0-4c3d3b0652ae"
+      ],
+      "settings": {
+        "inst_no_spacing": false,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#041e42",
+        "inst_background_cover_color": "#041e42",
+        "inst_section_title": "Certificate Pathways",
+        "inst_section_title_color": "#ffffff",
+        "inst_section_text": "",
+        "inst_section_text_color": "#ffffff",
+        "inst_mbutton_color": "#ffffff",
+        "inst_mbutton_text_color": "#ffffff",
+        "inst_button_text": "View All",
+        "inst_button_text_color": "#ffffff",
+        "inst_button_color": "#ffffff",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "16523694013de88780": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "16523694012f9c1824-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>No one else is doing what you're doing, this is super cool! My student had the best time in her class and I feel like she learned a lot!<\/p>",
+            "author": "Laura",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "16523694012f9c1824-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>We thank you for your support. We live on the opposite side of your country on Earth but our kids can have a great education because of you!<\/p>",
+            "author": "Ji-hoon",
+            "author_info": "Father from South Korea"
+          }
+        },
+        "16523694012f9c1824-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>A camp that stimulates creativity and harnesses a child’s inherent potential in such a fun and inspiring way. My child had an exceptional time there with some of the most inspirational teachers. Thank you Ivy Camps for the lovely experience!<\/p>",
+            "author": "Fatima",
+            "author_info": "Mother from the UAE"
+          }
+        },
+        "16523694012f9c1824-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>We loved it and both of my kids are eager to take more classes!<\/p>",
+            "author": "Robert",
+            "author_info": "Father from the USA"
+          }
+        },
+        "16523694012f9c1824-4": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "16523694012f9c1824-0",
+        "16523694012f9c1824-1",
+        "16523694012f9c1824-2",
+        "16523694012f9c1824-3",
+        "16523694012f9c1824-4"
+      ],
+      "settings": {
+        "title": "What Parents are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#041e42",
+        "test_section_background_color": "#ffffff"
+      }
+    },
+    "165973335550ea9949": {
+      "type": "rich-text",
+      "blocks": {
+        "16597333554acaa1f6-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Instructors"
+          }
+        },
+        "16597333554acaa1f6-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Top US universities where we hire our talented team<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16597333554acaa1f6-0",
+        "16597333554acaa1f6-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1660248991a5885167": {
+      "type": "advanced-content",
+      "blocks": {
+        "166024899108332ffd-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/university_logos.png",
+            "link": "shopify:\/\/pages\/our-instructors",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166024899108332ffd-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1659733344e21f5aa2": {
+      "type": "instructors",
+      "disabled": true,
+      "blocks": {
+        "f31add2b-d66a-4488-be37-20bc07eb51c1": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Instructors-_4.png",
+            "inst_image_label": "",
+            "inst_name": "John",
+            "inst_text": "<p>Harvard University<\/p>",
+            "inst_popup_text": "<p><strong>Name: <\/strong>John H.<br\/><strong>School Attended: <\/strong>Harvard University<br\/><strong>Major: <\/strong>Linguistics<\/p>"
+          }
+        },
+        "b3bb3a05-ec1c-477c-9d91-cc8ce5a79aac": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Instructors-_3.png",
+            "inst_image_label": "",
+            "inst_name": "Melissa",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Name: <\/strong>Melissa H.<br\/><strong>School Attended: <\/strong>Dartmouth College<br\/><strong>Major: <\/strong>Psychology and Sociology<\/p>"
+          }
+        },
+        "2de80917-4438-4c2b-85c9-d66f258c79a4": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Instructors-_2.png",
+            "inst_image_label": "",
+            "inst_name": "Liam",
+            "inst_text": "<p>Stanford University<\/p>",
+            "inst_popup_text": "<p><strong>Name: <\/strong>Liam S.<br\/><strong>School Attended: <\/strong>Stanford University<br\/><strong>Major: <\/strong>Linguistics<\/p>"
+          }
+        },
+        "b1934136-2a38-47fe-95c9-9fd5d5a5d574": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Instructors-_1.png",
+            "inst_image_label": "",
+            "inst_name": "Samantha",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Name: <\/strong>Samantha P.<br\/><strong>School Attended: <\/strong>Cornell University<br\/><strong>Major: <\/strong>Biomedical Engineering<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f31add2b-d66a-4488-be37-20bc07eb51c1",
+        "b3bb3a05-ec1c-477c-9d91-cc8ce5a79aac",
+        "2de80917-4438-4c2b-85c9-d66f258c79a4",
+        "b1934136-2a38-47fe-95c9-9fd5d5a5d574"
+      ],
+      "settings": {
+        "inst_no_spacing": true,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#041e42",
+        "inst_mbutton_text_color": "#041e42",
+        "inst_button_text": "View All",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "1660163072683ba263": {
+      "type": "advanced-content",
+      "blocks": {
+        "1660163072b65148b9-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1660163072b65148b9-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "1660163019350f811b": {
+      "type": "video-block",
+      "blocks": {
+        "476acd8c-c7b9-4049-b877-8cc141ab3420": {
+          "type": "vb-block",
+          "disabled": true,
+          "settings": {
+            "vb_item_video": "https:\/\/vimeo.com\/737930513",
+            "vb_item_title": "Learn",
+            "vb_item_title_color": "#ffffff",
+            "vb_item_subtitle": "",
+            "vb_item_subtitle_color": "#43bee5"
+          }
+        }
+      },
+      "block_order": [
+        "476acd8c-c7b9-4049-b877-8cc141ab3420"
+      ],
+      "settings": {
+        "vb_title": "Learn More About Our Camps",
+        "vb_title_color": "#041e42",
+        "vb_subtitle": "",
+        "vb_subtitle_color": "#43bee5",
+        "vb_video_url": "https:\/\/vimeo.com\/737930513",
+        "vb_items_title": "",
+        "vb_items_title_color": "#43bee5",
+        "vb_items_subtitle": "",
+        "vb_items_subtitle_color": "#43bee5",
+        "vb_background_color": "#ffffff"
+      }
+    },
+    "166015946025f0b4c6": {
+      "type": "rich-text",
+      "blocks": {
+        "16601594603a45504d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Certificate Pathways"
+          }
+        },
+        "16601594603a45504d-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>All of our online classes allow students to make progress on a subject pathway, where they can qualify to obtain a certificate. Students need to complete the foundational class and two additional classes for that subject.<\/p>"
+          }
+        },
+        "cacff11e-c6e0-462d-9a0f-c34407a322ba": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Explore our certificates"
+          }
+        }
+      },
+      "block_order": [
+        "16601594603a45504d-0",
+        "16601594603a45504d-1",
+        "cacff11e-c6e0-462d-9a0f-c34407a322ba"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1659727291a6f35640": {
+      "type": "rich-text",
+      "blocks": {
+        "16597272918f88b5b8-0": {
+          "type": "heading",
+          "settings": {
+            "title": "What Parents are Saying"
+          }
+        },
+        "16597272918f88b5b8-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>See why Parents of Ivy Camps USA students view us as one of their favorite educational formats to help their children further their academic journey<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16597272918f88b5b8-0",
+        "16597272918f88b5b8-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1659727218d9ce8e28": {
+      "type": "text-columns",
+      "blocks": {
+        "16597272187b435cab-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Testimonial_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16597272187b435cab-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Testimonial_2.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16597272187b435cab-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Testimonial_3.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16597272187b435cab-0",
+        "16597272187b435cab-1",
+        "16597272187b435cab-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16493582381fc61126": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "164935823886e617ba-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Summer Camps"
+          }
+        },
+        "164935823886e617ba-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Students can choose to experience our program in a more consistent online format over 2 weeks, where they attend class for 90 minutes during Monday to Friday<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164935823886e617ba-0",
+        "164935823886e617ba-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16493581835cf11239": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "home_featured_products": "summer-programs-2022",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1659726862804eb184": {
+      "type": "rich-text",
+      "blocks": {
+        "16597268623b62e7d0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Request More Information"
+          }
+        },
+        "16597268623b62e7d0-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We will send you our digital brochure with more information on our programs<\/p>"
+          }
+        },
+        "7fea52f7-24f1-449f-b464-164b378acde7": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/request-for-information",
+            "link_text": "Request more information"
+          }
+        }
+      },
+      "block_order": [
+        "16597268623b62e7d0-0",
+        "16597268623b62e7d0-1",
+        "7fea52f7-24f1-449f-b464-164b378acde7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "1643250502380808ff",
+    "1649358211f4a4dbb7",
+    "1660142908a68fe771",
+    "16597289805b6cc487",
+    "165973048208ac30bf",
+    "16523694013de88780",
+    "165973335550ea9949",
+    "1660248991a5885167",
+    "1659733344e21f5aa2",
+    "1660163072683ba263",
+    "1660163019350f811b",
+    "166015946025f0b4c6",
+    "1659727291a6f35640",
+    "1659727218d9ce8e28",
+    "16493582381fc61126",
+    "16493581835cf11239",
+    "1659726862804eb184"
+  ]
+}

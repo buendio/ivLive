@@ -1,0 +1,194 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643843837157746fd": {
+      "type": "slideshow",
+      "blocks": {
+        "16438438377ace9698-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Our Instructors",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/untitled_design__75.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16438438377ace9698-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "164384357359e4e29a": {
+      "type": "rich-text",
+      "blocks": {
+        "1643843573771bbc66-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Current Instructors"
+          }
+        },
+        "8c6ee512-bf9e-4a24-8940-ac05102c1f57": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>As a byproduct of their elite academic and professional background, our teachers are uniquely equipped to provide children with a nuanced educational experience that challenges their creative, intellectual, and emotional capacities.  During each class and camp, our team guides campers towards mastery in a wide variety of scholastic and artistic endeavors — sparking passion, cultivating depth of character, and helping students gain self-knowledge.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1643843573771bbc66-0",
+        "8c6ee512-bf9e-4a24-8940-ac05102c1f57"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1643843523f6f5c874": {
+      "type": "advanced-content",
+      "blocks": {
+        "1643843523fd068b3d-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-38553704-c0c1-4b19-9bbb-0941114aea86\"><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1643843523fd068b3d-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "164384361508da98c3": {
+      "type": "advanced-content",
+      "blocks": {
+        "1643843614915838ed-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1643843614915838ed-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "164384361038596272": {
+      "type": "rich-text",
+      "blocks": {
+        "1643843610959d93fa-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Past instructors"
+          }
+        },
+        "333b348d-a1da-447f-a39b-bf18ab474348": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We have been lucky to have had a talented team of instructors over the years, and now have a fantastic network of Ivy Camps USA alumni<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1643843610959d93fa-0",
+        "333b348d-a1da-447f-a39b-bf18ab474348"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "16438436052822a9d6": {
+      "type": "text-columns",
+      "blocks": {
+        "164384360596658b4f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Johnnie, Columbia University<\/p><p>Jonathan, Harvard University<\/p><p>Julie, Cornell University<\/p><p>Kaelyn, Cornell University<\/p><p>Kayla, Cornell University<\/p><p>Luke, Duke University<\/p><p>Maddie, University of Chicago<\/p><p>Maggie, Harvard University<\/p><p>Michael, Pomona College<\/p><p>Monica, Princeton University<\/p><p>Myint, Harvard University<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "164384360596658b4f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Anika, UC Berkeley<\/p><p>Brooke, Dartmouth College<\/p><p>Franklin, Johns Hopkins University<\/p><p>Gauri, Yale University<\/p><p>Nasir, Princeton University<\/p><p>Natalie, Yale University<\/p><p>Nick, MIT<\/p><p>Susanna, Columbia University<\/p><p>Talia, University of Pennsylvania<\/p><p>Rebecca, University of Pennsylvania<\/p><p>Sean, Yale University<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "164384360596658b4f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Zacharia, Cornell University<\/p><p>Amanda, Harvard University<\/p><p>Ariana, Georgetown University<\/p><p>Christie, Princeton University<\/p><p>Daniel, McGill University<\/p><p>Fiona, Columbia University<\/p><p>Henry, Harvard University<\/p><p>Ifeoma, Harvard University<\/p><p>Steph, Dartmouth College<\/p><p>Terry, University of Pennsylvania<\/p><p>Zoe, University of Chicago<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164384360596658b4f-0",
+        "164384360596658b4f-1",
+        "164384360596658b4f-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643843837157746fd",
+    "164384357359e4e29a",
+    "1643843523f6f5c874",
+    "164384361508da98c3",
+    "164384361038596272",
+    "16438436052822a9d6"
+  ]
+}

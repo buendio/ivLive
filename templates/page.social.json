@@ -1,0 +1,116 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643737203d61a05c6": {
+      "type": "slideshow",
+      "blocks": {
+        "1643737202ac04e664-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Welcome to Ivy Camps USA",
+            "title_size": 50,
+            "subheading": "Click a link below to get directed to the page of your choice",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Instagram_Posts_2_13.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1643737202ac04e664-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "250px",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "165669087397d171a8": {
+      "type": "image-box-columns",
+      "blocks": {
+        "54def1c0-ec23-4e6e-9c6b-2e8d4dc0e094": {
+          "type": "image-box",
+          "settings": {
+            "ib_image": "shopify:\/\/shop_images\/3_61191a26-ba0d-4c7b-a845-5c2a3d8049de.png",
+            "ib_title": "",
+            "ib_subtitle": "",
+            "ib_text": "",
+            "ib_link_label": "Online Classes",
+            "ib_link": "https:\/\/ivycampsusa.com\/collections\/online-classes?utm_campaign=Ivy%20Camps%20Social&utm_source=instagram&utm_medium=social",
+            "ib_show_bubble": false,
+            "ib_bubble_color": "#43bee5",
+            "ib_bubble_text": "",
+            "ib_bubble_text_color": "#ffffff"
+          }
+        },
+        "2f0c5979-2399-4b08-b895-6b7f0a00db0d": {
+          "type": "image-box",
+          "settings": {
+            "ib_image": "shopify:\/\/shop_images\/4_9faa2e5d-fbff-4149-9295-7d8d13f8a920.png",
+            "ib_title": "",
+            "ib_subtitle": "",
+            "ib_text": "",
+            "ib_link_label": "Online Summer Camps",
+            "ib_link": "https:\/\/ivycampsusa.com\/pages\/summer-camp-2022?utm_campaign=Ivy%20Camps%20Social&utm_source=instagram&utm_medium=social",
+            "ib_show_bubble": false,
+            "ib_bubble_color": "#43bee5",
+            "ib_bubble_text": "",
+            "ib_bubble_text_color": "#ffffff"
+          }
+        },
+        "3881439b-64c2-48f7-b0a4-5ed71ac76e07": {
+          "type": "image-box",
+          "settings": {
+            "ib_image": "shopify:\/\/shop_images\/5_7fec0d37-deb4-42d2-9bf8-cf16309f5a1d.png",
+            "ib_title": "",
+            "ib_subtitle": "",
+            "ib_text": "",
+            "ib_link_label": "Free Consultation",
+            "ib_link": "https:\/\/ivycampsusa.com\/pages\/free-personalized-consultation-from-ivy-camps-usa?_pos=1&_sid=f9040f4a3&_ss=r&utm_campaign=Ivy%20Camps%20Social&utm_source=instagram&utm_medium=social",
+            "ib_show_bubble": false,
+            "ib_bubble_color": "#43bee5",
+            "ib_bubble_text": "",
+            "ib_bubble_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "54def1c0-ec23-4e6e-9c6b-2e8d4dc0e094",
+        "2f0c5979-2399-4b08-b895-6b7f0a00db0d",
+        "3881439b-64c2-48f7-b0a4-5ed71ac76e07"
+      ],
+      "settings": {
+        "ib_section_heading": "",
+        "ib_section_heading_color": "#000000",
+        "ib_section_title": "",
+        "ib_section_title_color": "#000000",
+        "ib_section_text": "",
+        "ib_section_text_color": "#000000",
+        "ib_section_columns": "col-3",
+        "ib_section_style": "style-1",
+        "image_size": "wide",
+        "ib_section_background_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643737203d61a05c6",
+    "165669087397d171a8"
+  ]
+}

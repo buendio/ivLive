@@ -1,0 +1,235 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Press",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/modern-globe-on-desk.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/untitled_design__76.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "164384936155df3fab": {
+      "type": "rich-text",
+      "blocks": {
+        "16438493611c36aa0f-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "16438493611c36aa0f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We have received awards, been featured in articles, and podcasts across the globe in recognition of our exceptional classes. We have been published in countries such as Singapore, the UAE, China, and the USA.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16438493611c36aa0f-0",
+        "16438493611c36aa0f-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1643849958d0ce77ee": {
+      "type": "rich-text",
+      "blocks": {
+        "1643849958b9066d7d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Print Media"
+          }
+        }
+      },
+      "block_order": [
+        "1643849958b9066d7d-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16438500865cf945bf": {
+      "type": "logo-list",
+      "blocks": {
+        "1643850086f1968576-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RNew-EL-Colour-website-new-1r.png",
+            "link": "https:\/\/expatliving.sg\/summer-camps-in-singapore-2019-gems-ivy-camps\/"
+          }
+        },
+        "1643850086f1968576-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Honey-Kids.jpg",
+            "link": "https:\/\/honeykidsasia.com\/ivy-camps-usa-xcl-world-academy-singapore\/"
+          }
+        },
+        "1643850086f1968576-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_National_Newspaper_Logo.png",
+            "link": "https:\/\/www.thenationalnews.com\/uae\/education\/coronavirus-virtual-summer-camps-in-dubai-to-help-pupils-catch-up-on-lost-learning-1.1045023"
+          }
+        },
+        "1643850086f1968576-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo.png",
+            "link": "https:\/\/al-khaleejtoday.net\/uae\/5016006\/Coronavirus-virtual-summer-camps-in-Dubai-to-help-pupils-catch-up-on-lost-learning.html"
+          }
+        },
+        "567b655a-6d8e-4100-9c0f-0e72cfb1c66b": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Time_Out_logo.jpg",
+            "link": "https:\/\/www.timeoutdubai.com\/kids\/things-to-do-2\/405546-three-top-creative-summer-camps-in-dubai"
+          }
+        },
+        "374fcb3f-5f19-433c-8112-8e495900e49c": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-04-09_at_9.38.15_AM.png",
+            "link": "https:\/\/lovin.co\/dubai\/en\/sponsored\/an-ivy-league-kids-camp-is-coming-to-dubai-this-summer"
+          }
+        },
+        "6b6ced9f-785a-4cce-9020-7166c6b84f65": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/giggle-magazine.png",
+            "link": "https:\/\/www.gigglemagazine.com\/education_childcare\/ivy-camps-usa\/"
+          }
+        },
+        "c568861c-bf7d-400e-a30e-bdc0af1259cd": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EdUAE-Logo-Blk-Website-2019.png",
+            "link": "https:\/\/www.education-uae.com\/ivy-league-inspired-summer-camp-for-dubai-kids\/"
+          }
+        },
+        "2be5e41d-f8aa-4c79-a4a8-9f7699322d8b": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-summa.jpg",
+            "link": "https:\/\/revistasumma.com\/revista-summa-digital-edicion-327\/"
+          }
+        }
+      },
+      "block_order": [
+        "1643850086f1968576-0",
+        "1643850086f1968576-1",
+        "1643850086f1968576-2",
+        "1643850086f1968576-3",
+        "567b655a-6d8e-4100-9c0f-0e72cfb1c66b",
+        "374fcb3f-5f19-433c-8112-8e495900e49c",
+        "6b6ced9f-785a-4cce-9020-7166c6b84f65",
+        "c568861c-bf7d-400e-a30e-bdc0af1259cd",
+        "2be5e41d-f8aa-4c79-a4a8-9f7699322d8b"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
+    "16438498998b3797b3": {
+      "type": "rich-text",
+      "blocks": {
+        "16438498993cc6f1ea-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Podcasts"
+          }
+        }
+      },
+      "block_order": [
+        "16438498993cc6f1ea-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "164384950538c95e25": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20_Voices-of-E-Learning_Hundert-1536x864.png",
+        "image_width": 700,
+        "subtitle": "VOICES OF E-LEARNING (USA)",
+        "title": "",
+        "text": "<p><\/p><p>\"Bringing Students Together Around the World Through Virtual Camps\"<\/p><p><\/p>",
+        "button_label": "Click Here to Listen",
+        "button_link": "https:\/\/marketscale.com\/industries\/education-technology\/bringing-students-together-around-the-world-through-virtual-camps\/",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1643849368aae6add6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1200x1200bb.jpg",
+        "image_width": 700,
+        "subtitle": "ENTRE MAMÁS NOS ENTENDEMOS (MEXICO)",
+        "title": "",
+        "text": "<p><\/p><p>\"Ivy Camps USA se enorgullece de ser el proveedor preeminente de educación suplementaria diseñada para cualquier estudiante que busque ampliar su futuro de educación de élite.\"<\/p><p><\/p>",
+        "button_label": "haga clic aquí para escuchar",
+        "button_link": "https:\/\/open.spotify.com\/episode\/1p4Bs1axIfxZeGwdRYkB6L?si=pGzY_a4NTliuPbhVapwhVw&dl_branch=1&nd=1",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "164384936155df3fab",
+    "1643849958d0ce77ee",
+    "16438500865cf945bf",
+    "16438498998b3797b3",
+    "164384950538c95e25",
+    "1643849368aae6add6"
+  ]
+}

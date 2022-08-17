@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "0a73c9f0-f263-468b-8848-f2214d10d77f": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "checkmark",
+            "text": "<b> Special discount available for Aspen School District students! <\/b>Use code \"ASD50\" for 50% off the original price."
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "0a73c9f0-f263-468b-8848-f2214d10d77f",
+        "separator",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "1650983809794f148d": {
+      "type": "advanced-content",
+      "blocks": {
+        "165098380995b788ee-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165098380995b788ee-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/24_955c14c5-8c59-40b6-b43b-f4f51f18881e.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "Our Curriculum",
+        "text": "<p>You can be sure what your child is learning is <strong>built by the best!<\/strong><br\/><br\/>Our curriculum team is led by <strong>education professionals with advanced degrees<\/strong> from top universities, including <strong>Harvard, and a current University Professor in Secondary Education.<\/strong><br\/><br\/>The team's credentials ensure our curriculum team maintains an active role in the research and advancement of the field of education, <strong>continually building on their 40 + years of experience in the educational and camp industries.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "About your brand",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "165098386962018d19": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "165098386937f73b0b-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165098386937f73b0b-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": false,
+        "product_recommendations_heading": "Our Other Camps &",
+        "related_count": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "1650983809794f148d",
+    "text-and-image",
+    "text-and-image2",
+    "recently-viewed",
+    "collection-return",
+    "165098386962018d19",
+    "product-recommendations"
+  ]
+}

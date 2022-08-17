@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Our Leadership Team",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/hands-typing-laptop-keyboard.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16437491026fc4b446": {
+      "type": "rich-text",
+      "blocks": {
+        "16437491020c71f1f0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Leadership Team"
+          }
+        },
+        "16437491020c71f1f0-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Bringing tons of experience in both education and global business, our leadership team is uniquely skilled to help students all around the world achieve success.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16437491020c71f1f0-0",
+        "16437491020c71f1f0-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1643732313dfb3d31e": {
+      "type": "advanced-content",
+      "blocks": {
+        "164373231378445191-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-cc976ed4-df60-4689-a72f-35f9d5393ed5\"><\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "164373231378445191-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "164808813391194a7c": {
+      "type": "instructors",
+      "disabled": true,
+      "blocks": {
+        "cc34e09c-a189-44ac-97c5-af792fec8796": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Website_square_Danny_photo.png",
+            "inst_image_label": "Danny Hundert",
+            "inst_name": "Founder & CEO (\"Camp Executive Officer\")",
+            "inst_text": "",
+            "inst_popup_text": "<p>Danny, a Dartmouth and University of Pennsylvania Wharton School of Business MBA graduate, is the founder of Ivy Camps USA. With over 20 years of experience in building and advising educational operations across the world, Danny is one of America’s most respected and recognized supplemental education administrators. He was awarded ‘The 2013 Business of the Year’ and ‘The 2016 Entrepreneur of the Year’ by the Aspen Chamber of Commerce due to the positive impact he and Ivy Camps continues to have on children's lives. He is passionate about connecting kids around the world to learn about different cultures while also cultivating soft skills such as leadership, problem-solving, and above all else: self-discovery.<\/p>"
+          }
+        },
+        "927eb8ef-ca6f-4ee2-99b5-478f79758dfa": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/9_AM_3.png",
+            "inst_image_label": "Nourjannah Hendi",
+            "inst_name": "Chief Operating Officer",
+            "inst_text": "",
+            "inst_popup_text": ""
+          }
+        },
+        "252173d9-9995-4fe2-8b4f-1e4ed84d24e6": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/PARALLAX_HEADER_Template_4.png",
+            "inst_image_label": "Marie Quinn",
+            "inst_name": "Head of Operations",
+            "inst_text": "",
+            "inst_popup_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "cc34e09c-a189-44ac-97c5-af792fec8796",
+        "927eb8ef-ca6f-4ee2-99b5-478f79758dfa",
+        "252173d9-9995-4fe2-8b4f-1e4ed84d24e6"
+      ],
+      "settings": {
+        "inst_no_spacing": false,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#021939",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "Section Title",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "This is some sample text",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#43bee5",
+        "inst_mbutton_text_color": "#ffffff",
+        "inst_button_text": "View All",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-3",
+        "image_size": "square"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "16437491026fc4b446",
+    "1643732313dfb3d31e",
+    "164808813391194a7c"
+  ]
+}

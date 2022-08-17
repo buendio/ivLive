@@ -1,0 +1,235 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Business & Finance",
+            "title_size": 80,
+            "subheading": "Classes for Ages 6-14",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Business-_Desktop.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1643852344781b4d99": {
+      "type": "rich-text",
+      "blocks": {
+        "1643852344ebc2daa7-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Business & Finance Classes"
+          }
+        },
+        "1643852344ebc2daa7-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Ivy Camps USA's business and finance classes teach students around the world to become the <strong>entrepreneurs of tomorrow<\/strong>! Students will learn <strong>advanced business concepts<\/strong> such as running business operations, the stock market, and more, in an <strong>easy-to-understand and applicable way<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1643852344ebc2daa7-0",
+        "1643852344ebc2daa7-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1643852286378c6c2c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "business-finance",
+        "per_row": 4,
+        "rows": 5,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "164385249083e17b3f": {
+      "type": "testimonials",
+      "blocks": {
+        "16438524901e906814-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>It was an amazing class! I got to learn a lot about business and marketing! We also learned about things we won' t learn at school. It was really fun!<\/p>",
+            "author": "Kaylee D.",
+            "author_info": "Student from the USA"
+          }
+        },
+        "16438524901e906814-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Everyday the instructors make class engaging and satisfying!<\/p>",
+            "author": "Frida E.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "16438524901e906814-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The program is interesting and my daughter enjoys it. She also likes the instructor who is friendly and fun!<\/p>",
+            "author": "Lily M.",
+            "author_info": "Mother from the USA"
+          }
+        },
+        "16438524901e906814-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I personally think that ivy camps is amazing!!!<\/p>",
+            "author": "Jessica R.",
+            "author_info": "Mother from the UK"
+          }
+        }
+      },
+      "block_order": [
+        "16438524901e906814-0",
+        "16438524901e906814-1",
+        "16438524901e906814-2",
+        "16438524901e906814-3"
+      ],
+      "settings": {
+        "title": "What Parents & Students Are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#041e42",
+        "test_section_background_color": "#ffffff",
+        "test_section_btl": "shopify:\/\/shop_images\/Untitled_design_92.png",
+        "test_section_btr": "shopify:\/\/shop_images\/13_copy_3A.png",
+        "test_section_bbl": "shopify:\/\/shop_images\/14_copy_3A.png",
+        "test_section_bbr": "shopify:\/\/shop_images\/Blob-1_f46a7155-2abc-4a79-816b-03133277f121.png"
+      }
+    },
+    "1643852503b1830fd3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/junior_prep_website_rebuild_720.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Program Format",
+        "text": "<p><\/p><p>➜ All classes are held<strong> live and online<\/strong><\/p><p>➜ Classes are <strong>75 minutes<\/strong> in duration<\/p><p>➜ Classes happen <strong>once per week<\/strong>,  on the <strong>same day each week<\/strong><\/p><p>➜ All classes will have a small class size between <strong>1-6 students<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16438524965c1d0674": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/45_b427c3c7-ac23-4385-a425-d707b4e03922.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Curriculum",
+        "text": "<p><\/p><p>➜ All classes feature curriculum <strong>designed by top education professionals<\/strong> with <strong>decades of experience<\/strong> in global K-12 education<\/p><p>➜ Our <strong>Business & Finance <\/strong>classes teach students to be <strong>innovative<\/strong> in their thinking, and <strong>confident<\/strong> in their ability to invent solutions to the world's big problems!<\/p><p><\/p><p>➜ All classes have students develop a <strong>comprehensive final project<\/strong> related to the subject of which they are studying<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1643852501d78c948f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/46_dd22030d-4d0e-4a27-af45-6cc04ce007f7.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Our Instructors",
+        "text": "<p><\/p><p>➜ All instructors come from<strong> top universities<\/strong> in the <strong>United States <\/strong>such as <strong>Columbia, Harvard, Yale, MIT, and many more<\/strong><\/p><p>➜ Ivy Camps USA instructors go through a <strong>comprehensive training program <\/strong>designed by our curriculum professionals<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16438525710a60f71f": {
+      "type": "rich-text",
+      "blocks": {
+        "1643852571ff38674c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsure which class is right for your child?"
+          }
+        },
+        "1643852571ff38674c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Schedule a free consultation with one of our Ivy Camps Program Advisors and they will be happy to help!<\/p>"
+          }
+        },
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/free-personalized-consultation-from-ivy-camps-usa",
+            "link_text": "Schedule a Free Consultation"
+          }
+        }
+      },
+      "block_order": [
+        "1643852571ff38674c-0",
+        "1643852571ff38674c-1",
+        "86087c02-29f0-48f2-bc37-b0a980fa1d74"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "1643852344781b4d99",
+    "1643852286378c6c2c",
+    "164385249083e17b3f",
+    "1643852503b1830fd3",
+    "16438524965c1d0674",
+    "1643852501d78c948f",
+    "16438525710a60f71f"
+  ]
+}

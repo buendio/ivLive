@@ -1,0 +1,232 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16595503260fd794a2": {
+      "type": "slideshow",
+      "blocks": {
+        "16595503268258c73b-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Writing",
+            "title_size": 80,
+            "subheading": "Classes for Kids Ages 6- 14",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/HEADER_1.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16595503268258c73b-1"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "165955074698292040": {
+      "type": "rich-text",
+      "blocks": {
+        "16595507465aad8e91-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Writing Classes"
+          }
+        },
+        "16595507465aad8e91-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The writing curriculum at schools around the world varies widely and it is one of the primary reasons why we see so many kids choosing Ivy Camps as a way to improve their skills. Parents see tremendous value in their children improving their writing, as it has crossover benefits to their communication abilities and other aspects of their school performance.<\/p><p>Students can earn a<a href=\"\/pages\/clarity-and-precision-in-writing-certificate-pathway\" title=\"Clarity and Precision in Writing - Certificate Pathway\"> Writing Certificate<\/a> when they finish the pathway by completing the foundational class and two additional Writing classes.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16595507465aad8e91-0",
+        "16595507465aad8e91-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1659550909627694f4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "writing-classes",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1659706135947fb274": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/39_d6a9fc60-d711-4b7f-913e-2f8088a00ff4.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Online Class Format",
+        "text": "<p>● All classes are held <strong>live and online<\/strong><br\/><br\/>● Classes are <strong>90 minutes<\/strong> in duration<br\/><br\/>● Classes happen <strong>once per week<\/strong>, on the <strong>same day<\/strong> each week<br\/><br\/>● All classes will have a small class size between <strong>1-6 students<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/how-it-works",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": true
+      }
+    },
+    "1659706142bff235fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/40_101ed78c-c25e-4ef1-8770-ec0ddaeac566.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Curriculum",
+        "text": "<p>● All classes feature curriculum <strong>designed by top education professionals<\/strong> with <strong>decades of experience<\/strong> in global K-12 education<br\/><br\/>● Our Public Speaking & Debate curriculum is designed to not only <strong>provide students with the improved ability to communicate through writing<\/strong>, but also to <strong>the ability to have confidence in their ideas!<\/strong><br\/><br\/>● All classes have students develop a <strong>comprehensive final project<\/strong> related to the subject of which they are studying<\/p>",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/team",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1659706154555239d6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Certificate_Pathways_1a723f3a-e7aa-4677-8fb6-373ace210815.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Certificate Pathway",
+        "text": "<p>● All classes count toward the <strong>Clarity and Precision in Writing Certificate Pathway<\/strong><\/p><p>● Complete <strong>3 online classes<\/strong> to qualify to obtain the certificate<\/p><p>● Allow your child to acquire <strong>expertise in Writing<\/strong><\/p><p><\/p>",
+        "button_label": "View the Pathway",
+        "button_link": "shopify:\/\/pages\/clarity-and-precision-in-writing-certificate-pathway",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "165970616710702dae": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/41_d79f53b6-4beb-420b-a679-99975538436c.png",
+        "image_width": 550,
+        "subtitle": "",
+        "title": "Our Instructors",
+        "text": "<p>● All instructors come from top universities in the United States such as <strong>Columbia, Harvard, Yale, MIT, and many more<\/strong><br\/><br\/>● Ivy Camps USA instructors go through a <strong>comprehensive training program<\/strong> designed by our curriculum professionals<\/p><p><\/p>",
+        "button_label": "Meet Our Instructors",
+        "button_link": "shopify:\/\/pages\/our-instructors",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "165970683186e9872d": {
+      "type": "testimonials",
+      "blocks": {
+        "1659706831d643d1b2-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The teachers were so engaging!<\/p>",
+            "author": "Sara Y.",
+            "author_info": "Mother from the UAE"
+          }
+        },
+        "1659706831d643d1b2-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>It's been a great experience!<\/p>",
+            "author": "Natalie R.",
+            "author_info": "Mother from the USA"
+          }
+        }
+      },
+      "block_order": [
+        "1659706831d643d1b2-0",
+        "1659706831d643d1b2-1"
+      ],
+      "settings": {
+        "title": "What Parents & Students Are Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "test_section_background_color": "#ffffff",
+        "test_section_btl": "shopify:\/\/shop_images\/12_copy_2A.png",
+        "test_section_btr": "shopify:\/\/shop_images\/13_copy_3A.png",
+        "test_section_bbl": "shopify:\/\/shop_images\/14_copy_3A.png",
+        "test_section_bbr": "shopify:\/\/shop_images\/11_copy_2A.png"
+      }
+    },
+    "165970710035843afb": {
+      "type": "rich-text",
+      "blocks": {
+        "1659707100371019e0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Unsure which class is right for your child?"
+          }
+        },
+        "1659707100371019e0-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Schedule a free consultation with one of our Ivy Camps Program Advisors and they will be happy to help!<\/p>"
+          }
+        },
+        "854e6371-6328-4f5d-9017-f50ee5b0cb00": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/free-personalized-consultation-from-ivy-camps-usa",
+            "link_text": "Schedule a Free consultation"
+          }
+        }
+      },
+      "block_order": [
+        "1659707100371019e0-0",
+        "1659707100371019e0-1",
+        "854e6371-6328-4f5d-9017-f50ee5b0cb00"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16595503260fd794a2",
+    "165955074698292040",
+    "1659550909627694f4",
+    "1659706135947fb274",
+    "1659706142bff235fe",
+    "1659706154555239d6",
+    "165970616710702dae",
+    "165970683186e9872d",
+    "165970710035843afb"
+  ]
+}

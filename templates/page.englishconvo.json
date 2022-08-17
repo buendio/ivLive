@@ -1,0 +1,174 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16438135519f510f80": {
+      "type": "slideshow",
+      "blocks": {
+        "164381355188477f9b-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Conversational \nEnglish Practice",
+            "title_size": 80,
+            "subheading": "Work with our top instructors to improve your student's English conversational fluency",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/27.png",
+            "overlay_opacity": 10,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "164381355188477f9b-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "164381676484484218": {
+      "type": "rich-text",
+      "blocks": {
+        "c5f019b1-2f18-4658-b45f-1fdb91809656": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This <strong>one-on-one tutoring <\/strong>option is a <strong>powerful way to improve your child's spoken English skills<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c5f019b1-2f18-4658-b45f-1fdb91809656"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "16437414563c46dcaf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/21_04592a24-e6d8-43db-8540-105438326b18.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "What We Teach",
+        "text": "<p>This tutoring option is a perfect way to <strong>improve your child's ability to express themselves and their ideas in spoken English<\/strong>. We focus on building <strong>conversational fluency<\/strong> and <strong>comfort <\/strong>with the language.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": true
+      }
+    },
+    "16437414728908bd9e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/22_04e73863-4932-4184-98e9-ed85ec3f1a56.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "How It Works",
+        "text": "<p>Our tutors, who are trained in using English as a second language, will <strong>meet your child at their current English level and use engaging activities to improve their vocabulary, grammar, and confidence in speaking<\/strong>.<\/p><p><strong>Each session lasts for 60 minutes and is scheduled at a time of your convenience. <\/strong>After each session, our tutors will <strong>provide feedback<\/strong> on how your child performed in the session, what they learned\/worked on, and how they can continue to improve. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "164384565589d263fb": {
+      "type": "advanced-content",
+      "blocks": {
+        "1643845655533aeba2-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1643845655533aeba2-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "164381354828d6b964": {
+      "type": "featured-product",
+      "blocks": {
+        "164381354879108a85-0": {
+          "type": "price",
+          "settings": {}
+        },
+        "164381354879108a85-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "164381354879108a85-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "164381354879108a85-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "164381354879108a85-0",
+        "164381354879108a85-1",
+        "164381354879108a85-2",
+        "164381354879108a85-3"
+      ],
+      "settings": {
+        "featured_product": "online-tutoring-services-english-conversational-help",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16438135519f510f80",
+    "164381676484484218",
+    "16437414563c46dcaf",
+    "16437414728908bd9e",
+    "164384565589d263fb",
+    "164381354828d6b964"
+  ]
+}

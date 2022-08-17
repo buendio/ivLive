@@ -1,0 +1,636 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1643727054c854f508": {
+      "type": "slideshow",
+      "blocks": {
+        "16437270543f8741ec-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Our Instructors",
+            "title_size": 80,
+            "subheading": "As a byproduct of their elite academic and professional background, our teachers are uniquely equipped to provide children with a nuanced educational experience that challenges their creative, intellectual, and emotional capacities.  During each class and camp, our team guides campers towards mastery in a wide variety of scholastic and artistic endeavors — sparking passion, cultivating depth of character, and helping students gain self-knowledge.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/PLCollage.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_88.png",
+            "overlay_opacity": 0,
+            "focal_point": "20% 0"
+          }
+        }
+      },
+      "block_order": [
+        "16437270543f8741ec-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "164815372626b7a106": {
+      "type": "rich-text",
+      "blocks": {
+        "16481537266b1169ec-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Click on each image to learn more about our wonderful instructors"
+          }
+        },
+        "16481537266b1169ec-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Click on each school name to learn more about each of our wonderful instructors<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16481537266b1169ec-0",
+        "16481537266b1169ec-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1647835211fcd11528": {
+      "type": "instructors",
+      "blocks": {
+        "2a1df892-5b07-4efa-8679-41b43fb36c10": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Alexandra.png",
+            "inst_image_label": "",
+            "inst_name": "Alexandra Harland",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major:<\/strong> Psychology and Sociology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to learn more about the world of education!<\/p>"
+          }
+        },
+        "201d59f1-7ca5-4ca9-8915-f4ab538e2f4d": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Amina.png",
+            "inst_image_label": "",
+            "inst_name": "Amina Fahmy",
+            "inst_text": "<p>American University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Political Science<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to see all of the fantastic projects that students create!<\/p>"
+          }
+        },
+        "3b74f185-ec01-4731-a72a-3106ef4ceb62": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Amy.png",
+            "inst_image_label": "",
+            "inst_name": "Amy Daniel",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Environment and Sustainability<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to hear about students' interests and learning more about them!<\/p>"
+          }
+        },
+        "0d045ec1-2cd7-40bd-97cf-039783de8eba": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Andrea.png",
+            "inst_image_label": "",
+            "inst_name": "Andrea Ponce",
+            "inst_text": "<p>New York University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Drama & Psychology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to learn new things from students!<\/p>"
+          }
+        },
+        "24e0aac7-d3f6-4737-a81b-6d5d9b262ec3": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Ashika.png",
+            "inst_image_label": "",
+            "inst_name": "Ashika Shah",
+            "inst_text": "<p>New York University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Drama<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Having the chance to inspire kids to pursue their dreams!<\/p>"
+          }
+        },
+        "661b9fbe-237e-41f7-b1f7-813ac5a2de3c": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Astrid.png",
+            "inst_image_label": "",
+            "inst_name": "Astrid Obadia",
+            "inst_text": "<p>Columbia University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Political Science and Middle Eastern Studies<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Having the chance to meet students from all around the world!<\/p>"
+          }
+        },
+        "4d54062e-c63e-485a-9824-950193c41cbb": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Campbell.png",
+            "inst_image_label": "",
+            "inst_name": "Campbell Whalen",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Quantitative Social Science with a focus on Education<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Utilizing technology to effectively educate kids online (while having tons of fun)!<\/p>"
+          }
+        },
+        "c5b7066c-368d-4da4-b55f-6a2024d631d2": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Courtney.png",
+            "inst_image_label": "",
+            "inst_name": "Courtney Davis",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Hotel Administration<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Seeing all of the great projects students create!<\/p>"
+          }
+        },
+        "71f6bc59-d08b-499c-b3a5-cdf0dcab6a72": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Eliud.png",
+            "inst_image_label": "",
+            "inst_name": "Eliud Vargas Jr.",
+            "inst_text": "<p>University of Pennsylvania<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Psychology<\/p><p><strong>Favorite Part About Ivy Camps:<\/strong><\/p><p>Having the chance to inspire students to think creatively about solving problems!<\/p>"
+          }
+        },
+        "54a2bf61-a4dc-42af-9a97-13834e85d2fc": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Fatoumata.png",
+            "inst_image_label": "",
+            "inst_name": "Fatoumata Sow",
+            "inst_text": "<p>Princeton University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Chemistry<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Meeting a fantastic group of students and staff!<\/p>"
+          }
+        },
+        "33e8f6af-d094-4cd9-a5e8-809fedcbaacc": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Hana.png",
+            "inst_image_label": "",
+            "inst_name": "Hana Butler Gutierrez",
+            "inst_text": "<p>Brown University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Mechanical Engineering<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to inspire students to pursue their passions in STEM!<\/p>"
+          }
+        },
+        "cf6e056d-5071-4c09-a828-41ebff782a01": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Jason.png",
+            "inst_image_label": "",
+            "inst_name": "Jason Acosta Espinosa",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Psychology and Politics, Philosophy, and Economics<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting the chance to educate kids around the world!<\/p>"
+          }
+        },
+        "cf272bd8-94e8-4f3f-a591-ec9a80a3454f": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Jenna_5fe07629-2a7a-48f0-8a7d-87c032e47b09.png",
+            "inst_image_label": "",
+            "inst_name": "Jenna Mijares",
+            "inst_text": "<p>University of Pennsylvania<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Economics<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Having the chance to teach kids about finance, business, and economics!<\/p>"
+          }
+        },
+        "798d56b6-a618-4a4c-8079-46af239453db": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Jenna.png",
+            "inst_image_label": "",
+            "inst_name": "John Harrington",
+            "inst_text": "<p>Harvard University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Linguistics<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Having a chance to meet students from all around the world!<\/p>"
+          }
+        },
+        "74b3178b-6277-4040-aeb9-098c671285fe": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Juan.png",
+            "inst_image_label": "",
+            "inst_name": "Juan Guzman",
+            "inst_text": "<p>Johns Hopkins University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Chemical and Biomolecular Engineering, History<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Having the chance to meet fantastic students and staff!<\/p>"
+          }
+        },
+        "5956a6f9-d6f1-4eb6-a063-d32728dfd3a8": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Karen_8a5e451c-aa75-463b-b5af-11045804ad0f.png",
+            "inst_image_label": "",
+            "inst_name": "Karen Alarcon",
+            "inst_text": "<p>University of California - Berkeley<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Computer Science<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to teach students around the world about the STEM field!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2a1df892-5b07-4efa-8679-41b43fb36c10",
+        "201d59f1-7ca5-4ca9-8915-f4ab538e2f4d",
+        "3b74f185-ec01-4731-a72a-3106ef4ceb62",
+        "0d045ec1-2cd7-40bd-97cf-039783de8eba",
+        "24e0aac7-d3f6-4737-a81b-6d5d9b262ec3",
+        "661b9fbe-237e-41f7-b1f7-813ac5a2de3c",
+        "4d54062e-c63e-485a-9824-950193c41cbb",
+        "c5b7066c-368d-4da4-b55f-6a2024d631d2",
+        "71f6bc59-d08b-499c-b3a5-cdf0dcab6a72",
+        "54a2bf61-a4dc-42af-9a97-13834e85d2fc",
+        "33e8f6af-d094-4cd9-a5e8-809fedcbaacc",
+        "cf6e056d-5071-4c09-a828-41ebff782a01",
+        "cf272bd8-94e8-4f3f-a591-ec9a80a3454f",
+        "798d56b6-a618-4a4c-8079-46af239453db",
+        "74b3178b-6277-4040-aeb9-098c671285fe",
+        "5956a6f9-d6f1-4eb6-a063-d32728dfd3a8"
+      ],
+      "settings": {
+        "inst_no_spacing": true,
+        "inst_addtop_spacing": true,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "",
+        "inst_section_title_color": "#041e42",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#43bee5",
+        "inst_mbutton_text_color": "#ffffff",
+        "inst_button_text": "View All",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#43bee5",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "1647838834c62d8621": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1647838834b5e4020c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "1647838834b5e4020c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>As a byproduct of their elite academic and professional background, our teachers are uniquely equipped to provide children with a nuanced educational experience that challenges their creative, intellectual, and emotional capacities.  During each class and camp, our team guides campers towards mastery in a wide variety of scholastic and artistic endeavors — sparking passion, cultivating depth of character, and helping students gain self-knowledge.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1647838834b5e4020c-0",
+        "1647838834b5e4020c-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16478354886041f409": {
+      "type": "instructors",
+      "blocks": {
+        "9a5b46c7-bffa-43dc-a83f-7f308b562980": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Kelly.png",
+            "inst_image_label": "",
+            "inst_name": "Kelly Lomboy",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Government<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to teach kids and inspire a love of learning!<\/p>"
+          }
+        },
+        "b43e84d7-5041-4bf1-b8b1-374a1d1ae44b": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Kolya.png",
+            "inst_image_label": "",
+            "inst_name": "Kolya Shields",
+            "inst_text": "<p>Brown University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Sociology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>I think it's great how we inspire campers to dream big and work hard to achieve their dreams!<\/p>"
+          }
+        },
+        "43f38d9e-51b9-4147-ad88-12abde280f9f": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Kyle.png",
+            "inst_image_label": "",
+            "inst_name": "Kyle Schubert",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Mechanical Engineering<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>I really enjoy getting to have fun in all of my classes, while still getting to make them very educational!<\/p>"
+          }
+        },
+        "0631302c-85ae-4489-9dd0-c5c0b6441dd9": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Liam.png",
+            "inst_image_label": "",
+            "inst_name": "Liam Smith",
+            "inst_text": "<p>Stanford University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Linguistics & Chemistry<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>The best part about Ivy Camps USA is getting to teach students around the world! <\/p>"
+          }
+        },
+        "aca6c3bb-6b93-433b-8ee8-9a5d8c7060ba": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Luke.png",
+            "inst_image_label": "",
+            "inst_name": "Luke Horton",
+            "inst_text": "<p>Brown University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>International and Public Affairs & Psychology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>I really enjoy getting to work with kids around the world!<\/p>"
+          }
+        },
+        "25a129cc-7ab4-4d28-b36d-2db82592d909": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Madeleine.png",
+            "inst_image_label": "",
+            "inst_name": "Madeleine Tremblay",
+            "inst_text": "<p>Brown University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Science, Technology, and Society<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>I think it's great to see the projects that students come up with! They're always so innovative!<\/p>"
+          }
+        },
+        "3c12dc83-015d-4451-9fdd-86c8869762d7": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Madison.png",
+            "inst_image_label": "",
+            "inst_name": "Madison Augusto",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Psychology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's really great to get to inspire students to innovate to solve problems they see every day!<\/p>"
+          }
+        },
+        "a6781d19-a686-4f98-b0eb-723c0d97216c": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Melissa.png",
+            "inst_image_label": "",
+            "inst_name": "Melissa Hoang Lopez",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Business and Marketing<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's so great that Ivy Camps USA provides educational subjects not available in school! <\/p>"
+          }
+        },
+        "91284430-2975-45a3-a9b9-19d696c86ac2": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Nada.png",
+            "inst_image_label": "",
+            "inst_name": "Nada Atef El Barkouky",
+            "inst_text": "<p>American University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Business & Marketing<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's so fun to get to teach subjects that students are so passionate about!<\/p>"
+          }
+        },
+        "880e0377-97b9-471f-a177-be8ef34f2f78": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Navya.png",
+            "inst_image_label": "",
+            "inst_name": "Navya Chamiraju",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Major:<\/strong> Environment, Sustainability, and Anthropology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It is fantastic to get to teach kids from around the world!<\/p>"
+          }
+        },
+        "b229de94-80ed-41a7-abbb-d9be9a85e276": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Rebecca.png",
+            "inst_image_label": "",
+            "inst_name": "Rebecca Wade",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Government<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's so fantastic to get to inspire students to dream big!<\/p>"
+          }
+        },
+        "3a56b771-367c-429c-bc49-3746f35c4e61": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Regan.png",
+            "inst_image_label": "",
+            "inst_name": "Regan Weekly",
+            "inst_text": "<p>Dartmouth College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>English & Creative Writing<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's so fantastic to get to inspire students to be passionate about their learning!<\/p>"
+          }
+        },
+        "9b751b4a-44bb-4268-ad52-0054fa2dae82": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Samantha.png",
+            "inst_image_label": "",
+            "inst_name": "Samantha Pitts",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Biomedical Engineering<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to teach students around the world about exciting topics!<\/p>"
+          }
+        },
+        "907bd74e-1ef7-476a-87e3-0506a0c78a3f": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Sarah.png",
+            "inst_image_label": "",
+            "inst_name": "Sarah Davis",
+            "inst_text": "<p>Northeastern University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Business & Psychology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's so fantastic to get to teach kids subjects they may not otherwise get to learn in school!<\/p>"
+          }
+        },
+        "35b5b5e3-6c50-416a-888a-01d68b51ed3e": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Sophia.png",
+            "inst_image_label": "",
+            "inst_name": "Sophia Calder",
+            "inst_text": "<p>Vassar College<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Italian and Sociology<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's so cool to see what ideas kids come up with!<\/p>"
+          }
+        },
+        "3256f01c-9aff-41b9-bb31-aafdd50ba677": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Stephanie.png",
+            "inst_image_label": "",
+            "inst_name": "Stephanie Albaña",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Major:<\/strong> Environmental Policy & Governance<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to teach really fantastic curriculum!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9a5b46c7-bffa-43dc-a83f-7f308b562980",
+        "b43e84d7-5041-4bf1-b8b1-374a1d1ae44b",
+        "43f38d9e-51b9-4147-ad88-12abde280f9f",
+        "0631302c-85ae-4489-9dd0-c5c0b6441dd9",
+        "aca6c3bb-6b93-433b-8ee8-9a5d8c7060ba",
+        "25a129cc-7ab4-4d28-b36d-2db82592d909",
+        "3c12dc83-015d-4451-9fdd-86c8869762d7",
+        "a6781d19-a686-4f98-b0eb-723c0d97216c",
+        "91284430-2975-45a3-a9b9-19d696c86ac2",
+        "880e0377-97b9-471f-a177-be8ef34f2f78",
+        "b229de94-80ed-41a7-abbb-d9be9a85e276",
+        "3a56b771-367c-429c-bc49-3746f35c4e61",
+        "9b751b4a-44bb-4268-ad52-0054fa2dae82",
+        "907bd74e-1ef7-476a-87e3-0506a0c78a3f",
+        "35b5b5e3-6c50-416a-888a-01d68b51ed3e",
+        "3256f01c-9aff-41b9-bb31-aafdd50ba677"
+      ],
+      "settings": {
+        "inst_no_spacing": true,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#43bee5",
+        "inst_mbutton_text_color": "#ffffff",
+        "inst_button_text": "",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "1647838844a65c0451": {
+      "type": "instructors",
+      "blocks": {
+        "8084ce42-aa20-4514-b442-ce1e41e7b932": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Tamara.png",
+            "inst_image_label": "",
+            "inst_name": "Tamara Munoz",
+            "inst_text": "<p>Cornell University<\/p>",
+            "inst_popup_text": "<p><strong>Major:<\/strong> Industrial and Labor Relations<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>Getting to help students around the world to understand complicated subjects!<\/p>"
+          }
+        },
+        "9edaf0e5-e011-412c-a3c3-3c73f53fca67": {
+          "type": "instructor",
+          "settings": {
+            "inst_image": "shopify:\/\/shop_images\/Victoria.png",
+            "inst_image_label": "",
+            "inst_name": "Victoria Priester",
+            "inst_text": "<p>Duke University<\/p>",
+            "inst_popup_text": "<p><strong>Major: <\/strong>Biology and Chemistry<\/p><p><strong>Favorite Part About Ivy Camps USA:<\/strong><\/p><p>It's great to see students gain skills that I know they can use throughout their lives! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8084ce42-aa20-4514-b442-ce1e41e7b932",
+        "9edaf0e5-e011-412c-a3c3-3c73f53fca67"
+      ],
+      "settings": {
+        "inst_no_spacing": true,
+        "inst_addtop_spacing": false,
+        "inst_background_color": "#ffffff",
+        "inst_background_cover_color": "#ffffff",
+        "inst_section_title": "",
+        "inst_section_title_color": "#021939",
+        "inst_section_text": "",
+        "inst_section_text_color": "#43bee5",
+        "inst_mbutton_color": "#43bee5",
+        "inst_mbutton_text_color": "#ffffff",
+        "inst_button_text": "",
+        "inst_button_text_color": "#041e42",
+        "inst_button_color": "#efa500",
+        "inst_button_link": "",
+        "inst_section_columns": "col-4",
+        "image_size": "square"
+      }
+    },
+    "164805176756069532": {
+      "type": "rich-text",
+      "blocks": {
+        "164805176746434b08-0": {
+          "type": "heading",
+          "settings": {
+            "title": "PAST INSTRUCTORS"
+          }
+        },
+        "164805176746434b08-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We have been lucky to have had a talented team of instructors over the years, and now have a fantastic network of Ivy Camps USA alumni<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164805176746434b08-0",
+        "164805176746434b08-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1648051781bf1d6e50": {
+      "type": "text-columns",
+      "blocks": {
+        "1648051781eb12b1c6-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Johnnie, Columbia University<br\/>Jonathan, Harvard University<br\/>Julie, Cornell University<br\/>Kaelyn, Cornell University<br\/>Kayla, Cornell University<br\/>Luke, Duke University<br\/>Maddie, University of Chicago<br\/>Maggie, Harvard University<br\/>Michael, Pomona College<br\/>Monica, Princeton University<br\/>Myint, Harvard University<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1648051781eb12b1c6-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Anika, UC Berkeley<br\/>Brooke, Dartmouth College<br\/>Franklin, Johns Hopkins University<br\/>Gauri, Yale University<br\/>Nasir, Princeton University<br\/>Natalie, Yale University<br\/>Nick, MIT<br\/>Susanna, Columbia University<br\/>Talia, University of Pennsylvania<br\/>Rebecca, University of Pennsylvania<br\/>Sean, Yale University<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1648051781eb12b1c6-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Zacharia, Cornell University<br\/>Amanda, Harvard University<br\/>Ariana, Georgetown University<br\/>Christie, Princeton University<br\/>Daniel, McGill University<br\/>Fiona, Columbia University<br\/>Henry, Harvard University<br\/>Ifeoma, Harvard University<br\/>Steph, Dartmouth College<br\/>Terry, University of Pennsylvania<br\/>Zoe, University of Chicago<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1648051781eb12b1c6-0",
+        "1648051781eb12b1c6-1",
+        "1648051781eb12b1c6-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643727054c854f508",
+    "164815372626b7a106",
+    "1647835211fcd11528",
+    "1647838834c62d8621",
+    "16478354886041f409",
+    "1647838844a65c0451",
+    "164805176756069532",
+    "1648051781bf1d6e50"
+  ]
+}

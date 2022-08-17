@@ -1,0 +1,295 @@
+{%- style -%}
+	.inst-section-wrapper.inst-{{ section.id }} {
+		background-color:{{ section.settings.inst_background_color }};
+    }
+
+	.inst-cover.inst-{{ section.id }} {
+		background-color:{{ section.settings.inst_background_cover_color }};
+    }
+
+	.inst-section-title.inst-{{ section.id }} {
+		color:{{ section.settings.inst_section_title_color }};
+    }
+
+	.inst-section-text.inst-{{ section.id }} {
+		color:{{ section.settings.inst_section_text_color }};
+    }
+
+	.inst-button.inst-{{ section.id }} {
+		color:{{ section.settings.inst_button_text_color }};
+		background-color:{{ section.settings.inst_button_color }};
+    }
+	
+    .inst-button.inst-{{ section.id }}:hover {
+		background-color:{{ section.settings.inst_button_text_color }};
+		color:{{ section.settings.inst_button_color }};
+    }
+
+    .inst-link-button.inst-{{ section.id }} {
+        background-color:{{ section.settings.inst_mbutton_color }};
+        color:{{ section.settings.inst_mbutton_text_color }};
+    }
+
+    .inst-link-button.inst-{{ section.id }}:hover {
+        background-color:{{ section.settings.inst_mbutton_text_color }};
+        color:{{ section.settings.inst_mbutton_color }};
+    }
+
+{%- endstyle -%}
+
+{%- if section.blocks.size > 0 -%}
+
+{% assign spc = "" %}
+{%- if section.settings.inst_no_spacing -%}      
+	{% assign spc = "no-space" %}
+{%- endif -%} 
+{% assign tspc = "" %}
+{%- if section.settings.inst_addtop_spacing -%}      
+	{% assign tspc = "addtop-space" %}
+{%- endif -%}
+
+  <div class="inst-section-wrapper inst-{{ section.id }} {{ tspc }} {{ spc }}">
+    
+    <div class="inst-cover inst-{{ section.id }} {{ spc }}">    
+    
+          {%- if section.settings.inst_section_title != blank -%}      
+                <h2 class="inst-section-title inst-{{ section.id }}">{{ section.settings.inst_section_title }}</h2>
+          {%- endif -%}   
+
+          {%- if section.settings.inst_section_text != blank -%}      
+                <div class="inst-section-text inst-{{ section.id }}">{{ section.settings.inst_section_text }}</div>
+          {%- endif -%}  
+
+          <div class="inst-blocks-wrapper {{ tspc }} {{ spc }}">      
+            {%- for block in section.blocks -%}
+              <div class="inst-block-wrapper {{ section.settings.inst_section_columns }}" {{ block.shopify_attributes }} data-aos="row-of-3">
+                  {%- if block.settings.inst_image != blank -%}
+                	  {% assign img_url = block.settings.inst_image | image_url: width: 500 %}                          
+                	  <div class="inst-popup-wrapper">
+                      	<div class="inst-popup-content">
+                          <div class="inst-popup-close">X</div>
+                          <div class="inst-popup-image" style="background-image:url('{{ img_url }}');"></div>
+                          <div class="inst-popup-info">
+                            {%- if block.settings.inst_name != blank -%}	
+                                <div class="inst-popup-name">{{ block.settings.inst_name }}</div>
+                            {%- endif -%}
+                            <div class="inst-popup-school">{{ block.settings.inst_image_label }}</div> 
+                            {%- if block.settings.inst_popup_text != blank -%}	
+                                <div class="inst-popup-text">{{ block.settings.inst_popup_text }}</div>
+                            {%- endif -%}
+                          </div>
+                        </div>
+                	  </div>
+                      <div class="image-wrap">
+                        <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                          {% assign img_url = block.settings.inst_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}                          
+                	  	  <img class="lazyload grid__image-cover"
+                               data-src="{{ img_url }}"
+                               data-widths="[360, 540, 720, 900, 1080]"
+                               data-aspectratio="{{ block.settings.inst_image.aspect_ratio }}"
+                               data-sizes="auto"
+                               alt="{{ block.settings.inst_image.alt | escape }}">
+                          {%- if block.settings.inst_image_label != blank -%}
+                            <div class="inst-link-button inst-{{ section.id }}" aria-label="{{ block.settings.inst_name }}">
+                              {{ block.settings.inst_image_label }}
+                            </div>
+                          {%- endif -%}
+                        </div>
+                        <noscript>
+                          <img class="lazyloaded" src="{{ block.settings.inst_image | img_url: '400x' }}" alt="{{ block.settings.inst_name | escape }}">
+                        </noscript>
+                      </div>
+                      {%- if block.settings.inst_name != blank -%}	
+                          <div class="inst-name">
+                              {{ block.settings.inst_name }}  
+                          </div>
+                      {%- endif -%}
+                      {%- if block.settings.inst_text != blank -%}	
+                          <div class="inst-text">
+                              {{ block.settings.inst_text }}  
+                          </div>
+                      {%- endif -%}
+                  {%- else -%}
+                    <div class="image-wrap">
+                      <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                        {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                      </div>
+                    </div>
+                  {%- endif -%}
+              </div>
+
+            {%- endfor -%}
+          </div>
+
+      	  {%- if section.settings.inst_button_link != blank -%}      
+                <a href="{{ section.settings.inst_button_link }}" class="inst-button inst-{{ section.id }}">
+                  {{ section.settings.inst_button_text }}
+                </a>
+          {%- endif -%}
+    </div>
+  </div>
+
+{%- endif -%}
+
+
+{% schema %}
+  {
+    "name": "Instructors",
+    "class": "index-section--box-columns",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Background Items"
+      },{
+        "type": "checkbox",
+        "id": "inst_no_spacing",
+        "label": "Remove Spacing"
+      },{
+        "type": "checkbox",
+        "id": "inst_addtop_spacing",
+        "label": "Add Top Spacing"
+      },{
+        "type": "color",
+        "id": "inst_background_color",
+        "label": "Background Color",
+        "default": "#021939"
+      },{
+        "type": "color",
+        "id": "inst_background_cover_color",
+        "label": "Background Color - Cover",
+        "default": "#ffffff"
+      },{
+        "type": "header",
+        "content": "Section Items"
+      },{
+        "type": "text",
+        "id": "inst_section_title",
+        "label": "Section Title",
+		"default": "Section Title"
+      },{
+        "type": "color",
+        "id": "inst_section_title_color",
+        "label": "Title Color",
+        "default": "#021939"
+      },{
+        "type": "textarea",
+        "id": "inst_section_text",
+        "label": "Section Text",
+		"default": "This is some sample text"
+      },{
+        "type": "color",
+        "id": "inst_section_text_color",
+        "label": "Text Color",
+        "default": "#43bee5"
+      },{
+        "type": "color",
+        "id": "inst_mbutton_color",
+        "label": "Button Color",
+        "default": "#041e42"
+      },{
+        "type": "color",
+        "id": "inst_mbutton_text_color",
+        "label": "Button Text Color",
+        "default": "#041e42"
+      },{
+        "type": "text",
+        "id": "inst_button_text",
+        "label": "Bottom Button Text",
+        "default": "View All"
+      },{
+        "type": "color",
+        "id": "inst_button_text_color",
+        "label": "Bottom Button Text Color",
+        "default": "#041e42"
+      },{
+        "type": "color",
+        "id": "inst_button_color",
+        "label": "Bottom Button Color",
+        "default": "#efa500"
+      },{
+        "type": "url",
+        "id": "inst_button_link",
+        "label": "Bottom Button Link"
+      },{
+        "type": "select",
+        "id": "inst_section_columns",
+        "label": "Number of Columns",
+        "default": "col-3",
+        "options": [
+          {
+            "value": "col-2",
+            "label": "2 Columns"
+          },
+          {
+            "value": "col-3",
+            "label": "3 Columns"
+          },
+          {
+            "value": "col-4",
+            "label": "4 Columns"
+          }
+        ]
+      },{
+        "type": "select",
+        "id": "image_size",
+        "label": "Image Size",
+        "default": "wide",
+        "options": [
+          {
+            "value": "square",
+            "label": "Square (1:1)"
+          },
+          {
+            "value": "landscape",
+            "label": "Landscape (4:3)"
+          },
+          {
+            "value": "portrait",
+            "label": "Portrait (2:3)"
+          },
+          {
+            "value": "wide",
+            "label": "Wide (16:9)"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Instructors",
+        "category": "Custom"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "instructor",
+        "name": "Instructor",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "inst_image",
+            "label": "Image"
+          },{
+            "type": "text",
+            "id": "inst_image_label",
+            "label": "Image Label"
+          },{
+            "type": "text",
+            "id": "inst_name",
+            "label": "Name",
+            "default": "Test Name"
+          },{
+            "type": "richtext",
+            "id": "inst_text",
+            "label": "Item Text",
+			"default": "<p>Enter some text about this person</p>"
+          },{
+            "type": "richtext",
+            "id": "inst_popup_text",
+            "label": "Popup Text"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

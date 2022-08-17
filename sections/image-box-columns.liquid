@@ -1,0 +1,427 @@
+
+{%- if section.blocks.size > 0 -%}
+
+  <div class="ib-section-wrapper" style="background-color:{{ section.settings.ib_section_background_color }};">
+    
+	{%- if section.settings.ib_section_btl != blank -%}
+		{% assign img_url = section.settings.ib_section_btl | image_url: width: 500 %}
+    	<img class="ib-cover-tl" src="{{ img_url }}" alt=""/>
+	{%- endif -%}
+    {%- if section.settings.ib_section_btr != blank -%}
+		{% assign img_url = section.settings.ib_section_btr | image_url: width: 500 %}
+    	<img class="ib-cover-tr" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.ib_section_bbl != blank -%}
+		{% assign img_url = section.settings.ib_section_bbl | image_url: width: 500 %}
+    	<img class="ib-cover-bl" src="{{ img_url }}" alt=""/>
+    {%- endif -%}
+    {%- if section.settings.ib_section_bbr != blank -%}
+		{% assign img_url = section.settings.ib_section_bbr | image_url: width: 500 %}
+    	<img class="ib-cover-br" src="{{ img_url }}" alt=""/>
+	{%- endif -%}
+    
+    <div class="{{ section.settings.ib_section_style }}">
+    
+      {%- if section.settings.ib_section_style == 'style-1' -%} 
+
+          {%- if section.settings.ib_section_heading != blank -%}      
+                <div class="ib-section-heading" style="color:{{ section.settings.ib_section_heading_color }};">{{ section.settings.ib_section_heading }}</div>
+          {%- endif -%} 
+      
+          {%- if section.settings.ib_section_title != blank -%}      
+                <h2 class="ib-section-title" style="color:{{ section.settings.ib_section_title_color }};">{{ section.settings.ib_section_title }}</h2>
+          {%- endif -%}   
+
+          {%- if section.settings.ib_section_text != blank -%}      
+                <div class="ib-section-text" style="color:{{ section.settings.ib_section_text_color }};">{{ section.settings.ib_section_text }}</div>
+          {%- endif -%}  
+
+          <div class="ib-blocks-wrapper">      
+            {%- for block in section.blocks -%}
+              <div class="ib-block-wrapper {{ section.settings.ib_section_columns }}" {{ block.shopify_attributes }} data-aos="row-of-3">
+                  {%- if block.settings.ib_image != blank -%}
+                      <div class="image-wrap">
+                        <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                          {% assign img_url = block.settings.ib_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}
+                          <img class="lazyload grid__image-cover"
+                               data-src="{{ img_url }}"
+                               data-widths="[360, 540, 720, 900, 1080]"
+                               data-aspectratio="{{ block.settings.ib_image.aspect_ratio }}"
+                               data-sizes="auto"
+                               alt="{{ block.settings.ib_image.alt | escape }}">
+                          <a href="{{ block.settings.ib_link }}" class="ib-link-button" aria-label="{{ block.settings.title }}">
+                            {{ block.settings.ib_link_label }}
+                          </a>
+                          
+                          {%- if block.settings.ib_show_bubble -%}
+                          	<div class="ib-image-bubble" style="background-color:{{ block.settings.ib_bubble_color }};">
+                              <div class="ib-image-bubble-text" style="color:{{ block.settings.ib_bubble_text_color }}">{{ block.settings.ib_bubble_text }}</div>
+                          	</div>
+                          {%- endif -%}
+                        </div>
+                        <noscript>
+                          <img class="lazyloaded" src="{{ block.settings.ib_image | img_url: '400x' }}" alt="{{ block.settings.title | escape }}">
+                        </noscript>
+                      </div>
+                      {%- if block.settings.ib_title != blank -%}	
+                          <div class="ib-image-title">
+                              {{ block.settings.ib_title }}  
+                          </div>
+                      {%- endif -%}
+                      {%- if block.settings.ib_subtitle != blank -%}	
+                          <div class="ib-image-subtitle">
+                              {{ block.settings.ib_subtitle }}  
+                          </div>
+                      {%- endif -%}
+                      {%- if block.settings.ib_text != blank -%}	
+                          <div class="ib-image-text">
+                              {{ block.settings.ib_text }}  
+                          </div>
+                      {%- endif -%}
+
+                  {%- else -%}
+                    <div class="image-wrap">
+                      <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                        {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                      </div>
+                    </div>
+                  {%- endif -%}
+              </div>
+
+            {%- endfor -%}
+          </div>
+
+      {%- elsif section.settings.ib_section_style == 'style-2' -%} 
+
+          {%- if section.settings.ib_section_heading != blank -%}      
+                <div class="ib-section-heading" style="color:{{ section.settings.ib_section_heading_color }};">{{ section.settings.ib_section_heading }}</div>
+          {%- endif -%} 
+      
+          {%- if section.settings.ib_section_title != blank -%}      
+                <h2 class="ib-section-title" style="color:{{ section.settings.ib_section_title_color }};">{{ section.settings.ib_section_title }}</h2>
+          {%- endif -%}   
+
+          {%- if section.settings.ib_section_text != blank -%}      
+                <div class="ib-section-text" style="color:{{ section.settings.ib_section_text_color }};">{{ section.settings.ib_section_text }}</div>
+          {%- endif -%}  
+
+          <div class="ib-blocks-wrapper">      
+            {%- for block in section.blocks -%}
+              <div class="ib-block-wrapper {{ section.settings.ib_section_columns }}" {{ block.shopify_attributes }} data-aos="row-of-3">
+                  <a href="{{ block.settings.ib_link }}" class="ib-full-link" aria-label="{{ block.settings.ib_link_label }}" title="{{ block.settings.ib_link_label }}">
+                      {%- if block.settings.ib_image != blank -%}
+                        <div class="image-wrap">
+                          <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                            {% assign img_url = block.settings.ib_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}
+                            <img class="lazyload grid__image-cover"
+                                 data-src="{{ img_url }}"
+                                 data-widths="[360, 540, 720, 900, 1080]"
+                                 data-aspectratio="{{ block.settings.ib_image.aspect_ratio }}"
+                                 data-sizes="auto"
+                                 alt="{{ block.settings.ib_image.alt | escape }}">
+                            
+                            {%- if block.settings.ib_show_bubble -%}
+                              <div class="ib-image-bubble" style="background-color:{{ block.settings.ib_bubble_color }};">
+                                <div class="ib-image-bubble-text" style="color:{{ block.settings.ib_bubble_text_color }}">{{ block.settings.ib_bubble_text }}</div>
+                              </div>
+                            {%- endif -%}
+                          </div>
+                          <noscript>
+                            <img class="lazyloaded" src="{{ block.settings.ib_image | img_url: '400x' }}" alt="{{ block.settings.title | escape }}">
+                          </noscript>
+
+                          {%- if block.settings.ib_title != blank -%}	
+                            <div class="ib-image-title">
+                              {{ block.settings.ib_title }}  
+                            </div>
+                          {%- endif -%}
+                          {%- if block.settings.ib_text != blank -%}	
+                            <div class="ib-image-text">
+                              {{ block.settings.ib_text }}  
+                            </div>
+                          {%- endif -%}
+                          {%- if block.settings.ib_subtitle != blank -%}	
+                            <div class="ib-image-subtitle">
+                              {{ block.settings.ib_subtitle }}  
+                            </div>
+                          {%- endif -%}
+
+                          <div class="ib-border-layer"></div>
+                        </div>
+
+                    {%- else -%}
+                      <div class="image-wrap">
+                        <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                          {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                        </div>
+                      </div>
+                    {%- endif -%}
+                </a>
+              </div>
+            {%- endfor -%}
+          </div>
+
+      {%- elsif section.settings.ib_section_style == 'style-3' -%} 
+
+          {%- if section.settings.ib_section_heading != blank -%}      
+                <div class="ib-section-heading" style="color:{{ section.settings.ib_section_heading_color }};">{{ section.settings.ib_section_heading }}</div>
+          {%- endif -%} 
+      
+          {%- if section.settings.ib_section_title != blank -%}      
+                <h2 class="ib-section-title" style="color:{{ section.settings.ib_section_title_color }};">{{ section.settings.ib_section_title }}</h2>
+          {%- endif -%}   
+
+          {%- if section.settings.ib_section_text != blank -%}      
+                <div class="ib-section-text" style="color:{{ section.settings.ib_section_text_color }};">{{ section.settings.ib_section_text }}</div>
+          {%- endif -%}  
+
+          <div class="ib-blocks-wrapper">      
+            {%- for block in section.blocks -%}
+              <div class="ib-block-wrapper {{ section.settings.ib_section_columns }}" {{ block.shopify_attributes }} data-aos="row-of-3">
+                  {%- if block.settings.ib_image != blank -%}
+                      <div class="image-wrap">
+                        <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                          <div class="ib-image-cover"></div>                        
+                          {% assign img_url = block.settings.ib_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}
+                          <img class="lazyload grid__image-cover"
+                               data-src="{{ img_url }}"
+                               data-widths="[360, 540, 720, 900, 1080]"
+                               data-aspectratio="{{ block.settings.ib_image.aspect_ratio }}"
+                               data-sizes="auto"
+                               alt="{{ block.settings.ib_image.alt | escape }}">
+                          
+                          {%- if block.settings.ib_show_bubble -%}
+                          	<div class="ib-image-bubble" style="background-color:{{ block.settings.ib_bubble_color }};">
+                              <div class="ib-image-bubble-text" style="color:{{ block.settings.ib_bubble_text_color }}">{{ block.settings.ib_bubble_text }}</div>
+                          	</div>
+                          {%- endif -%}
+                          
+                          <div class="ib-data-wrapper">
+                            {%- if block.settings.ib_title != blank -%}	
+                                <div class="ib-image-title">
+                                    {{ block.settings.ib_title }}  
+                                </div>
+                            {%- endif -%}
+                            {%- if block.settings.ib_subtitle != blank -%}	
+                                <div class="ib-image-subtitle">
+                                    {{ block.settings.ib_subtitle }}  
+                                </div>
+                            {%- endif -%}
+                            <a href="{{ block.settings.ib_link }}" class="ib-link-button" aria-label="{{ block.settings.ib_link_label }}">
+                              {{ block.settings.ib_link_label }}
+                            </a>
+                          </div>
+                        </div>
+                        <noscript>
+                          <img class="lazyloaded" src="{{ block.settings.ib_image | img_url: '400x' }}" alt="{{ block.settings.title | escape }}">
+                        </noscript>
+                        <div class="ib-border-layer"></div>
+                      </div>                     
+                  {%- else -%}
+                    <div class="image-wrap">
+                      <div class="grid__image-ratio grid__image-ratio--{{ section.settings.image_size }}">
+                        {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                      </div>
+                    </div>
+                  {%- endif -%}
+              </div>
+            {%- endfor -%}
+          </div>
+
+      {%- endif -%} 
+      
+    </div>
+        
+  </div>
+
+{%- endif -%}
+
+
+{% schema %}
+  {
+    "name": "Image Box Columns",
+    "class": "index-section--box-columns",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Section Items"
+      },{
+        "type": "text",
+        "id": "ib_section_heading",
+        "label": "Section Heading",
+		"default": "Section Heading"
+      },{
+        "type": "color",
+        "id": "ib_section_heading_color",
+        "label": "Heading Color",
+        "default": "#000000"
+      },{
+        "type": "text",
+        "id": "ib_section_title",
+        "label": "Section Title",
+		"default": "Section Title"
+      },{
+        "type": "color",
+        "id": "ib_section_title_color",
+        "label": "Title Color",
+        "default": "#000000"
+      },{
+        "type": "textarea",
+        "id": "ib_section_text",
+        "label": "Section Text",
+		"default": "This is some sample text"
+      },{
+        "type": "color",
+        "id": "ib_section_text_color",
+        "label": "Text Color",
+        "default": "#000000"
+      },{
+        "type": "select",
+        "id": "ib_section_columns",
+        "label": "Number of Columns",
+        "default": "col-3",
+        "options": [
+          {
+            "value": "col-2",
+            "label": "2 Columns"
+          },
+          {
+            "value": "col-3",
+            "label": "3 Columns"
+          },
+          {
+            "value": "col-4",
+            "label": "4 Columns"
+          }
+        ]
+      },{
+        "type": "select",
+        "id": "ib_section_style",
+        "label": "Style",
+        "default": "style-1",
+        "options": [
+          {
+            "value": "style-1",
+            "label": "Style 1"
+          },
+          {
+            "value": "style-2",
+            "label": "Style 2"
+          },
+          {
+            "value": "style-3",
+            "label": "Style 3"
+          }
+        ]
+      },{
+        "type": "select",
+        "id": "image_size",
+        "label": "Image Size",
+        "default": "wide",
+        "options": [
+          {
+            "value": "square",
+            "label": "Square (1:1)"
+          },
+          {
+            "value": "landscape",
+            "label": "Landscape (4:3)"
+          },
+          {
+            "value": "portrait",
+            "label": "Portrait (2:3)"
+          },
+          {
+            "value": "wide",
+            "label": "Wide (16:9)"
+          }
+        ]
+      },{
+        "type": "header",
+        "content": "Background Items"
+      },{
+        "type": "color",
+        "id": "ib_section_background_color",
+        "label": "Background Color",
+        "default": "#FFFFFF"
+      },{
+        "type": "image_picker",
+        "id": "ib_section_btl",
+        "label": "Background Image - Top Left"
+      },{
+        "type": "image_picker",
+        "id": "ib_section_btr",
+        "label": "Background Image - Top Right"
+      },{
+        "type": "image_picker",
+        "id": "ib_section_bbl",
+        "label": "Background Image - Bottom Left"
+      },{
+        "type": "image_picker",
+        "id": "ib_section_bbr",
+        "label": "Background Image - Bottom Right"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Image Box Columns",
+        "category": "Custom"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "image-box",
+        "name": "Image Box",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "ib_image",
+            "label": "Image"
+          },{
+            "type": "text",
+            "id": "ib_title",
+            "label": "Title",
+            "default": "Test Title"
+          },{
+            "type": "text",
+            "id": "ib_subtitle",
+            "label": "Sub Title",
+            "default": "Test Sub Title"
+          },{
+            "type": "richtext",
+            "id": "ib_text",
+            "label": "Text",
+            "default": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>"
+          },{
+            "type": "text",
+            "id": "ib_link_label",
+            "label": "Link Label",
+            "default": "Optional Link"
+          },{
+            "type": "url",
+            "id": "ib_link",
+            "label": "Link"
+          },{
+            "type": "checkbox",
+            "id": "ib_show_bubble",
+            "label": "Show Corner Bubble"
+          },{
+            "type": "color",
+            "id": "ib_bubble_color",
+            "label": "Bubble Color",
+			"default":"#43bee5"
+          },{
+            "type": "text",
+            "id": "ib_bubble_text",
+            "label": "Bubble Text"
+          },{
+            "type": "color",
+            "id": "ib_bubble_text_color",
+            "label": "Bubble Text Color",
+			"default":"#ffffff"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

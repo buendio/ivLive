@@ -1,0 +1,133 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1660270657edbad3ca": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1660270657af37683f-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Live Online Brain-Building Classes for Ages 3-5",
+            "title_size": 80,
+            "subheading": "Learn and interact directly from the best and brightest US University students",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/PARALLAX_HEADER_Tutoring.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1660270657af37683f-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1660335436ca317384": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1660270828c21a2ff6": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1660270828708b45f4-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>45 minute classes <\/strong>offered throughout the week<\/p><p>Learn from instructors at <strong>Top US Universities<\/strong><\/p><p>Ability to <strong>drop in and attend <\/strong>classes throughout the week<\/p><p>Curriculum designed for kids <strong>ages 3 to 5 <\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1660270828708b45f4-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "166027197823545020": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "16602719782dfce8e4-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16602719782dfce8e4-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "166034469727a491a3": {
+      "type": "advanced-content",
+      "blocks": {
+        "1660344697fe36c7fc-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<script charset=\"utf-8\" type=\"text\/javascript\" src=\"\/\/js.hsforms.net\/forms\/v2.js\"><\/script>\n<script>\n  hbspt.forms.create({\n    region: \"na1\",\n    portalId: \"8655579\",\n    formId: \"8b71546a-d0f8-440e-99d5-e2fa545d8191\"\n  });\n<\/script>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "1660344697fe36c7fc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2nd_e3c4b93e-a6f8-4166-8b2a-6c48884ea030.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1660344697fe36c7fc-1",
+        "1660344697fe36c7fc-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1660270657edbad3ca",
+    "1660335436ca317384",
+    "1660270828c21a2ff6",
+    "166027197823545020",
+    "166034469727a491a3"
+  ]
+}

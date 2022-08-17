@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1655818889d02ca88f": {
+      "type": "advanced-content",
+      "blocks": {
+        "165581888970ddaace-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div data-tf-widget=\"rXd7E1Ck\" data-tf-iframe-props=\"title=SU22 Cairo Parent Info\" data-tf-medium=\"snippet\" style=\"width:100%;height:800px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165581888970ddaace-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655818889d02ca88f"
+  ]
+}

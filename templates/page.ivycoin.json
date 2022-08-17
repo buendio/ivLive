@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1658968696f718bb6e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IvyCoin_2.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "What Is IvyCoin?",
+        "text": "<p>IvyCoin originated as part of our in-person summer camps and we now have made it available to students who attend our online classes and camps. Students have the opportunity to earn a variety of unique digital IvyCoins by being active and engaged in class. They also can earn IvyCoins for being well behaved and working well with others. <\/p><p>As students attend more classes and camps, they can collect IvyCoins and try to rank atop the leaderboard below. Throughout the IvyCamps journey they can hit milestones of 50, 100, 250, and 500 IvyCoins, which allows students to obtain various prizes below as awards for their dedication and achievements.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16589696213c94a8db": {
+      "type": "advanced-content",
+      "blocks": {
+        "1658969621e1fbe4ca-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1658969621e1fbe4ca-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "165896884611b435be": {
+      "type": "advanced-content",
+      "blocks": {
+        "16589688462c27cf79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leaderboard-1.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16589688462c27cf79-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "1658969586c14bcdf1": {
+      "type": "advanced-content",
+      "blocks": {
+        "1658969586b92541de-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1658969586b92541de-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "165896854943099519": {
+      "type": "rich-text",
+      "blocks": {
+        "165896854941a1a844-0": {
+          "type": "heading",
+          "settings": {
+            "title": "IvyCoin Prizes"
+          }
+        },
+        "165896854941a1a844-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Once a student hits 50 coins, they can contact us at <a href=\"mailto:info@ivycamps.org\"><span style=\"text-decoration:underline\">info@ivycamps.org<\/span><\/a> to redeem their first prize.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165896854941a1a844-0",
+        "165896854941a1a844-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1658968301d6697323": {
+      "type": "text-columns",
+      "blocks": {
+        "16589683011f2ecd18-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Prize-1.png",
+            "image_width": 450,
+            "title": "Squishmallow or Pop-It Toy Mystery Box",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16589683011f2ecd18-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Prize-2.png",
+            "image_width": 450,
+            "title": "Ivy Camps USA T-Shirt & Hat",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16589683011f2ecd18-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Prize-3.png",
+            "image_width": 450,
+            "title": "Ivy Camps USA Sweatshirt",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9c113adf-cba5-4d87-93df-73ed3a11c964": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Prize-4.png",
+            "image_width": 450,
+            "title": "Nintendo Switch, iPad Mini, or Lego Mindstorm",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16589683011f2ecd18-0",
+        "16589683011f2ecd18-1",
+        "16589683011f2ecd18-2",
+        "9c113adf-cba5-4d87-93df-73ed3a11c964"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1658968696f718bb6e",
+    "16589696213c94a8db",
+    "165896884611b435be",
+    "1658969586c14bcdf1",
+    "165896854943099519",
+    "1658968301d6697323"
+  ]
+}
